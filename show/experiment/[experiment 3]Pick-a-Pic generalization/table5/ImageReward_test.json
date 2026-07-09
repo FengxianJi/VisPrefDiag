@@ -1,0 +1,902 @@
+[
+  {
+    "sample_id": 0,
+    "caption": "A curious cat exploring a haunted mansion",
+    "imagereward_0": 0.6988819241523743,
+    "imagereward_1": 0.41984766721725464,
+    "label_0": 0,
+    "label_1": 1,
+    "are_different": 1
+  },
+  {
+    "sample_id": 1,
+    "caption": "a spanish water dog breed as arthur morgan from red dead redemption",
+    "imagereward_0": 1.4450103044509888,
+    "imagereward_1": 0.09443292021751404,
+    "label_0": 1,
+    "label_1": 0,
+    "are_different": 1
+  },
+  {
+    "sample_id": 2,
+    "caption": "Portrait of a 26yr white woman, hyper-detailed, extremely ashamed, soft skin",
+    "imagereward_0": 1.185042142868042,
+    "imagereward_1": 0.7656254172325134,
+    "label_0": 1,
+    "label_1": 0,
+    "are_different": 1
+  },
+  {
+    "sample_id": 3,
+    "caption": "zentai",
+    "imagereward_0": -1.0978994369506836,
+    "imagereward_1": -0.27525103092193604,
+    "label_0": 1,
+    "label_1": 0,
+    "are_different": 1
+  },
+  {
+    "sample_id": 4,
+    "caption": "A close-up photograph of a fat orange cat with lasagna in its mouth. Shot on Leica M6.",
+    "imagereward_0": 1.6321955919265747,
+    "imagereward_1": 0.7233871817588806,
+    "label_0": 1,
+    "label_1": 0,
+    "are_different": 0
+  },
+  {
+    "sample_id": 5,
+    "caption": "toilet design toilet in style of dodge charger toilet, black, photo",
+    "imagereward_0": -0.6772673726081848,
+    "imagereward_1": -1.9078797101974487,
+    "label_0": 1,
+    "label_1": 0,
+    "are_different": 0
+  },
+  {
+    "sample_id": 6,
+    "caption": "an attractive young woman rolling her eyes",
+    "imagereward_0": -0.21278443932533264,
+    "imagereward_1": -1.7105822563171387,
+    "label_0": 1,
+    "label_1": 0,
+    "are_different": 0
+  },
+  {
+    "sample_id": 7,
+    "caption": "RAW photo, aristocratic russian noblewoman, dressed in medieval dress, model face, come hither gesture, medieval mansion, medieval nobility, slim body, high detailed skin, 8k uhd, dslr, soft lighting, high quality, film grain, Fujifilm XT3",
+    "imagereward_0": 1.1507481336593628,
+    "imagereward_1": 1.2784548997879028,
+    "label_0": 1,
+    "label_1": 0,
+    "are_different": 0
+  },
+  {
+    "sample_id": 8,
+    "caption": "Movie Still of The Joker wielding a red Lightsaber, Darth Joker a sinister evil clown prince of crime, HD Photograph",
+    "imagereward_0": 1.3896517753601074,
+    "imagereward_1": 1.6339929103851318,
+    "label_0": 1,
+    "label_1": 0,
+    "are_different": 1
+  },
+  {
+    "sample_id": 9,
+    "caption": "The official portrait of an authoritarian president of an alternate america in 1960, in the style of pan am advertisements, looking up, jet age,",
+    "imagereward_0": 0.8310606479644775,
+    "imagereward_1": 1.0025806427001953,
+    "label_0": 1,
+    "label_1": 0,
+    "are_different": 1
+  },
+  {
+    "sample_id": 10,
+    "caption": "Beautiful young girl in the pool",
+    "imagereward_0": 0.5377994179725647,
+    "imagereward_1": 0.20945031940937042,
+    "label_0": 1,
+    "label_1": 0,
+    "are_different": 0
+  },
+  {
+    "sample_id": 11,
+    "caption": "an cherry-colored dream, a fantasy painting",
+    "imagereward_0": 0.9924103021621704,
+    "imagereward_1": 0.44438597559928894,
+    "label_0": 1,
+    "label_1": 0,
+    "are_different": 0
+  },
+  {
+    "sample_id": 12,
+    "caption": "Sign that says DON’T FART",
+    "imagereward_0": -0.007080903276801109,
+    "imagereward_1": 0.8500080704689026,
+    "label_0": 0,
+    "label_1": 1,
+    "are_different": 1
+  },
+  {
+    "sample_id": 13,
+    "caption": "milim, pink hair, that awesome time i got reincarnated as a slime",
+    "imagereward_0": -0.4803371727466583,
+    "imagereward_1": 0.4851750433444977,
+    "label_0": 0,
+    "label_1": 1,
+    "are_different": 0
+  },
+  {
+    "sample_id": 14,
+    "caption": "Orisa",
+    "imagereward_0": -1.2224762439727783,
+    "imagereward_1": -0.5990745425224304,
+    "label_0": 1,
+    "label_1": 0,
+    "are_different": 1
+  },
+  {
+    "sample_id": 15,
+    "caption": "full glass of water standing on a mountain",
+    "imagereward_0": 1.887374758720398,
+    "imagereward_1": 1.8675596714019775,
+    "label_0": 1,
+    "label_1": 0,
+    "are_different": 0
+  },
+  {
+    "sample_id": 16,
+    "caption": "Card Magic the gathering style of tom whalen022 2e SM Ricardo. Lavage du char au gazole a Biesheim.",
+    "imagereward_0": 0.6884067058563232,
+    "imagereward_1": -0.4917515516281128,
+    "label_0": 0,
+    "label_1": 1,
+    "are_different": 0
+  },
+  {
+    "sample_id": 17,
+    "caption": "Gonewild imgur A beautiful woman with bare tiddies big 🍈🍈🍆💦🫦 open legs, outside on a cold morning",
+    "imagereward_0": -1.0568013191223145,
+    "imagereward_1": 0.7905147671699524,
+    "label_0": 1,
+    "label_1": 0,
+    "are_different": 1
+  },
+  {
+    "sample_id": 18,
+    "caption": "Painting of melted gemstones metallic sculpture with electrifying god rays brane bejeweled style",
+    "imagereward_0": 0.2624601721763611,
+    "imagereward_1": -1.2744321823120117,
+    "label_0": 1,
+    "label_1": 0,
+    "are_different": 1
+  },
+  {
+    "sample_id": 19,
+    "caption": "a majestic vicious dragon habitat landscape, boss fight scene, refractions, realistic, cinematic lighting, antview, natural, horrific atmosphere, sharp focus",
+    "imagereward_0": 1.468062162399292,
+    "imagereward_1": 1.594944953918457,
+    "label_0": 1,
+    "label_1": 0,
+    "are_different": 0
+  },
+  {
+    "sample_id": 20,
+    "caption": "Forest survey scope springtime",
+    "imagereward_0": 0.13848145306110382,
+    "imagereward_1": 0.07253251224756241,
+    "label_0": 1,
+    "label_1": 0,
+    "are_different": 0
+  },
+  {
+    "sample_id": 21,
+    "caption": "Anime style. Girl at a wood table",
+    "imagereward_0": 1.5193918943405151,
+    "imagereward_1": 1.4580141305923462,
+    "label_0": 0,
+    "label_1": 1,
+    "are_different": 0
+  },
+  {
+    "sample_id": 22,
+    "caption": "Warrior with an axe on a exotic animal with long hair style loisel",
+    "imagereward_0": 1.4617547988891602,
+    "imagereward_1": 1.7193281650543213,
+    "label_0": 1,
+    "label_1": 0,
+    "are_different": 1
+  },
+  {
+    "sample_id": 23,
+    "caption": "Rainy evening outside the window, realistic photos,Rainy window, evening, blurred silhouettes outside the window",
+    "imagereward_0": -0.0938090905547142,
+    "imagereward_1": 0.36402931809425354,
+    "label_0": 1,
+    "label_1": 0,
+    "are_different": 0
+  },
+  {
+    "sample_id": 24,
+    "caption": "sill life photo of a apple",
+    "imagereward_0": 0.8609802722930908,
+    "imagereward_1": 1.0808674097061157,
+    "label_0": 0,
+    "label_1": 1,
+    "are_different": 0
+  },
+  {
+    "sample_id": 25,
+    "caption": "ancient prayer figures pond sitter bouldartmoor carra, Christian Krohg, melancholia",
+    "imagereward_0": 0.8435492515563965,
+    "imagereward_1": 1.4879270792007446,
+    "label_0": 1,
+    "label_1": 0,
+    "are_different": 0
+  },
+  {
+    "sample_id": 26,
+    "caption": "futuristic grand fort made out of white marble and extremely intricate carvings across the structure on a martian mountain with fountains and greenery all around",
+    "imagereward_0": -0.7264344096183777,
+    "imagereward_1": -0.9148950576782227,
+    "label_0": 0,
+    "label_1": 1,
+    "are_different": 1
+  },
+  {
+    "sample_id": 27,
+    "caption": "Exterior Photography of gigantic interstellar spaceship docked in space station.  by Ridley Scott. depth, cables, pipes. film grain, hyper detailed, 16k, shot on Fujifilm GFX 50r. cinematic, broken parts, maximum detail, soft lighting",
+    "imagereward_0": 0.3642241060733795,
+    "imagereward_1": -0.9976209998130798,
+    "label_0": 1,
+    "label_1": 0,
+    "are_different": 1
+  },
+  {
+    "sample_id": 28,
+    "caption": "Cinematographic 1970s photoportrait carshow spaceship  Jacques Chirac Flintstones RPR vatican space program moebius capsule launchpad old-priest bows-low anglican-tiara-mitre Archbishops thunderbirds-balenciaga Astronaut papal official leica hasselblad photograph in Vatican royal helmet gold metal scaphandre launchpad pointy oxygen hazmat gloves helmet",
+    "imagereward_0": -0.28548935055732727,
+    "imagereward_1": 0.047849055379629135,
+    "label_0": 0,
+    "label_1": 1,
+    "are_different": 1
+  },
+  {
+    "sample_id": 29,
+    "caption": "A cute anime girl with blue eyes standing in a pine forest wearing a black dress",
+    "imagereward_0": 1.1360158920288086,
+    "imagereward_1": -1.0294122695922852,
+    "label_0": 1,
+    "label_1": 0,
+    "are_different": 1
+  },
+  {
+    "sample_id": 30,
+    "caption": "Portrait, Close Up,Intricate Realistic 3D Render, Portrait Of A 10 Year Old Extremely Handsome, Masculine, Smiling Lord Krishna, Sharp Bright Big Eyes And Pupils Intricate, Elegant, Dramatic Lighting, Highly Detailed, Intricate, Highly Detailed, Dramatic, Artstation, Concept Art, Matte, 4k Resolution, , Professional Color Grading, Soft Shadows, No Contrast, Clean Sharp Focus,GLOBAL ILLUMINATION Sharp Focus, Illustration, Art By Alphonse Mucha, Art Nouvau,, Absurdres,Hdr",
+    "imagereward_0": 1.478929877281189,
+    "imagereward_1": 0.21544548869132996,
+    "label_0": 1,
+    "label_1": 0,
+    "are_different": 0
+  },
+  {
+    "sample_id": 31,
+    "caption": "cinematic still of highly reflective stainless steel train in the desert, at sunset",
+    "imagereward_0": 1.8786917924880981,
+    "imagereward_1": 1.8337624073028564,
+    "label_0": 0,
+    "label_1": 1,
+    "are_different": 1
+  },
+  {
+    "sample_id": 32,
+    "caption": "dark fairy with an owl in Cottagecore style",
+    "imagereward_0": 1.7768999338150024,
+    "imagereward_1": 1.7722485065460205,
+    "label_0": 1,
+    "label_1": 0,
+    "are_different": 0
+  },
+  {
+    "sample_id": 33,
+    "caption": "a wide angle photo aerial view misty fires of fighting roman centurions in front of courtyard  arena roman buildings,roofs houses, gladiators, marble  gold,galea roman soldier in foreground masculine features nose helmet and silver sword ,eyes,clear sky, metal boots ,intricate embossed armour arches grass steps field panorama,Canaletto,stone floor,",
+    "imagereward_0": -0.8083414435386658,
+    "imagereward_1": -0.3108254075050354,
+    "label_0": 1,
+    "label_1": 0,
+    "are_different": 1
+  },
+  {
+    "sample_id": 34,
+    "caption": "A cat, chubby, very fine wispy and extremely long swirly wavy fur, under water, Kuniyoshi Utagawa, Hishida Shunsō, a very curvy chubby cat, golden embroidery fabric kimono, flowing glowing biomorphic wisps, phosphorescent swirls, tendrils, wavelets, streamers, a murmuration of bioluminescent bubbles, ,  detailed and intricate, elegant aesthetic, ornate, finely detailed, 128K UHD  Unreal Engine, octane, fractal pi, fBm",
+    "imagereward_0": -1.4269415140151978,
+    "imagereward_1": 1.018909215927124,
+    "label_0": 0,
+    "label_1": 1,
+    "are_different": 1
+  },
+  {
+    "sample_id": 35,
+    "caption": "a cartoonish programmer drawing computer codes on the computer screen with brushes in their hand.",
+    "imagereward_0": 0.2742289900779724,
+    "imagereward_1": -0.7752934098243713,
+    "label_0": 1,
+    "label_1": 0,
+    "are_different": 1
+  },
+  {
+    "sample_id": 36,
+    "caption": "A gigantic of a yellow glowing male angel guardian many wings holding sword, impossibly bright and giant megalophobia, glowing floating in the air in front of a portal to paradise, night time, guardian, heavenly,  featured on artstation, best quality, wallpaper, 8k, pretty, concept art, fine-detail, scp",
+    "imagereward_0": 1.7523143291473389,
+    "imagereward_1": 1.663794755935669,
+    "label_0": 1,
+    "label_1": 0,
+    "are_different": 0
+  },
+  {
+    "sample_id": 37,
+    "caption": "anime portrait of a beautiful vamire witch, sci fi suit, intricate, elegant, highly detailed, digital painting, artstation, concept art, smooth, sharp focus, illustration, art by grep rutkowski and ]]",
+    "imagereward_0": 1.0092264413833618,
+    "imagereward_1": 1.013146162033081,
+    "label_0": 1,
+    "label_1": 0,
+    "are_different": 1
+  },
+  {
+    "sample_id": 38,
+    "caption": "Sign that says DON’T FART",
+    "imagereward_0": 1.0600591897964478,
+    "imagereward_1": -0.8633378744125366,
+    "label_0": 1,
+    "label_1": 0,
+    "are_different": 1
+  },
+  {
+    "sample_id": 39,
+    "caption": "photo of a slim asian little girl ballerina with long hair wearing white tights running on a beach, from behind, nikon D5",
+    "imagereward_0": 1.8811596632003784,
+    "imagereward_1": 1.688341736793518,
+    "label_0": 1,
+    "label_1": 0,
+    "are_different": 0
+  },
+  {
+    "sample_id": 40,
+    "caption": "Shy beautiful slim blonde female thin natural female tenage girl with trained muscles",
+    "imagereward_0": 0.45789697766304016,
+    "imagereward_1": 0.6896700859069824,
+    "label_0": 0,
+    "label_1": 1,
+    "are_different": 0
+  },
+  {
+    "sample_id": 41,
+    "caption": "A sign that says \"Hatsune Miku es real\"",
+    "imagereward_0": -0.1655423790216446,
+    "imagereward_1": 1.5797630548477173,
+    "label_0": 0,
+    "label_1": 1,
+    "are_different": 0
+  },
+  {
+    "sample_id": 42,
+    "caption": "Sport team, wolf head, , 2d, vector illustration, logo, 2d flat, centered, fitness company, white background, paul rand",
+    "imagereward_0": 0.7041049599647522,
+    "imagereward_1": 0.5166049003601074,
+    "label_0": 1,
+    "label_1": 0,
+    "are_different": 0
+  },
+  {
+    "sample_id": 43,
+    "caption": "Copulation beautiful",
+    "imagereward_0": -2.128009080886841,
+    "imagereward_1": 0.37698864936828613,
+    "label_0": 1,
+    "label_1": 0,
+    "are_different": 1
+  },
+  {
+    "sample_id": 44,
+    "caption": "A close-up photograph of a fat orange cat with lasagna in its mouth. Shot on Leica M6.",
+    "imagereward_0": 1.6321955919265747,
+    "imagereward_1": -1.776404857635498,
+    "label_0": 1,
+    "label_1": 0,
+    "are_different": 1
+  },
+  {
+    "sample_id": 45,
+    "caption": "Sunset reflecting on a crystal ball, factory filled with android girls",
+    "imagereward_0": -1.2134146690368652,
+    "imagereward_1": 0.24944384396076202,
+    "label_0": 0,
+    "label_1": 1,
+    "are_different": 0
+  },
+  {
+    "sample_id": 46,
+    "caption": "Mascot logo of a whimsical creature with her mouth sewn shut, eyes in shock, scared, limbs restrained, gritty, grimy, extreme detail, realism, suspended, Medusa’s hair, serpents, snakes as hair, sitting, legs spread, death row records logo, square logo, death metal art, grunge style, worn and damaged, concert poster",
+    "imagereward_0": -0.33070215582847595,
+    "imagereward_1": -1.0895884037017822,
+    "label_0": 0,
+    "label_1": 1,
+    "are_different": 1
+  },
+  {
+    "sample_id": 47,
+    "caption": "insanely detailed portrait,female model, insane face details, perfect eyes,dof, dslr extremely intricate, high res,  8k,  award winning photography",
+    "imagereward_0": 1.3125035762786865,
+    "imagereward_1": 1.2941157817840576,
+    "label_0": 0,
+    "label_1": 1,
+    "are_different": 1
+  },
+  {
+    "sample_id": 48,
+    "caption": "Logo geometric business colorful minimalist’ write ”skill fit” on a logo",
+    "imagereward_0": 0.2578220069408417,
+    "imagereward_1": 0.5404744744300842,
+    "label_0": 0,
+    "label_1": 1,
+    "are_different": 1
+  },
+  {
+    "sample_id": 49,
+    "caption": "painting of a beautiful woman, painted by van Gogh, starry night",
+    "imagereward_0": -1.064009189605713,
+    "imagereward_1": 0.6745217442512512,
+    "label_0": 0,
+    "label_1": 1,
+    "are_different": 1
+  },
+  {
+    "sample_id": 50,
+    "caption": "an image of a ginger cat inside a tea cup, in blade runner, at the sea, professional photography",
+    "imagereward_0": 1.297072172164917,
+    "imagereward_1": 0.9119419455528259,
+    "label_0": 1,
+    "label_1": 0,
+    "are_different": 0
+  },
+  {
+    "sample_id": 51,
+    "caption": "a spaceship sprite on a flat background",
+    "imagereward_0": -0.5950691103935242,
+    "imagereward_1": -0.7655683755874634,
+    "label_0": 1,
+    "label_1": 0,
+    "are_different": 1
+  },
+  {
+    "sample_id": 52,
+    "caption": "fantasy art of a huntress shooting a bow",
+    "imagereward_0": 1.7700164318084717,
+    "imagereward_1": 1.1385999917984009,
+    "label_0": 1,
+    "label_1": 0,
+    "are_different": 1
+  },
+  {
+    "sample_id": 53,
+    "caption": "cinematic still of highly reflective stainless steel train in the desert, at sunset",
+    "imagereward_0": 0.5512366890907288,
+    "imagereward_1": 1.750858187675476,
+    "label_0": 0,
+    "label_1": 1,
+    "are_different": 1
+  },
+  {
+    "sample_id": 54,
+    "caption": "olympic swimming pool",
+    "imagereward_0": 1.5747803449630737,
+    "imagereward_1": 1.629652500152588,
+    "label_0": 1,
+    "label_1": 0,
+    "are_different": 0
+  },
+  {
+    "sample_id": 55,
+    "caption": "the text \"brendan\"",
+    "imagereward_0": 0.5564836263656616,
+    "imagereward_1": 0.5487968921661377,
+    "label_0": 1,
+    "label_1": 0,
+    "are_different": 1
+  },
+  {
+    "sample_id": 56,
+    "caption": "Photo of a cat eating a burger like a person",
+    "imagereward_0": 1.563239574432373,
+    "imagereward_1": -1.4519404172897339,
+    "label_0": 1,
+    "label_1": 0,
+    "are_different": 1
+  },
+  {
+    "sample_id": 57,
+    "caption": "a girl with long silver hair, she looks 15 old, wearing cute dress, anime-style",
+    "imagereward_0": 0.8063370585441589,
+    "imagereward_1": 1.785046935081482,
+    "label_0": 0,
+    "label_1": 1,
+    "are_different": 0
+  },
+  {
+    "sample_id": 58,
+    "caption": "Drumset",
+    "imagereward_0": 1.5920344591140747,
+    "imagereward_1": -2.0821151733398438,
+    "label_0": 1,
+    "label_1": 0,
+    "are_different": 1
+  },
+  {
+    "sample_id": 59,
+    "caption": "A photo of a tree with eggs growing on it",
+    "imagereward_0": 0.7191866636276245,
+    "imagereward_1": -0.9084685444831848,
+    "label_0": 1,
+    "label_1": 0,
+    "are_different": 1
+  },
+  {
+    "sample_id": 60,
+    "caption": "Picture of Gal gadot's face with Lanah Rhoades's body, showing entire body with legs spreaded dripping",
+    "imagereward_0": 0.16071948409080505,
+    "imagereward_1": -0.5169103145599365,
+    "label_0": 1,
+    "label_1": 0,
+    "are_different": 1
+  },
+  {
+    "sample_id": 61,
+    "caption": "In the foreground, a man stands upon a rocky precipice with his back to the viewer. He is wrapped in a dark green overcoat, and grips a walking stick in his right hand. His hair caught in a wind, the wanderer gazes out on a landscape covered in a thick sea of fog. In the middle ground, several other ridges, perhaps not unlike the ones the wanderer himself stands upon, jut out from the mass. Through the wreaths of fog, forests of trees can be perceived atop these escarpments. In the far distance, faded mountains rise in the left, gently leveling off into lowland plains in the right. Beyond here, the pervading fog stretches out indefinitely, eventually commingling with the horizon and becoming indistinguishable from the cloud-filled sky.",
+    "imagereward_0": 1.6232069730758667,
+    "imagereward_1": 1.7979053258895874,
+    "label_0": 1,
+    "label_1": 0,
+    "are_different": 1
+  },
+  {
+    "sample_id": 62,
+    "caption": "a closeup photo of a human hand",
+    "imagereward_0": -1.560549020767212,
+    "imagereward_1": -1.630415678024292,
+    "label_0": 1,
+    "label_1": 0,
+    "are_different": 0
+  },
+  {
+    "sample_id": 63,
+    "caption": "Photo dog animal Vladimir volegov beautiful blonde freckles woman sensual  eating dining table food cake desert background glass translucent view Eiffel tower warm glow neon fireflies fireworks night",
+    "imagereward_0": 0.7819710969924927,
+    "imagereward_1": 0.7774388790130615,
+    "label_0": 0,
+    "label_1": 1,
+    "are_different": 1
+  },
+  {
+    "sample_id": 64,
+    "caption": "Detailed Ink splash portrait of a  Lion: Alex maleev: Ashley Wood: Carne Griffiths: oil painting: high contrast: COLORFUL: 3D: ultra-fine details: dramatic lighting: fantastical: sharp focus: Daniel dociu: splash art: professional photography: Artur N. Kisteb: ZBrushCentral: finalRender: Unreal Engine 5: Trending on Artstation: Jeff Koons: Deep colors: deep depth of field",
+    "imagereward_0": 1.5584393739700317,
+    "imagereward_1": 1.6117782592773438,
+    "label_0": 0,
+    "label_1": 1,
+    "are_different": 0
+  },
+  {
+    "sample_id": 65,
+    "caption": "mechanical bee flying in nature, electronics, motors, wires, buttons, lcd",
+    "imagereward_0": 0.5535369515419006,
+    "imagereward_1": 1.1863096952438354,
+    "label_0": 1,
+    "label_1": 0,
+    "are_different": 1
+  },
+  {
+    "sample_id": 66,
+    "caption": "A beautiful gorgeous pretty ethereal you indian woman",
+    "imagereward_0": 0.980992317199707,
+    "imagereward_1": 1.6841291189193726,
+    "label_0": 0,
+    "label_1": 1,
+    "are_different": 1
+  },
+  {
+    "sample_id": 67,
+    "caption": "an attractive young woman rolling her eyes",
+    "imagereward_0": -1.464920997619629,
+    "imagereward_1": -1.2171499729156494,
+    "label_0": 1,
+    "label_1": 0,
+    "are_different": 0
+  },
+  {
+    "sample_id": 68,
+    "caption": "Beautiful young girl in the pool",
+    "imagereward_0": 1.0474506616592407,
+    "imagereward_1": -0.3445330858230591,
+    "label_0": 1,
+    "label_1": 0,
+    "are_different": 1
+  },
+  {
+    "sample_id": 69,
+    "caption": "Rachel Amber:1.5 wearing a black skirt. Thin body type, Young face, Sony Alpha A7 III, beautiful lighting and shadows, highly detailed, skin texture, skin pores, moles, wrinkles:0.1, muscle definition:0.2, perfect composition, beautiful face, beautiful eyes, highly detailed hair, professional, megapixel, RAW detail, UHD, Ray tracing, hair light, perfect pose",
+    "imagereward_0": 1.7236226797103882,
+    "imagereward_1": 0.036177609115839005,
+    "label_0": 0,
+    "label_1": 1,
+    "are_different": 1
+  },
+  {
+    "sample_id": 70,
+    "caption": "An edge chronicles, ottaline house by Chris Riddell",
+    "imagereward_0": -0.4599068760871887,
+    "imagereward_1": -0.16122180223464966,
+    "label_0": 0,
+    "label_1": 1,
+    "are_different": 1
+  },
+  {
+    "sample_id": 71,
+    "caption": "digital art, masterpiece, hyperrealism, Alice in Wonderland standing near large mushrooms with red caps covered in white spots, Disney:1.1,  psychedelic environment",
+    "imagereward_0": 1.816659688949585,
+    "imagereward_1": 1.0560184717178345,
+    "label_0": 1,
+    "label_1": 0,
+    "are_different": 0
+  },
+  {
+    "sample_id": 72,
+    "caption": "Vampire having Tea with Frankenstein's Monster",
+    "imagereward_0": 1.9046881198883057,
+    "imagereward_1": 1.1846574544906616,
+    "label_0": 0,
+    "label_1": 1,
+    "are_different": 1
+  },
+  {
+    "sample_id": 73,
+    "caption": "two porcelain dolls kissing each other, at the flea market, kissing on lips, sensible, eyes closed, close",
+    "imagereward_0": 0.8720348477363586,
+    "imagereward_1": 1.0336161851882935,
+    "label_0": 1,
+    "label_1": 0,
+    "are_different": 1
+  },
+  {
+    "sample_id": 74,
+    "caption": "Most Expensive Sports Car",
+    "imagereward_0": 0.02805909886956215,
+    "imagereward_1": 1.2172812223434448,
+    "label_0": 0,
+    "label_1": 1,
+    "are_different": 1
+  },
+  {
+    "sample_id": 75,
+    "caption": "art nouveau style, a crystal emperor moth with iridescent wings at the center of the universe with 7 Cosmic Rays emanating from it, futuristic, astrological, metaphysical, mystical, golden mean, HD 4K, sharp detail, photo-realistic",
+    "imagereward_0": 1.4992055892944336,
+    "imagereward_1": 0.6572827696800232,
+    "label_0": 1,
+    "label_1": 0,
+    "are_different": 1
+  },
+  {
+    "sample_id": 76,
+    "caption": "a young women with brown hair, wearing a black dress, walking through a busy shopping street",
+    "imagereward_0": 1.9244173765182495,
+    "imagereward_1": 1.6991740465164185,
+    "label_0": 0,
+    "label_1": 1,
+    "are_different": 0
+  },
+  {
+    "sample_id": 77,
+    "caption": "Black and white 1905 year futuristic portrait of professional photographer with camera in hand in a desert sadly covered by mushrooms",
+    "imagereward_0": -0.051131829619407654,
+    "imagereward_1": 1.2099931240081787,
+    "label_0": 0,
+    "label_1": 1,
+    "are_different": 1
+  },
+  {
+    "sample_id": 78,
+    "caption": "Olomouc",
+    "imagereward_0": -0.8999380469322205,
+    "imagereward_1": -0.6357488632202148,
+    "label_0": 1,
+    "label_1": 0,
+    "are_different": 1
+  },
+  {
+    "sample_id": 79,
+    "caption": "An orange-furred squirrel holds a red apple in its paws and offers it to a blue-feathered bird that is perched on a branch next to the squirrel.",
+    "imagereward_0": 0.045867953449487686,
+    "imagereward_1": 0.36307433247566223,
+    "label_0": 1,
+    "label_1": 0,
+    "are_different": 1
+  },
+  {
+    "sample_id": 80,
+    "caption": "A curious cat exploring a haunted mansion",
+    "imagereward_0": 0.4462767243385315,
+    "imagereward_1": 1.3652900457382202,
+    "label_0": 1,
+    "label_1": 0,
+    "are_different": 1
+  },
+  {
+    "sample_id": 81,
+    "caption": "Dragon, steampunk, monochromatic colour palette, painted by greg rutkowski, painted by igor kieryluk, painted by bobby chiu, trending on artstation",
+    "imagereward_0": 1.4797390699386597,
+    "imagereward_1": 0.6459341645240784,
+    "label_0": 1,
+    "label_1": 0,
+    "are_different": 1
+  },
+  {
+    "sample_id": 82,
+    "caption": "Realistic image of the pope francisco walking on the streets wearing supreme clothes",
+    "imagereward_0": 0.7562105655670166,
+    "imagereward_1": 0.7682523131370544,
+    "label_0": 1,
+    "label_1": 0,
+    "are_different": 0
+  },
+  {
+    "sample_id": 83,
+    "caption": "two porcelain dolls kissing each other, at the flea market, kissing on lips, sensible, eyes closed, close",
+    "imagereward_0": 1.3714970350265503,
+    "imagereward_1": 1.2768371105194092,
+    "label_0": 1,
+    "label_1": 0,
+    "are_different": 0
+  },
+  {
+    "sample_id": 84,
+    "caption": "Fru fru",
+    "imagereward_0": -1.0222206115722656,
+    "imagereward_1": -1.0483907461166382,
+    "label_0": 1,
+    "label_1": 0,
+    "are_different": 1
+  },
+  {
+    "sample_id": 85,
+    "caption": "flat design eye icon",
+    "imagereward_0": 0.3635633587837219,
+    "imagereward_1": 0.22807914018630981,
+    "label_0": 1,
+    "label_1": 0,
+    "are_different": 1
+  },
+  {
+    "sample_id": 86,
+    "caption": "background of a colorful giant mushroom forest in steven universe style",
+    "imagereward_0": 0.7529418468475342,
+    "imagereward_1": 1.386383056640625,
+    "label_0": 1,
+    "label_1": 0,
+    "are_different": 1
+  },
+  {
+    "sample_id": 87,
+    "caption": "cute anime neko cat girl",
+    "imagereward_0": -1.0029596090316772,
+    "imagereward_1": 1.8230583667755127,
+    "label_0": 0,
+    "label_1": 1,
+    "are_different": 1
+  },
+  {
+    "sample_id": 88,
+    "caption": "a man sitting at his desk, with silhouettes of his inner demons behind him",
+    "imagereward_0": -0.6795457601547241,
+    "imagereward_1": -0.022754428908228874,
+    "label_0": 0,
+    "label_1": 1,
+    "are_different": 1
+  },
+  {
+    "sample_id": 89,
+    "caption": "Olomouc",
+    "imagereward_0": 0.176499605178833,
+    "imagereward_1": -0.8999380469322205,
+    "label_0": 0,
+    "label_1": 1,
+    "are_different": 1
+  },
+  {
+    "sample_id": 90,
+    "caption": "Astronaut",
+    "imagereward_0": 1.5385267734527588,
+    "imagereward_1": 0.24896064400672913,
+    "label_0": 1,
+    "label_1": 0,
+    "are_different": 1
+  },
+  {
+    "sample_id": 91,
+    "caption": "A beautiful woman standing in a dystopian city",
+    "imagereward_0": -0.8087873458862305,
+    "imagereward_1": 0.8942685723304749,
+    "label_0": 1,
+    "label_1": 0,
+    "are_different": 1
+  },
+  {
+    "sample_id": 92,
+    "caption": "mario in prison",
+    "imagereward_0": 1.8074580430984497,
+    "imagereward_1": 1.5314761400222778,
+    "label_0": 0,
+    "label_1": 1,
+    "are_different": 1
+  },
+  {
+    "sample_id": 93,
+    "caption": "Close-up picture of a parrot dropping a spoon.",
+    "imagereward_0": 1.29736328125,
+    "imagereward_1": 1.33482027053833,
+    "label_0": 1,
+    "label_1": 0,
+    "are_different": 0
+  },
+  {
+    "sample_id": 94,
+    "caption": "A cat in a space suit walking on the moon",
+    "imagereward_0": 1.9518373012542725,
+    "imagereward_1": -0.45766282081604004,
+    "label_0": 1,
+    "label_1": 0,
+    "are_different": 1
+  },
+  {
+    "sample_id": 95,
+    "caption": "sci-fi architecture",
+    "imagereward_0": 1.263167381286621,
+    "imagereward_1": 0.5973269939422607,
+    "label_0": 1,
+    "label_1": 0,
+    "are_different": 0
+  },
+  {
+    "sample_id": 96,
+    "caption": "creepy selfie with body of hanged ghostly succubus covered in blood in the basement",
+    "imagereward_0": -0.45640769600868225,
+    "imagereward_1": 0.0021905298344790936,
+    "label_0": 1,
+    "label_1": 0,
+    "are_different": 0
+  },
+  {
+    "sample_id": 97,
+    "caption": "A curious cat exploring a haunted mansion",
+    "imagereward_0": 0.8665015697479248,
+    "imagereward_1": 0.6049522161483765,
+    "label_0": 1,
+    "label_1": 0,
+    "are_different": 1
+  },
+  {
+    "sample_id": 98,
+    "caption": "Some kind of psychedelic art masterpiece, in the style of an algorithm NVIDIA and GAN",
+    "imagereward_0": 0.09374045580625534,
+    "imagereward_1": 0.6762439608573914,
+    "label_0": 0,
+    "label_1": 1,
+    "are_different": 1
+  },
+  {
+    "sample_id": 99,
+    "caption": "little bunny",
+    "imagereward_0": 1.173317551612854,
+    "imagereward_1": 1.5926331281661987,
+    "label_0": 1,
+    "label_1": 0,
+    "are_different": 0
+  }
+]

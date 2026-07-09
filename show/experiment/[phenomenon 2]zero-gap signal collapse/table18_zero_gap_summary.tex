@@ -1,0 +1,25 @@
+\begin{table}[t]
+\centering
+\footnotesize
+\setlength{\tabcolsep}{2.7pt}
+\renewcommand{\arraystretch}{1.16}
+\begin{tabular}{lcccc}
+\toprule
+\textbf{Method} & \textbf{Ovr.} & \textbf{Hard} & \textbf{Zero} & \textbf{NH} \\
+\midrule
+HPSv2                    & 66.06 & 68.22 & 59.34 & 84.73 \\
+ImageReward              & 65.15 & 67.06 & 58.24 & 85.12 \\
+\midrule
+SA (LLM)                 & 36.73 & 37.09 & 33.38 & 51.16 \\
+Budgeted SA              & 43.43 & 44.14 & 40.94 & 50.29 \\
+SA (Pair)                & 63.09 & 64.30 & 58.96 & 75.65 \\
+V. Judge                 & 41.47 & 42.03 & 37.95 & 55.37 \\
+\midrule
+Avg. Reward              & 65.61 & 67.64 & 58.79 & 84.92 \\
+Avg. Judge               & 46.18 & 46.89 & 42.81 & 58.12 \\
+Avg. All                 & 52.65 & 53.81 & 48.13 & 67.05 \\
+\bottomrule
+\end{tabular}
+\caption{\textbf{Representative methods under Zero-gap and other difficulty regions on ImageReward (test).} We report \textbf{PairAcc} only. \textbf{Zero-gap} denotes pairs with $\Delta_{\mathrm{overall}}=0$, \textbf{Hard} denotes pairs with $\Delta_{\mathrm{overall}}=1$, and \textbf{Non-hard Avg} averages the Mid and Easy regions ($\Delta_{\mathrm{overall}}\geq2$). For LLM-as-a-judge methods, rows are averaged across backbones; for \textit{Single-agent (Pair)}, the Llama3.2V-11B outlier is excluded, and for \textit{Budgeted Single-agent}, the Qwen3VL-30B outlier is excluded.}
+\label{tab:zero_gap_main}
+\end{table}

@@ -1,0 +1,35 @@
+{
+  "test_1": {
+    "prompts": {
+      "original": {
+        "recall_at_1": 0.656,
+        "filter_at_1": 0.132,
+        "n": 250
+      }
+    },
+    "average": {
+      "recall_at_1": 0.656,
+      "filter_at_1": 0.132,
+      "n": 250
+    }
+  },
+  "test_2": {
+    "prompts": {
+      "original": {
+        "recall_at_1": 0.6064814814814815,
+        "filter_at_1": 0.1111111111111111,
+        "n": 216
+      }
+    },
+    "average": {
+      "recall_at_1": 0.6064814814814815,
+      "filter_at_1": 0.1111111111111111,
+      "n": 216
+    }
+  },
+  "overall": {
+    "recall_at_1": 0.6330472103004292,
+    "filter_at_1": 0.1223175965665236,
+    "n": 466
+  }
+}

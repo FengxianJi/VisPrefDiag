@@ -1,0 +1,105 @@
+{
+  "test": {
+    "prompts": {
+      "original": {
+        "recall_at_1": 0.24892703862660945,
+        "filter_at_1": 0.2982832618025751,
+        "total": 466
+      },
+      "alternative_1": {
+        "recall_at_1": 0.27896995708154504,
+        "filter_at_1": 0.30257510729613735,
+        "total": 466
+      },
+      "alternative_2": {
+        "recall_at_1": 0.28969957081545067,
+        "filter_at_1": 0.26824034334763946,
+        "total": 466
+      },
+      "alternative_3": {
+        "recall_at_1": 0.24892703862660945,
+        "filter_at_1": 0.2939914163090129,
+        "total": 466
+      },
+      "alternative_4": {
+        "recall_at_1": 0.24248927038626608,
+        "filter_at_1": 0.27896995708154504,
+        "total": 466
+      }
+    },
+    "average": {
+      "recall_at_1": 0.2618025751072961,
+      "filter_at_1": 0.28841201716738196
+    }
+  },
+  "test_1": {
+    "prompts": {
+      "original": {
+        "recall_at_1": 0.284,
+        "filter_at_1": 0.308,
+        "total": 250
+      },
+      "alternative_1": {
+        "recall_at_1": 0.316,
+        "filter_at_1": 0.3,
+        "total": 250
+      },
+      "alternative_2": {
+        "recall_at_1": 0.32,
+        "filter_at_1": 0.28,
+        "total": 250
+      },
+      "alternative_3": {
+        "recall_at_1": 0.28,
+        "filter_at_1": 0.304,
+        "total": 250
+      },
+      "alternative_4": {
+        "recall_at_1": 0.304,
+        "filter_at_1": 0.268,
+        "total": 250
+      }
+    },
+    "average": {
+      "recall_at_1": 0.3008,
+      "filter_at_1": 0.292
+    }
+  },
+  "test_2": {
+    "prompts": {
+      "original": {
+        "recall_at_1": 0.20833333333333334,
+        "filter_at_1": 0.2824074074074074,
+        "total": 216
+      },
+      "alternative_1": {
+        "recall_at_1": 0.20833333333333334,
+        "filter_at_1": 0.2916666666666667,
+        "total": 216
+      },
+      "alternative_2": {
+        "recall_at_1": 0.20833333333333334,
+        "filter_at_1": 0.2777777777777778,
+        "total": 216
+      },
+      "alternative_3": {
+        "recall_at_1": 0.22685185185185186,
+        "filter_at_1": 0.27314814814814814,
+        "total": 216
+      },
+      "alternative_4": {
+        "recall_at_1": 0.2361111111111111,
+        "filter_at_1": 0.2824074074074074,
+        "total": 216
+      }
+    },
+    "average": {
+      "recall_at_1": 0.21759259259259262,
+      "filter_at_1": 0.2814814814814815
+    }
+  },
+  "overall_average": {
+    "recall_at_1": 0.26006505589996287,
+    "filter_at_1": 0.28729783288295446
+  }
+}

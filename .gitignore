@@ -1,0 +1,32 @@
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local configuration and secrets
+.env
+.env.*
+*.pem
+*.key
+*.crt
+*.p12
+
+# Notebook and tool caches
+.ipynb_checkpoints/
+.cache/
+
+# Logs and temporary files
+*.log
+tmp/
+temp/

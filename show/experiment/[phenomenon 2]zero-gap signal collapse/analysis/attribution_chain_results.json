@@ -1,0 +1,614 @@
+{
+  "benchmark": {
+    "path": "VisPrefDiag/benchmark/ImageReward/test.json",
+    "n_total": 466,
+    "difficulty_counts": {
+      "Easy": 183,
+      "Mid": 229,
+      "Hard": 54
+    }
+  },
+  "table13_reference_overall_r1": {
+    "ImageReward": 0.34120171673819744,
+    "HPSv2": 0.34549356223175964,
+    "PickScore": 0.3090128755364807,
+    "LLaVA-Reward": 0.4184549356223176
+  },
+  "experiment_1_global_quantiles": {
+    "model": "ImageReward",
+    "gap_definition": "oracle_gap = s(human_top1) - s(human_top2)",
+    "monotonic_non_decreasing_r1": true,
+    "buckets": [
+      {
+        "bucket": "Q1",
+        "n": 94,
+        "r1": 0,
+        "difficulty_counts": {
+          "Hard": 10,
+          "Mid": 46,
+          "Easy": 38
+        },
+        "difficulty_ratios": {
+          "Hard": 0.10638297872340426,
+          "Mid": 0.48936170212765956,
+          "Easy": 0.40425531914893614
+        },
+        "gap_min": -2.6537833213806152,
+        "gap_max": -0.46270203590393066
+      },
+      {
+        "bucket": "Q2",
+        "n": 93,
+        "r1": 0,
+        "difficulty_counts": {
+          "Hard": 14,
+          "Mid": 50,
+          "Easy": 29
+        },
+        "difficulty_ratios": {
+          "Hard": 0.15053763440860216,
+          "Mid": 0.5376344086021505,
+          "Easy": 0.3118279569892473
+        },
+        "gap_min": -0.4613257050514221,
+        "gap_max": -0.06499844789505005
+      },
+      {
+        "bucket": "Q3",
+        "n": 93,
+        "r1": 0.44086021505376344,
+        "difficulty_counts": {
+          "Hard": 14,
+          "Mid": 40,
+          "Easy": 39
+        },
+        "difficulty_ratios": {
+          "Hard": 0.15053763440860216,
+          "Mid": 0.43010752688172044,
+          "Easy": 0.41935483870967744
+        },
+        "gap_min": -0.05821239948272705,
+        "gap_max": 0.20213627815246582
+      },
+      {
+        "bucket": "Q4",
+        "n": 93,
+        "r1": 0.5483870967741935,
+        "difficulty_counts": {
+          "Hard": 10,
+          "Mid": 52,
+          "Easy": 31
+        },
+        "difficulty_ratios": {
+          "Hard": 0.10752688172043011,
+          "Mid": 0.5591397849462365,
+          "Easy": 0.3333333333333333
+        },
+        "gap_min": 0.21925318241119385,
+        "gap_max": 0.7760913074016571
+      },
+      {
+        "bucket": "Q5",
+        "n": 93,
+        "r1": 0.7204301075268817,
+        "difficulty_counts": {
+          "Hard": 6,
+          "Mid": 41,
+          "Easy": 46
+        },
+        "difficulty_ratios": {
+          "Hard": 0.06451612903225806,
+          "Mid": 0.44086021505376344,
+          "Easy": 0.4946236559139785
+        },
+        "gap_min": 0.7769168615341187,
+        "gap_max": 2.781187891960144
+      }
+    ]
+  },
+  "experiment_2_hard_subbins": {
+    "gap_definition": "oracle_gap = s(human_top1) - s(human_top2)",
+    "valid_models": [
+      "ImageReward",
+      "HPSv2",
+      "PickScore"
+    ],
+    "excluded_models": {
+      "LLaVA-Reward": "Hard 子集上的 oracle gap 全部相同，无法做有效分层。"
+    },
+    "per_model": {
+      "ImageReward": [
+        {
+          "bucket": "Hard-Low",
+          "n": 18,
+          "r1": 0,
+          "difficulty_counts": {
+            "Hard": 18,
+            "Mid": 0,
+            "Easy": 0
+          },
+          "difficulty_ratios": {
+            "Hard": 1.0,
+            "Mid": 0.0,
+            "Easy": 0.0
+          },
+          "gap_min": -1.5718714147806168,
+          "gap_max": -0.1542503833770752
+        },
+        {
+          "bucket": "Hard-Mid",
+          "n": 18,
+          "r1": 0.3888888888888889,
+          "difficulty_counts": {
+            "Hard": 18,
+            "Mid": 0,
+            "Easy": 0
+          },
+          "difficulty_ratios": {
+            "Hard": 1.0,
+            "Mid": 0.0,
+            "Easy": 0.0
+          },
+          "gap_min": -0.14696645736694336,
+          "gap_max": 0.14358603954315186
+        },
+        {
+          "bucket": "Hard-High",
+          "n": 18,
+          "r1": 0.7777777777777778,
+          "difficulty_counts": {
+            "Hard": 18,
+            "Mid": 0,
+            "Easy": 0
+          },
+          "difficulty_ratios": {
+            "Hard": 1.0,
+            "Mid": 0.0,
+            "Easy": 0.0
+          },
+          "gap_min": 0.18898864090442657,
+          "gap_max": 1.0878605246543884
+        }
+      ],
+      "HPSv2": [
+        {
+          "bucket": "Hard-Low",
+          "n": 18,
+          "r1": 0,
+          "difficulty_counts": {
+            "Hard": 18,
+            "Mid": 0,
+            "Easy": 0
+          },
+          "difficulty_ratios": {
+            "Hard": 1.0,
+            "Mid": 0.0,
+            "Easy": 0.0
+          },
+          "gap_min": -0.0521240234375,
+          "gap_max": -0.0069580078125
+        },
+        {
+          "bucket": "Hard-Mid",
+          "n": 18,
+          "r1": 0.2222222222222222,
+          "difficulty_counts": {
+            "Hard": 18,
+            "Mid": 0,
+            "Easy": 0
+          },
+          "difficulty_ratios": {
+            "Hard": 1.0,
+            "Mid": 0.0,
+            "Easy": 0.0
+          },
+          "gap_min": -0.0062255859375,
+          "gap_max": 0.015625
+        },
+        {
+          "bucket": "Hard-High",
+          "n": 18,
+          "r1": 0.7222222222222222,
+          "difficulty_counts": {
+            "Hard": 18,
+            "Mid": 0,
+            "Easy": 0
+          },
+          "difficulty_ratios": {
+            "Hard": 1.0,
+            "Mid": 0.0,
+            "Easy": 0.0
+          },
+          "gap_min": 0.015625,
+          "gap_max": 0.0577392578125
+        }
+      ],
+      "PickScore": [
+        {
+          "bucket": "Hard-Low",
+          "n": 18,
+          "r1": 0,
+          "difficulty_counts": {
+            "Hard": 18,
+            "Mid": 0,
+            "Easy": 0
+          },
+          "difficulty_ratios": {
+            "Hard": 1.0,
+            "Mid": 0.0,
+            "Easy": 0.0
+          },
+          "gap_min": -1.3158988952636719,
+          "gap_max": -0.3275890350341797
+        },
+        {
+          "bucket": "Hard-Mid",
+          "n": 18,
+          "r1": 0.1111111111111111,
+          "difficulty_counts": {
+            "Hard": 18,
+            "Mid": 0,
+            "Easy": 0
+          },
+          "difficulty_ratios": {
+            "Hard": 1.0,
+            "Mid": 0.0,
+            "Easy": 0.0
+          },
+          "gap_min": -0.30013465881347656,
+          "gap_max": 0.26845741271972656
+        },
+        {
+          "bucket": "Hard-High",
+          "n": 18,
+          "r1": 0.6111111111111112,
+          "difficulty_counts": {
+            "Hard": 18,
+            "Mid": 0,
+            "Easy": 0
+          },
+          "difficulty_ratios": {
+            "Hard": 1.0,
+            "Mid": 0.0,
+            "Easy": 0.0
+          },
+          "gap_min": 0.3400611877441406,
+          "gap_max": 1.6845321655273438
+        }
+      ]
+    },
+    "aggregated": [
+      {
+        "bucket": "Hard-Low",
+        "n_mean": 18,
+        "r1_mean": 0,
+        "r1_std": 0.0,
+        "gap_min_mean": -0.9799647778272629,
+        "gap_max_mean": -0.1629324754079183,
+        "per_model": {
+          "ImageReward": {
+            "bucket": "Hard-Low",
+            "n": 18,
+            "r1": 0,
+            "difficulty_counts": {
+              "Hard": 18,
+              "Mid": 0,
+              "Easy": 0
+            },
+            "difficulty_ratios": {
+              "Hard": 1.0,
+              "Mid": 0.0,
+              "Easy": 0.0
+            },
+            "gap_min": -1.5718714147806168,
+            "gap_max": -0.1542503833770752
+          },
+          "HPSv2": {
+            "bucket": "Hard-Low",
+            "n": 18,
+            "r1": 0,
+            "difficulty_counts": {
+              "Hard": 18,
+              "Mid": 0,
+              "Easy": 0
+            },
+            "difficulty_ratios": {
+              "Hard": 1.0,
+              "Mid": 0.0,
+              "Easy": 0.0
+            },
+            "gap_min": -0.0521240234375,
+            "gap_max": -0.0069580078125
+          },
+          "PickScore": {
+            "bucket": "Hard-Low",
+            "n": 18,
+            "r1": 0,
+            "difficulty_counts": {
+              "Hard": 18,
+              "Mid": 0,
+              "Easy": 0
+            },
+            "difficulty_ratios": {
+              "Hard": 1.0,
+              "Mid": 0.0,
+              "Easy": 0.0
+            },
+            "gap_min": -1.3158988952636719,
+            "gap_max": -0.3275890350341797
+          }
+        }
+      },
+      {
+        "bucket": "Hard-Mid",
+        "n_mean": 18,
+        "r1_mean": 0.24074074074074073,
+        "r1_std": 0.11415581486979587,
+        "gap_min_mean": -0.1511089007059733,
+        "gap_max_mean": 0.14255615075429282,
+        "per_model": {
+          "ImageReward": {
+            "bucket": "Hard-Mid",
+            "n": 18,
+            "r1": 0.3888888888888889,
+            "difficulty_counts": {
+              "Hard": 18,
+              "Mid": 0,
+              "Easy": 0
+            },
+            "difficulty_ratios": {
+              "Hard": 1.0,
+              "Mid": 0.0,
+              "Easy": 0.0
+            },
+            "gap_min": -0.14696645736694336,
+            "gap_max": 0.14358603954315186
+          },
+          "HPSv2": {
+            "bucket": "Hard-Mid",
+            "n": 18,
+            "r1": 0.2222222222222222,
+            "difficulty_counts": {
+              "Hard": 18,
+              "Mid": 0,
+              "Easy": 0
+            },
+            "difficulty_ratios": {
+              "Hard": 1.0,
+              "Mid": 0.0,
+              "Easy": 0.0
+            },
+            "gap_min": -0.0062255859375,
+            "gap_max": 0.015625
+          },
+          "PickScore": {
+            "bucket": "Hard-Mid",
+            "n": 18,
+            "r1": 0.1111111111111111,
+            "difficulty_counts": {
+              "Hard": 18,
+              "Mid": 0,
+              "Easy": 0
+            },
+            "difficulty_ratios": {
+              "Hard": 1.0,
+              "Mid": 0.0,
+              "Easy": 0.0
+            },
+            "gap_min": -0.30013465881347656,
+            "gap_max": 0.26845741271972656
+          }
+        }
+      },
+      {
+        "bucket": "Hard-High",
+        "n_mean": 18,
+        "r1_mean": 0.7037037037037037,
+        "r1_std": 0.06928995160692482,
+        "gap_min_mean": 0.18155827621618906,
+        "gap_max_mean": 0.9433773159980774,
+        "per_model": {
+          "ImageReward": {
+            "bucket": "Hard-High",
+            "n": 18,
+            "r1": 0.7777777777777778,
+            "difficulty_counts": {
+              "Hard": 18,
+              "Mid": 0,
+              "Easy": 0
+            },
+            "difficulty_ratios": {
+              "Hard": 1.0,
+              "Mid": 0.0,
+              "Easy": 0.0
+            },
+            "gap_min": 0.18898864090442657,
+            "gap_max": 1.0878605246543884
+          },
+          "HPSv2": {
+            "bucket": "Hard-High",
+            "n": 18,
+            "r1": 0.7222222222222222,
+            "difficulty_counts": {
+              "Hard": 18,
+              "Mid": 0,
+              "Easy": 0
+            },
+            "difficulty_ratios": {
+              "Hard": 1.0,
+              "Mid": 0.0,
+              "Easy": 0.0
+            },
+            "gap_min": 0.015625,
+            "gap_max": 0.0577392578125
+          },
+          "PickScore": {
+            "bucket": "Hard-High",
+            "n": 18,
+            "r1": 0.6111111111111112,
+            "difficulty_counts": {
+              "Hard": 18,
+              "Mid": 0,
+              "Easy": 0
+            },
+            "difficulty_ratios": {
+              "Hard": 1.0,
+              "Mid": 0.0,
+              "Easy": 0.0
+            },
+            "gap_min": 0.3400611877441406,
+            "gap_max": 1.6845321655273438
+          }
+        }
+      }
+    ],
+    "monotonic_non_decreasing_mean_r1": true
+  },
+  "experiment_3_confidence_auroc": {
+    "gap_definition": "top_margin = s(pred_top1) - s(pred_top2)",
+    "valid_models": [
+      "ImageReward",
+      "HPSv2",
+      "PickScore"
+    ],
+    "excluded_models": {
+      "LLaVA-Reward": "top margin 全部相同，无法形成有效的 confidence ranking。"
+    },
+    "per_model": {
+      "ImageReward": {
+        "Hard": {
+          "auc": 0.5367965367965368,
+          "n": 54,
+          "margin_min": 0.0,
+          "margin_max": 1.288324847817421
+        },
+        "Mid": {
+          "auc": 0.6254515599343186,
+          "n": 229,
+          "margin_min": 0.0,
+          "margin_max": 2.3963621854782104
+        },
+        "Easy": {
+          "auc": 0.6013494114269308,
+          "n": 183,
+          "margin_min": 0.0,
+          "margin_max": 1.2863010466098785
+        }
+      },
+      "HPSv2": {
+        "Hard": {
+          "auc": 0.5818759936406995,
+          "n": 54,
+          "margin_min": 0.0,
+          "margin_max": 0.0400390625
+        },
+        "Mid": {
+          "auc": 0.5884696698650187,
+          "n": 229,
+          "margin_min": 0.0,
+          "margin_max": 0.06207275390625
+        },
+        "Easy": {
+          "auc": 0.5588275862068965,
+          "n": 183,
+          "margin_min": 0.0,
+          "margin_max": 0.059814453125
+        }
+      },
+      "PickScore": {
+        "Hard": {
+          "auc": 0.5722326454033771,
+          "n": 54,
+          "margin_min": 0.0,
+          "margin_max": 1.3792533874511719
+        },
+        "Mid": {
+          "auc": 0.5182683982683983,
+          "n": 229,
+          "margin_min": 0.0,
+          "margin_max": 1.8302326202392578
+        },
+        "Easy": {
+          "auc": 0.5965973003374578,
+          "n": 183,
+          "margin_min": 0.0022373199462890625,
+          "margin_max": 1.5098419189453125
+        }
+      }
+    },
+    "aggregated": {
+      "Hard": {
+        "auc_mean": 0.5636350586135378,
+        "auc_std": 0.019381747965509483,
+        "per_model": {
+          "ImageReward": {
+            "auc": 0.5367965367965368,
+            "n": 54,
+            "margin_min": 0.0,
+            "margin_max": 1.288324847817421
+          },
+          "HPSv2": {
+            "auc": 0.5818759936406995,
+            "n": 54,
+            "margin_min": 0.0,
+            "margin_max": 0.0400390625
+          },
+          "PickScore": {
+            "auc": 0.5722326454033771,
+            "n": 54,
+            "margin_min": 0.0,
+            "margin_max": 1.3792533874511719
+          }
+        }
+      },
+      "Mid": {
+        "auc_mean": 0.5773965426892452,
+        "auc_std": 0.044452357607246876,
+        "per_model": {
+          "ImageReward": {
+            "auc": 0.6254515599343186,
+            "n": 229,
+            "margin_min": 0.0,
+            "margin_max": 2.3963621854782104
+          },
+          "HPSv2": {
+            "auc": 0.5884696698650187,
+            "n": 229,
+            "margin_min": 0.0,
+            "margin_max": 0.06207275390625
+          },
+          "PickScore": {
+            "auc": 0.5182683982683983,
+            "n": 229,
+            "margin_min": 0.0,
+            "margin_max": 1.8302326202392578
+          }
+        }
+      },
+      "Easy": {
+        "auc_mean": 0.585591432657095,
+        "auc_std": 0.01902407680736922,
+        "per_model": {
+          "ImageReward": {
+            "auc": 0.6013494114269308,
+            "n": 183,
+            "margin_min": 0.0,
+            "margin_max": 1.2863010466098785
+          },
+          "HPSv2": {
+            "auc": 0.5588275862068965,
+            "n": 183,
+            "margin_min": 0.0,
+            "margin_max": 0.059814453125
+          },
+          "PickScore": {
+            "auc": 0.5965973003374578,
+            "n": 183,
+            "margin_min": 0.0022373199462890625,
+            "margin_max": 1.5098419189453125
+          }
+        }
+      }
+    }
+  }
+}

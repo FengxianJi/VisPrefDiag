@@ -1,0 +1,1029 @@
+[
+  {
+    "split": "test",
+    "group_id": "005658-0040",
+    "prompt_type": "original",
+    "prompt_text": "deathly portal to the abyss, ultra detailed, warm interior light, cinematic shot, photorealistic, octane render, high definition, fine details, sinister tones, 8 k, mcbess mood,",
+    "img_paths": [
+      "45b0de4d-5a57-4ae3-8810-ffbd328204fd.webp",
+      "7d4cc31d-2451-4a9d-99e6-3bdc157aaf2d.webp",
+      "f24a2c01-b1ed-4d4f-ba23-5ba5755b1ce7.webp",
+      "e77d096b-cc89-49cc-ae9a-39679ae23aeb.webp"
+    ],
+    "scores": [
+      75.0,
+      85.0,
+      68.333,
+      68.333
+    ],
+    "judge_scores": [
+      [
+        85.0,
+        65.0,
+        75.0
+      ],
+      [
+        85.0,
+        85.0,
+        85.0
+      ],
+      [
+        75.0,
+        65.0,
+        65.0
+      ],
+      [
+        75.0,
+        65.0,
+        65.0
+      ]
+    ],
+    "reasonings": [
+      [
+        "The image delivers high visual quality with photorealistic detail, cinematic composition, and strong atmospheric mood, though the warm interior light requested is not fully realized, leaning instead toward cool, sinister tones.",
+        "The image shows a detailed, cinematic portal with strong lighting contrast, but lacks warm interior light and the sinister mood implied by the prompt, instead appearing cold and stark.",
+        "The image delivers strong cinematic atmosphere and detailed textures with a photorealistic style, but the lighting contradicts the 'warm interior light' prompt, appearing cold and stark, which slightly undermines the mood."
+      ],
+      [
+        "The image delivers high visual quality with photorealistic detail, cinematic composition, and strong atmospheric mood, though the lighting contrast and texture fidelity could be slightly refined for perfection.",
+        "The image effectively captures a dark, textured portal with warm interior light and cinematic composition, aligning well with the prompt's 'deathly portal to the abyss' and 'sinister tones', though the 'warm interior light' is somewhat muted and the 'mcbess mood' is not distinctly evident.",
+        "The image delivers high-fidelity, photorealistic detail with strong cinematic composition and atmospheric lighting, effectively conveying a sinister mood, though the warm interior light contrasts slightly with the dark, ominous setting."
+      ],
+      [
+        "The image delivers strong cinematic atmosphere and fine detail with a moody, sinister tone, but the lighting contradicts the prompt's request for 'warm interior light' by using cold, greenish tones that feel more eerie than inviting.",
+        "The image captures a dark, ominous portal with fine details and cinematic composition, but fails to deliver the requested warm interior light, instead showing a cold, greenish tone that contradicts the prompt's mood.",
+        "The image has strong atmospheric and cinematic qualities with detailed textures and a moody tone, but fails to deliver the requested 'warm interior light' and instead presents a cold, greenish hue that contradicts the prompt's intent."
+      ],
+      [
+        "The image delivers strong cinematic composition and photorealistic detail with effective use of lighting and atmospheric depth, but the overall color palette leans too cool and desaturated for the requested 'warm interior light,' slightly undermining the mood.",
+        "The image depicts a dark, tunnel-like portal with a bright circular light at the end, matching the 'deathly portal to the abyss' concept, but fails to deliver the 'warm interior light' and 'mcbess mood' requested, instead presenting a cold, blue-toned, sinister atmosphere with no visible warmth or emotional depth.",
+        "The image displays strong cinematic composition and atmospheric depth with a photorealistic style, but fails to match the prompt's \"warm interior light\" and \"mcbess mood\"—instead presenting a cold, blue-toned, and somewhat generic sci-fi tunnel scene lacking the intended sinister warmth and emotional resonance."
+      ]
+    ],
+    "ranks": [
+      1,
+      2,
+      5,
+      3
+    ],
+    "recall_at_1": 0,
+    "filter_at_1": 1,
+    "inference_time": 40.7,
+    "success": true
+  },
+  {
+    "split": "test",
+    "group_id": "005664-0153",
+    "prompt_type": "original",
+    "prompt_text": "cola made from cockroaches",
+    "img_paths": [
+      "06f3eff4-303d-4fae-b751-7f172ec641f0.webp",
+      "cab5e96b-6df8-4b38-8755-b7b4d9f882ae.webp",
+      "7177f467-6846-4cb9-9f0e-d69d0dd44c82.webp",
+      "bc969494-28bf-4f57-b9a3-1e61ed034f2b.webp"
+    ],
+    "scores": [
+      31.667,
+      35.0,
+      28.333,
+      20.0
+    ],
+    "judge_scores": [
+      [
+        35.0,
+        30.0,
+        30.0
+      ],
+      [
+        75.0,
+        0.0,
+        30.0
+      ],
+      [
+        55.0,
+        0.0,
+        30.0
+      ],
+      [
+        30.0,
+        0.0,
+        30.0
+      ]
+    ],
+    "reasonings": [
+      [
+        "The image is visually striking but conceptually unsettling, with poor composition and unnatural color grading that detracts from its aesthetic appeal and technical coherence.",
+        "The image shows cockroaches in a blue cup, but there is no visual indication of any cola or beverage, making it a poor match to the prompt 'cola made from cockroaches'.",
+        "The image is a surreal, low-fidelity digital composition that misrepresents the prompt by showing cockroaches in a cup rather than a cola beverage, with poor lighting, unnatural textures, and a jarring color palette that undermines visual coherence and realism."
+      ],
+      [
+        "The image is a high-quality macro shot with excellent focus on the insect's textured body and natural lighting, but the subject matter (a cockroach) contradicts the prompt 'cola made from cockroaches,' making the visual content misleading despite its technical merit.",
+        "The image shows a close-up of an insect, likely a cockroach, but there is no cola or any indication of cola being made from cockroaches, making the prompt entirely unaligned with the visual content.",
+        "The image is a close-up of an insect, likely a cockroach, but it does not depict or imply any 'cola' or beverage, making it visually misaligned with the prompt and thus failing to meet the requested concept."
+      ],
+      [
+        "The image is a detailed macro shot of cockroaches, but it fails to visually represent 'cola made from cockroaches' as requested, making it technically accurate but conceptually misaligned with the prompt.",
+        "The image shows a close-up of cockroaches, but there is no cola or any indication of cola being made from them, making the prompt entirely unfulfilled.",
+        "The image depicts a close-up of cockroaches, which visually contradicts the prompt 'cola made from cockroaches' by showing the insects themselves rather than a product or beverage, making it misleading and failing to align with the intended concept."
+      ],
+      [
+        "The image is visually unappealing and technically poor, depicting a dense, grotesque cluster of cockroaches with no artistic merit or compositional intent, failing to convey the concept of 'cola made from cockroaches' in a compelling or aesthetically pleasing way.",
+        "The image shows a close-up of cockroaches, which visually contradicts the prompt 'cola made from cockroaches' as it depicts the insects themselves rather than any product or beverage derived from them.",
+        "The image is a close-up of cockroaches, which visually misrepresents the concept of 'cola made from cockroaches' by showing only the insects without any indication of a beverage or product, making it misleading and low-quality for the prompt."
+      ]
+    ],
+    "ranks": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "recall_at_1": 0,
+    "filter_at_1": 1,
+    "inference_time": 37.1,
+    "success": true
+  },
+  {
+    "split": "test",
+    "group_id": "005663-0055",
+    "prompt_type": "original",
+    "prompt_text": "photo environement post futurist desert : 4, 4 k rtx hdr volume light concept studio matte painting environement digital illustration style art that looks like it is from borderlands and by feng zhu and loish and laurie greasley, victo ngai, andreas rocha, john harris by jesper ejsing, by rhads, makoto shinkai and lois van baarle",
+    "img_paths": [
+      "d3d06b26-5d34-45f3-a683-75c752bcb0d2.webp",
+      "fbb89bbc-a5c3-4fc0-9471-adee8ed657bf.webp",
+      "d6a3c558-5885-48ce-b710-a641ba21f5e9.webp",
+      "b41253b7-c41f-44cc-b0ca-7bdfdf06cd44.webp"
+    ],
+    "scores": [
+      85.0,
+      85.0,
+      85.0,
+      85.0
+    ],
+    "judge_scores": [
+      [
+        85.0,
+        85.0,
+        85.0
+      ],
+      [
+        85.0,
+        85.0,
+        85.0
+      ],
+      [
+        85.0,
+        85.0,
+        85.0
+      ],
+      [
+        85.0,
+        85.0,
+        85.0
+      ]
+    ],
+    "reasonings": [
+      [
+        "The image demonstrates strong visual quality with a cohesive, stylized desert-futurism aesthetic, effective use of warm lighting and volumetric effects, and compelling composition that evokes the referenced artists' styles, though some elements lack fine detail for a 4K HDR standard.",
+        "The image strongly aligns with the prompt's request for a post-futuristic desert environment with a Borderlands-inspired aesthetic, featuring detailed sci-fi ruins and warm lighting, though it doesn't explicitly replicate the specific artists mentioned.",
+        "The image demonstrates high visual quality with strong atmospheric lighting, detailed textures, and a cohesive post-futuristic desert aesthetic, closely matching the requested Borderlands-inspired style and artist influences, though some elements lack subtle realism expected in high-end matte paintings."
+      ],
+      [
+        "The image demonstrates strong visual quality with a compelling desert wasteland composition, atmospheric lighting, and a distinct stylized aesthetic reminiscent of Borderlands, though some elements lack the hyper-detailed polish expected from top-tier digital illustration masters.",
+        "The image strongly aligns with the prompt's request for a futuristic desert environment, featuring a stylized, matte-painted digital illustration with a Borderlands aesthetic, including a large weapon in the foreground and rocky terrain under a purple sky, though the specific artists mentioned are not visually verifiable.",
+        "The image demonstrates high visual quality with strong atmospheric lighting, detailed desert environment, and a compelling sci-fi aesthetic consistent with the Borderlands style, though some elements lack the hyper-realistic depth expected from RTX HDR volume lighting."
+      ],
+      [
+        "The image demonstrates strong visual quality with a compelling desert landscape, effective use of lighting and color grading, and a distinct stylized aesthetic reminiscent of Borderlands, though some elements lack the refined polish of the referenced artists.",
+        "The image strongly aligns with the Borderlands art style, featuring a stylized desert environment with rugged terrain and a lone armored figure, matching the requested aesthetic and thematic elements from the prompt.",
+        "The image exhibits high visual quality with strong composition, atmospheric lighting, and detailed textures that evoke the Borderlands aesthetic, though it lacks the hyper-realistic depth and subtle lighting nuances expected from the referenced artists' styles."
+      ],
+      [
+        "The image demonstrates strong visual quality with a cohesive, stylized desert environment reminiscent of Borderlands, featuring excellent color harmony, atmospheric lighting, and detailed composition that effectively captures the requested aesthetic.",
+        "The image strongly aligns with the prompt's request for a futuristic desert environment, featuring a stylized, painterly aesthetic reminiscent of Borderlands, with a lone figure, a large sun, and a dilapidated vehicle in a barren landscape. The color palette and lighting evoke a cinematic, HDR-style digital illustration. While it captures the core visual elements, it doesn't explicitly replicate the specific artists mentioned (Feng Zhu, Loish, etc.) or the technical terms like 'RTX HDR volume light' or 'studio matte painting' in a literal way, which slightly reduces fidelity to the prompt's detailed specifications.",
+        "The image exhibits strong visual appeal with a cohesive, stylized desert environment reminiscent of Borderlands, featuring vibrant color grading, atmospheric lighting, and detailed textures. The composition effectively balances foreground elements with distant mountains under a glowing sun, creating depth and mood. While the overall aesthetic is compelling, the image lacks the ultra-high fidelity and photorealistic rendering expected from a 4K RTX HDR volume light concept, and the character and environment details, while stylized, are not as sharp or complex as top-tier digital illustrations by the referenced artists."
+      ]
+    ],
+    "ranks": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "recall_at_1": 1,
+    "filter_at_1": 0,
+    "inference_time": 45.3,
+    "success": true
+  },
+  {
+    "split": "test",
+    "group_id": "005665-0143",
+    "prompt_type": "original",
+    "prompt_text": "portrait of a beautiful thick muscular fitness model zarya from overwatch wearing boxing gloves and showing her big pectorals, roided face, blonde hair and ponytail, elegant, art by stanley artgerm lau wlop rossdraws james jean andrei riabovitchev marc _ simonetti and sakimichan tranding on artstation",
+    "img_paths": [
+      "a4090c64-1794-41de-ad7f-d84b1b845d04.webp",
+      "c52a774c-90da-44c3-8d54-3aa8f3a2f629.webp",
+      "47123a00-c8bd-400c-a221-a3ea6e7178ad.webp",
+      "597e03c0-55ca-4df9-98e9-14dc047aac86.webp"
+    ],
+    "scores": [
+      68.333,
+      80.667,
+      80.667,
+      65.0
+    ],
+    "judge_scores": [
+      [
+        85.0,
+        45.0,
+        75.0
+      ],
+      [
+        92.0,
+        65.0,
+        85.0
+      ],
+      [
+        92.0,
+        65.0,
+        85.0
+      ],
+      [
+        85.0,
+        45.0,
+        65.0
+      ]
+    ],
+    "reasonings": [
+      [
+        "The image displays high technical quality with strong lighting, detailed musculature, and vibrant colors, though it inaccurately depicts Zarya as a blonde woman with a ponytail rather than her canonical appearance.",
+        "The image depicts a muscular female figure in boxing attire, but she is not Zarya from Overwatch, and lacks the specific visual traits like a ponytail or roided face mentioned in the prompt. The male figure in the background is also not referenced in the prompt. The art style is stylized but does not match the specified artists.",
+        "The image displays strong visual appeal with detailed musculature and vibrant colors, but it inaccurately portrays Zarya as a blonde woman with a ponytail, deviating from her canonical appearance, and lacks the specific artistic style references mentioned in the prompt."
+      ],
+      [
+        "The image exhibits exceptional visual quality with highly detailed, anatomically accurate musculature, vibrant color grading, and dynamic composition that effectively highlights the subject's strength and elegance, closely matching the prompt's artistic intent.",
+        "The image depicts a muscular female figure with blonde hair in a ponytail, wearing boxing gloves and athletic attire, but does not resemble Zarya from Overwatch in terms of facial features, armor, or character design, thus failing to align with the specific character reference in the prompt.",
+        "The image displays high visual quality with strong anatomical detail, vibrant color rendering, and dynamic composition, though it slightly deviates from the prompt by not clearly depicting Zarya from Overwatch and instead portrays a stylized female fighter."
+      ],
+      [
+        "The image exhibits exceptional visual quality with highly detailed, anatomically accurate musculature, vibrant color contrast, and dynamic composition that effectively captures the power and elegance of the subject, closely matching the prompt's artistic intent.",
+        "The image depicts a muscular female figure in boxing gloves and athletic attire, but fails to match key prompt elements like Zarya from Overwatch, a roided face, or a blonde ponytail, instead showing a generic muscular woman with no clear game character resemblance.",
+        "The image showcases exceptional muscular definition and dynamic composition, with strong lighting and color harmony that aligns well with the prompt's request for a powerful, athletic female figure in boxing gear, though the facial features lack the specific 'roided' or distinct Zarya likeness requested."
+      ],
+      [
+        "The image displays high technical excellence with detailed musculature, strong lighting, and dynamic composition, though it inaccurately depicts Zarya with pink hair and mismatched boxing gloves rather than her canonical look.",
+        "The image depicts a muscular female fighter with pink hair and boxing gloves, but fails to match key prompt elements: it shows no blonde ponytail, no Zarya from Overwatch, and the 'roided face' and 'elegant' descriptors are not visually supported. The art style is stylized but does not clearly align with the specified artists.",
+        "The image displays strong anatomical detail and muscular definition, but fails to accurately represent the requested character (Zarya) and has inconsistent visual elements like pink hair instead of blonde, and mismatched gear, indicating poor adherence to the prompt."
+      ]
+    ],
+    "ranks": [
+      1,
+      3,
+      5,
+      4
+    ],
+    "recall_at_1": 0,
+    "filter_at_1": 0,
+    "inference_time": 41.3,
+    "success": true
+  },
+  {
+    "split": "test",
+    "group_id": "005695-0057",
+    "prompt_type": "original",
+    "prompt_text": "a concept art of a vehicle, cyberpunk, artstation",
+    "img_paths": [
+      "a22b9093-03d8-4001-a46d-496c32977a99.webp",
+      "6001d65a-bcbe-4313-bc6c-63c9a5870d30.webp",
+      "a134055b-f781-4ace-9638-72cca909ce94.webp",
+      "31884b8e-5fbe-4c45-b582-7979b04e2390.webp",
+      "fdbd5efb-77da-4bb3-a912-b431d57aae0c.webp",
+      "0779edc6-41e3-4bac-a568-be63888c600c.webp"
+    ],
+    "scores": [
+      93.0,
+      89.667,
+      93.0,
+      89.667,
+      89.667,
+      87.333
+    ],
+    "judge_scores": [
+      [
+        92.0,
+        95.0,
+        92.0
+      ],
+      [
+        92.0,
+        85.0,
+        92.0
+      ],
+      [
+        92.0,
+        95.0,
+        92.0
+      ],
+      [
+        92.0,
+        85.0,
+        92.0
+      ],
+      [
+        92.0,
+        85.0,
+        92.0
+      ],
+      [
+        92.0,
+        85.0,
+        85.0
+      ]
+    ],
+    "reasonings": [
+      [
+        "The image exhibits exceptional visual quality with striking cyberpunk aesthetics, dynamic composition, and technical excellence in lighting and detail rendering, evoking high-end ArtStation concept art.",
+        "The image perfectly matches the prompt with a cyberpunk concept art style, featuring a futuristic vehicle in a neon-lit urban environment, consistent with ArtStation's aesthetic.",
+        "The image delivers exceptional cyberpunk concept art with high visual quality, strong text-image alignment, and detailed aesthetic appeal that matches the ArtStation style, featuring dynamic lighting, intricate vehicle design, and atmospheric urban background."
+      ],
+      [
+        "The image exhibits exceptional visual quality with strong cyberpunk aesthetics, dynamic composition, and technical excellence in lighting and detail rendering.",
+        "The image effectively captures a cyberpunk vehicle concept with futuristic design, neon lighting, and a high-tech urban environment, closely aligning with the prompt's request for 'concept art' and 'cyberpunk' style.",
+        "The image delivers exceptional cyberpunk concept art with strong visual quality, detailed vehicle design, and atmospheric lighting that aligns perfectly with the prompt, showcasing high fidelity and aesthetic appeal."
+      ],
+      [
+        "The image exhibits exceptional visual quality with striking cyberpunk aesthetics, dynamic lighting, and polished technical execution that aligns perfectly with ArtStation-level concept art standards.",
+        "The image perfectly matches the 'cyberpunk' theme with neon lighting, futuristic vehicle design, and rain-soaked urban environment, strongly evoking ArtStation-style concept art.",
+        "The image delivers exceptional cyberpunk concept art with high visual quality, strong text-image alignment, and detailed aesthetic appeal that matches the ArtStation style, featuring vibrant neon lighting, sleek futuristic design, and atmospheric depth."
+      ],
+      [
+        "The image exhibits exceptional visual quality with strong cyberpunk aesthetics, dynamic composition, and technical excellence in lighting and detail rendering.",
+        "The image strongly aligns with the prompt, showcasing a cyberpunk vehicle with futuristic design, glowing blue accents, and a dystopian cityscape background, though the 'ArtStation' reference is not visually present.",
+        "The image delivers exceptional cyberpunk concept art with high visual fidelity, strong lighting and color contrast, detailed textures, and a compelling futuristic aesthetic that aligns perfectly with the prompt."
+      ],
+      [
+        "The image exhibits exceptional visual quality with striking cyberpunk aesthetics, dynamic composition, and technical excellence in rendering metallic textures and glowing blue energy effects.",
+        "The image successfully captures a cyberpunk vehicle concept with sharp, angular design and glowing blue accents, aligning well with the prompt's request for concept art in that style, though the 'ArtStation' reference is not visually verifiable.",
+        "The image delivers exceptional cyberpunk concept art with high-fidelity details, dynamic lighting, and strong visual composition that aligns perfectly with the prompt, showcasing a polished, professional aesthetic typical of ArtStation."
+      ],
+      [
+        "The image exhibits exceptional visual quality with strong cyberpunk aesthetics, dynamic lighting, and detailed composition that evokes high-end concept art from ArtStation.",
+        "The image effectively captures a cyberpunk vehicle concept with detailed, angular design and neon lighting, aligning well with the prompt, though the 'ArtStation' reference isn't visually present.",
+        "The image delivers high-quality cyberpunk concept art with strong lighting, detailed textures, and a cohesive aesthetic, though minor rendering artifacts slightly reduce its perfection."
+      ]
+    ],
+    "ranks": [
+      1,
+      2,
+      1,
+      4,
+      3,
+      4
+    ],
+    "recall_at_1": 1,
+    "filter_at_1": 0,
+    "inference_time": 47.5,
+    "success": true
+  },
+  {
+    "split": "test",
+    "group_id": "005641-0115",
+    "prompt_type": "original",
+    "prompt_text": "oil matte portrait, mustache man in rags with clown wig and nose, evil expression. digital painting, fantasy, concept art, cinematic colors, realistic shaded. by ilya kuvshinov, magali villeneuve, artgerm, greg rutkowski",
+    "img_paths": [
+      "edb1a0b5-582d-4094-9168-75321a1e2642.webp",
+      "629579f4-1c98-4cc0-8dae-84db7c75d2f8.webp",
+      "035111c3-7627-4c60-95fc-bb62dd382ed9.webp",
+      "7b9a61eb-1bd5-4957-938c-39964e4411e4.webp"
+    ],
+    "scores": [
+      86.333,
+      87.333,
+      81.667,
+      78.333
+    ],
+    "judge_scores": [
+      [
+        92.0,
+        75.0,
+        92.0
+      ],
+      [
+        92.0,
+        85.0,
+        85.0
+      ],
+      [
+        85.0,
+        75.0,
+        85.0
+      ],
+      [
+        85.0,
+        65.0,
+        85.0
+      ]
+    ],
+    "reasonings": [
+      [
+        "The image exhibits exceptional visual quality with hyper-realistic shading, dramatic cinematic lighting, and intense emotional expression, closely matching the prompt's request for a gritty, evil clown portrait in the style of top fantasy artists.",
+        "The image accurately portrays a mustachioed clown with an evil expression and realistic shading, matching key elements of the prompt, though it lacks visible 'rags' and the specific artist references are not visually verifiable.",
+        "The image delivers exceptional visual quality with hyper-realistic shading, cinematic color grading, and intricate detail that perfectly captures the evil clown's menacing expression and textured makeup, aligning strongly with the prompt's fantasy and concept art aspirations."
+      ],
+      [
+        "The image exhibits exceptional visual quality with cinematic color grading, highly detailed realistic shading, and a compelling, emotionally charged composition that masterfully captures the requested 'evil expression' and fantasy concept art style.",
+        "The image accurately depicts a mustachioed man with a clown wig, large nose, and evil expression, rendered in a realistic, cinematic style with matte oil-painting textures, closely matching the prompt's key elements and artistic references.",
+        "The image delivers a highly detailed, cinematic portrait with strong lighting, realistic shading, and a compelling evil clown expression, though the 'oil matte' texture and 'in rags' elements are not fully realized, slightly limiting its alignment with the prompt."
+      ],
+      [
+        "The image demonstrates strong visual quality with cinematic color grading, realistic shading, and compelling composition that effectively conveys an evil, fantastical mood, though the facial details and textures could be slightly more refined for perfection.",
+        "The image aligns well with the prompt's core elements: two mustachioed clowns with evil expressions, clown wigs, and a red nose, rendered in a realistic, cinematic style. However, it lacks explicit 'oil matte' texture and the specific artists mentioned (Ilya Kuvshinov, Magali Villeneuve, Artgerm, Greg Rutkowski), and the 'man in rags' description is not clearly depicted.",
+        "The image delivers a highly stylized, cinematic portrait with strong visual impact and detailed rendering, though the 'oil matte' texture and specific artist references in the prompt aren't fully realized, slightly limiting its technical precision."
+      ],
+      [
+        "The image demonstrates high technical excellence with realistic shading, cinematic color grading, and strong composition focusing on the intense, evil expression, though the 'clown wig and nose' elements are not clearly rendered as requested.",
+        "The image shows a realistic, matte oil-painted style portrait of a man with a mustache and red face paint, but lacks the 'clown wig and nose' and 'rags' mentioned in the prompt, and the expression is more theatrical than overtly 'evil'.",
+        "The image delivers a highly detailed, cinematic oil matte portrait with strong realism and dramatic lighting, effectively capturing the evil expression and fantastical elements requested, though the 'clown wig and nose' and 'rags' are not visually present, slightly misaligning with the prompt."
+      ]
+    ],
+    "ranks": [
+      2,
+      4,
+      1,
+      3
+    ],
+    "recall_at_1": 0,
+    "filter_at_1": 0,
+    "inference_time": 38.4,
+    "success": true
+  },
+  {
+    "split": "test",
+    "group_id": "005790-0086",
+    "prompt_type": "original",
+    "prompt_text": "close up of a beautiful woman on wearing concept fashion, fantasy, intricate, elegant, highly detailed, digital painting, artstation, concept art, smooth, 8 k, sharp focus, illustration, art by artgerm and greg rutkowski and alphonse mucha",
+    "img_paths": [
+      "955d8969-112d-458e-81b1-16e52284895d.webp",
+      "d4aeed04-e2ad-4b1f-ae28-f62dedb85dc9.webp",
+      "4bffc75b-b266-47cf-ae67-5865decbd4c9.webp",
+      "bc54679b-cf70-4221-87f0-1daa326eb0a9.webp",
+      "cd6f2e82-1a99-43c2-b507-589de0dd8cac.webp",
+      "6f946373-f6d2-4ebf-9282-478a01eff7f3.webp"
+    ],
+    "scores": [
+      92.0,
+      93.0,
+      93.0,
+      89.667,
+      93.0,
+      90.667
+    ],
+    "judge_scores": [
+      [
+        92.0,
+        92.0,
+        92.0
+      ],
+      [
+        95.0,
+        92.0,
+        92.0
+      ],
+      [
+        95.0,
+        92.0,
+        92.0
+      ],
+      [
+        92.0,
+        85.0,
+        92.0
+      ],
+      [
+        95.0,
+        92.0,
+        92.0
+      ],
+      [
+        95.0,
+        85.0,
+        92.0
+      ]
+    ],
+    "reasonings": [
+      [
+        "The image exhibits exceptional visual quality with highly detailed, elegant fantasy fashion, smooth digital painting techniques, and strong composition that evokes the style of Artgerm, Greg Rutkowski, and Alphonse Mucha, achieving near-perfect technical and aesthetic execution.",
+        "The image strongly aligns with the prompt, featuring a beautiful woman in intricate, elegant fantasy concept fashion with high detail, rendered in a digital painting style reminiscent of ArtStation, Artgerm, Greg Rutkowski, and Alphonse Mucha, with smooth textures and sharp focus.",
+        "The image achieves exceptional quality with its highly detailed, elegant fantasy fashion design, smooth digital painting style, and strong alignment with the ArtStation concept art aesthetic, while maintaining sharp focus and rich visual texture."
+      ],
+      [
+        "The image exhibits exceptional visual quality with highly detailed, elegant fantasy concept art, smooth textures, and masterful lighting that evokes the style of Artgerm, Greg Rutkowski, and Alphonse Mucha, achieving near-perfect technical and aesthetic execution.",
+        "The image strongly aligns with the prompt, featuring a close-up of a beautiful woman in intricate, fantasy-inspired concept fashion with highly detailed, elegant golden adornments, rendered in a digital painting style consistent with ArtStation concept art, and visually evokes the aesthetic of Artgerm, Greg Rutkowski, and Alphonse Mucha.",
+        "The image achieves exceptional quality with its highly detailed, elegant fantasy concept art, smooth digital painting style, and strong alignment with the prompt's vision, showcasing intricate gold adornments and luminous lighting."
+      ],
+      [
+        "The image exhibits exceptional visual quality with highly detailed, elegant fantasy concept art, smooth textures, and masterful composition that aligns perfectly with the ArtStation and Greg Rutkowski-inspired aesthetic, achieving near-perfect technical and artistic execution.",
+        "The image excellently matches the prompt with a close-up of a beautiful woman in intricate, elegant fantasy concept fashion, featuring highly detailed digital painting style with smooth textures and sharp focus, strongly evoking the artistic styles of Artgerm, Greg Rutkowski, and Alphonse Mucha.",
+        "The image achieves exceptional quality with its highly detailed, elegant fantasy concept art, smooth digital painting style, and strong alignment with the prompt's vision, showcasing intricate design and refined aesthetic appeal."
+      ],
+      [
+        "The image exhibits exceptional visual quality with highly detailed, elegant fantasy concept art, smooth textures, and strong composition that honors the referenced artists' styles, achieving near-perfect technical and aesthetic execution.",
+        "The image strongly aligns with the prompt, featuring a beautiful woman in intricate, elegant fantasy concept fashion with high detail and digital painting style, though the specific artists mentioned (Artgerm, Greg Rutkowski, Alphonse Mucha) are not directly evident in the visual style.",
+        "The image exhibits exceptional visual quality with highly detailed, elegant fantasy fashion, smooth digital painting style, and strong alignment with the prompt's artistic references, resulting in a captivating and refined composition."
+      ],
+      [
+        "The image exhibits exceptional visual quality with highly detailed, elegant fantasy fashion, masterful composition, and a luminous, painterly aesthetic that strongly evokes the styles of Artgerm, Greg Rutkowski, and Alphonse Mucha.",
+        "The image excellently matches the prompt with a close-up of a beautiful woman in intricate, elegant fantasy concept fashion, featuring highly detailed digital painting style with smooth textures and sharp focus, strongly evoking the artistic styles of Artgerm, Greg Rutkowski, and Alphonse Mucha.",
+        "The image exhibits exceptional visual quality with highly detailed, intricate fantasy fashion, smooth digital painting style, and strong alignment with the prompt's artistic references, resulting in a visually stunning and cohesive composition."
+      ],
+      [
+        "The image exhibits exceptional visual quality with highly detailed, elegant fantasy concept art, smooth textures, and masterful composition that evokes the style of Artgerm, Greg Rutkowski, and Alphonse Mucha, achieving near-perfect technical and aesthetic execution.",
+        "The image strongly aligns with the prompt, featuring a beautiful woman in intricate fantasy concept fashion with elegant, highly detailed adornments, rendered in a digital painting style with sharp focus and soft lighting, closely matching the ArtStation-inspired aesthetic and artists referenced.",
+        "The image achieves exceptional quality with its highly detailed, elegant fantasy concept art, seamless blending of intricate mechanical and organic elements, and masterful lighting that evokes the style of Artgerm, Greg Rutkowski, and Alphonse Mucha."
+      ]
+    ],
+    "ranks": [
+      4,
+      5,
+      3,
+      2,
+      1,
+      5
+    ],
+    "recall_at_1": 0,
+    "filter_at_1": 0,
+    "inference_time": 61.4,
+    "success": true
+  },
+  {
+    "split": "test",
+    "group_id": "005784-0093",
+    "prompt_type": "original",
+    "prompt_text": "desolate space, realistic 4 k octane beautifully detailed render, 4 k post - processing, highly detailed, intricate complexity, epic composition, magical atmosphere, cinematic lighting, masterpiece, ultra hd",
+    "img_paths": [
+      "c2b3dcaf-7aaf-4c8d-be14-0af7de5acda0.webp",
+      "4753d6fc-7b03-453a-a765-81511c25384b.webp",
+      "57c82a87-a495-46fa-af5c-863fe9fb86c6.webp",
+      "0ad674d4-2927-46ef-95e5-2ef6edeee77b.webp"
+    ],
+    "scores": [
+      92.0,
+      89.667,
+      92.0,
+      87.333
+    ],
+    "judge_scores": [
+      [
+        92.0,
+        92.0,
+        92.0
+      ],
+      [
+        92.0,
+        85.0,
+        92.0
+      ],
+      [
+        92.0,
+        92.0,
+        92.0
+      ],
+      [
+        92.0,
+        85.0,
+        85.0
+      ]
+    ],
+    "reasonings": [
+      [
+        "The image delivers exceptional visual quality with cinematic lighting, intricate detail, and a masterful epic composition that fully embodies the prompt's request for a magical, desolate space scene.",
+        "The image excellently matches the prompt with its desolate space setting, highly detailed textures, cinematic lighting, and epic composition, conveying a magical atmosphere and ultra HD quality as requested.",
+        "The image delivers exceptional visual quality with stunning cinematic lighting, intricate detail, and a masterful composition that fully embodies the prompt's request for a realistic, ultra HD, magical atmosphere."
+      ],
+      [
+        "The image delivers exceptional visual quality with cinematic lighting, intricate detail, and a powerful epic composition that fulfills the prompt's demands for a magical, desolate space masterpiece.",
+        "The image strongly aligns with the prompt, showcasing a desolate space scene with realistic, highly detailed textures, cinematic lighting, and an epic composition, though the 'magical atmosphere' is subtle and the 'ultra hd' quality is implied rather than explicitly verified.",
+        "The image delivers exceptional visual quality with highly detailed, intricate textures, cinematic lighting, and a masterful epic composition that fully embodies the prompt's intent for a magical, desolate space scene."
+      ],
+      [
+        "The image delivers exceptional visual quality with cinematic lighting, intricate detail, and a masterful epic composition that fully embodies the prompt's request for a magical, desolate space scene.",
+        "The image excellently matches the prompt with its desolate space setting, highly detailed 4K render, intricate complexity, epic composition, magical atmosphere, and cinematic lighting, fulfilling all key descriptors of the prompt.",
+        "The image delivers exceptional visual quality with cinematic lighting, intricate detail, and a magical atmosphere that aligns perfectly with the prompt, creating an epic, ultra HD masterpiece."
+      ],
+      [
+        "The image delivers exceptional visual quality with epic composition, cinematic lighting, and intricate detail that fulfills the prompt's demands for a realistic, ultra HD masterpiece.",
+        "The image delivers a highly detailed, cinematic, and epic space scene with realistic lighting and atmospheric depth, strongly aligning with the prompt's emphasis on 'magical atmosphere,' 'cinematic lighting,' and 'ultra HD' quality, though the specific 'desolate space' and '4K Octane' references are implied rather than explicitly verified.",
+        "The image delivers an epic, cinematic quality with highly detailed textures and atmospheric lighting, though some elements like the distant celestial body and sky details show slight artificiality that prevents it from reaching exceptional status."
+      ]
+    ],
+    "ranks": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "recall_at_1": 1,
+    "filter_at_1": 1,
+    "inference_time": 37.5,
+    "success": true
+  },
+  {
+    "split": "test",
+    "group_id": "005848-0000",
+    "prompt_type": "original",
+    "prompt_text": "a beautiful painting of the jungle in the morning with lots of smoke, fantasy art, matte painting",
+    "img_paths": [
+      "40918a1e-50c2-41c8-85e9-d9dbe4be22ee.webp",
+      "7833e611-36f6-4e11-b7dc-bd8e0c38edb4.webp",
+      "7fa8c7f6-9791-4d7e-8dd4-bafbdb4cc43a.webp",
+      "4d8f436d-a03e-45a9-8296-bbc42e26039c.webp"
+    ],
+    "scores": [
+      85.0,
+      89.667,
+      92.0,
+      85.0
+    ],
+    "judge_scores": [
+      [
+        85.0,
+        85.0,
+        85.0
+      ],
+      [
+        92.0,
+        85.0,
+        92.0
+      ],
+      [
+        92.0,
+        92.0,
+        92.0
+      ],
+      [
+        85.0,
+        85.0,
+        85.0
+      ]
+    ],
+    "reasonings": [
+      [
+        "The image displays exceptional fantasy artistry with rich, atmospheric lighting and detailed jungle composition, though minor color saturation inconsistencies slightly reduce its technical perfection.",
+        "The image aligns well with the prompt, depicting a lush jungle scene with atmospheric smoke and fantasy elements, though the 'morning' lighting is somewhat ambiguous and the smoke appears more dramatic than typical morning haze.",
+        "The image delivers a rich, atmospheric fantasy jungle scene with strong color contrast and detailed foliage, effectively capturing the requested 'matte painting' style and 'morning smoke' mood, though some elements feel slightly over-processed."
+      ],
+      [
+        "The image delivers exceptional visual quality with rich fantasy art aesthetics, masterful use of atmospheric smoke and light, and a compelling composition that evokes a mystical jungle morning.",
+        "The image strongly aligns with the prompt, depicting a lush jungle scene with atmospheric smoke/mist, fantasy art style, and a morning light ambiance, though the 'lots of smoke' is more ethereal mist than dense smoke.",
+        "The image delivers exceptional fantasy art quality with rich, immersive jungle detail, atmospheric smoke/mist, and a dreamlike morning light that perfectly matches the prompt's vision."
+      ],
+      [
+        "The image exhibits exceptional visual quality with rich, immersive fantasy artistry, masterful use of atmospheric smoke and light, and a compelling composition that draws the viewer into a lush, mystical jungle landscape.",
+        "The image excellently captures a lush jungle scene with morning light filtering through mist, featuring fantasy elements like a horned creature and dense, stylized vegetation, aligning closely with the prompt's request for a matte painting style.",
+        "The image delivers exceptional fantasy art quality with rich, immersive jungle detail, atmospheric smoke/mist, and strong lighting that evokes a magical morning scene, closely matching the prompt's intent."
+      ],
+      [
+        "The image displays high visual quality with rich fantasy art elements, strong atmospheric depth from the mist, and compelling composition, though minor texture inconsistencies slightly reduce its technical perfection.",
+        "The image strongly aligns with the prompt, depicting a lush jungle scene with misty atmosphere, fantasy elements, and matte painting style, though the 'lots of smoke' is more subtle than explicitly shown.",
+        "The image delivers a rich, immersive fantasy jungle scene with excellent atmospheric depth and detailed vegetation, though the smoke effect is subtle and the overall composition leans slightly toward digital matte painting rather than traditional painting."
+      ]
+    ],
+    "ranks": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "recall_at_1": 0,
+    "filter_at_1": 0,
+    "inference_time": 32.0,
+    "success": true
+  },
+  {
+    "split": "test",
+    "group_id": "005875-0035",
+    "prompt_type": "original",
+    "prompt_text": "Twin Peaks book cover movie poster artwork by Tomer Hanuka, Rendering a blue rose full of details, Michael Whelan, Patryk Hardziej,  Makoto Shinkai and thomas kinkade, by Gregory Crewdson, Matte painting, trending on artstation and unreal engine",
+    "img_paths": [
+      "108cdf3b-0f8f-4546-8731-55f22f5d150f.webp",
+      "0dfebbe1-bdd9-4320-90e4-de7d2c090ee9.webp",
+      "b984af53-caf5-4937-8af1-a9989de5c8da.webp",
+      "44534481-3c0d-4fca-ac84-f4dba2c464d5.webp"
+    ],
+    "scores": [
+      56.667,
+      56.667,
+      61.667,
+      46.667
+    ],
+    "judge_scores": [
+      [
+        75.0,
+        30.0,
+        65.0
+      ],
+      [
+        75.0,
+        30.0,
+        65.0
+      ],
+      [
+        75.0,
+        45.0,
+        65.0
+      ],
+      [
+        65.0,
+        30.0,
+        45.0
+      ]
+    ],
+    "reasonings": [
+      [
+        "The image displays strong composition and atmospheric depth with a stylized, painterly aesthetic reminiscent of the referenced artists, though the execution lacks the hyper-detailed realism expected from some of the cited creators like Makoto Shinkai or Thomas Kinkade.",
+        "The image shows a surreal, stylized illustration with a large central figure and smaller characters in a forested, rocky setting, which bears no resemblance to a 'blue rose' or the specific artists mentioned in the prompt (Michael Whelan, Patryk Hardziej, Makoto Shinkai, Thomas Kinkade, Gregory Crewdson). The visual style is more aligned with a comic book or fantasy illustration rather than a matte painting or Unreal Engine render, and there is no indication of 'Twin Peaks' branding or book cover design as requested.",
+        "The image displays a stylized, painterly composition with strong visual elements and atmospheric depth, but it lacks the specific stylistic signatures of the referenced artists (Michael Whelan, Makoto Shinkai, etc.) and the requested 'blue rose' motif, resulting in a mixed execution that falls short of exceptional quality."
+      ],
+      [
+        "The image displays strong composition and stylized aesthetics with a moody, cinematic atmosphere, but lacks the hyper-detailed rendering and technical polish expected from the referenced artists and engines, resulting in a good but not exceptional quality.",
+        "The image shows a stylized poster with three figures in a mountainous, forested setting, but it contains no blue rose, and the visual style does not match any of the named artists (Michael Whelan, Patryk Hardziej, Makoto Shinkai, Thomas Kinkade, Gregory Crewdson) or the Unreal Engine matte painting aesthetic mentioned in the prompt.",
+        "The image has a stylized, poster-like aesthetic with strong composition and color contrast, but lacks the detailed rendering and painterly depth expected from the referenced artists (Michael Whelan, Makoto Shinkai, etc.), resulting in a visually competent but not exceptional piece."
+      ],
+      [
+        "The image displays strong composition and stylized aesthetics with a moody, painterly quality, but lacks the high-fidelity detail and technical polish expected from the referenced artists, resulting in a good but not exceptional visual output.",
+        "The image shows a stylized portrait with a large blue floral element above the head, but it lacks the specific 'Twin Peaks' branding and does not clearly reflect the requested artists' styles (Michael Whelan, Patryk Hardziej, Makoto Shinkai, Thomas Kinkade, Gregory Crewdson) or technical terms (matte painting, Unreal Engine). The overall aesthetic is more illustrative than cinematic or painterly as implied by the prompt.",
+        "The image has a stylized, illustrative quality with strong color contrast and a clear subject, but lacks the high-fidelity detail and atmospheric depth expected from the referenced artists (Michael Whelan, Makoto Shinkai, etc.) and techniques (Matte painting, Unreal Engine). The text \"TWIN PEAKS\" and \"HOTSE THE POMAITY\" is inconsistent with the actual show's title, indicating a misalignment with the prompt's intent."
+      ],
+      [
+        "The image displays a stylized, painterly composition with strong character focus and atmospheric lighting, but lacks the high technical polish and detail fidelity expected from the referenced artists (Michael Whelan, Makoto Shinkai, etc.) and Unreal Engine rendering, resulting in a mixed aesthetic that feels more concept art than polished production.",
+        "The image shows a surreal, crowded portrait with two central figures, which bears no resemblance to a 'blue rose' or the named artists (Michael Whelan, Patryk Hardziej, Makoto Shinkai, Thomas Kinkade, Gregory Crewdson) mentioned in the prompt. The style is more aligned with dark, expressionist illustration rather than matte painting or Unreal Engine rendering, and there is no visual reference to 'Twin Peaks' or 'book cover movie poster' as specified.",
+        "The image shows a stylized, painterly composition with a central figure surrounded by faces, but it lacks the specific elements mentioned in the prompt (blue rose, specific artist styles like Michael Whelan or Makoto Shinkai) and instead appears to be a generic dark-toned portrait with poor text rendering at the top, indicating a mismatch between prompt and output."
+      ]
+    ],
+    "ranks": [
+      4,
+      3,
+      1,
+      5
+    ],
+    "recall_at_1": 1,
+    "filter_at_1": 1,
+    "inference_time": 49.3,
+    "success": true
+  },
+  {
+    "split": "test",
+    "group_id": "005806-0105",
+    "prompt_type": "original",
+    "prompt_text": "wooden cottage, lots of servers in the living room, fireplace, concept art",
+    "img_paths": [
+      "1b141712-a6ec-45c4-8e55-3e36b9c166d1.webp",
+      "c23ac279-2550-4e81-917e-546efe504f7e.webp",
+      "e94eca2e-0708-473a-b4b5-929835876db9.webp",
+      "abae126a-70da-4a52-8901-a733bc3c4d41.webp",
+      "77626b92-5c05-4485-aead-e84ca9e177c1.webp",
+      "c3042868-adc2-4f38-9aa6-22b771edf074.webp",
+      "d6abb63b-bf66-4ed1-8f81-038c7f0c2d53.webp"
+    ],
+    "scores": [
+      56.667,
+      50.0,
+      46.667,
+      50.0,
+      53.333,
+      56.667,
+      66.667
+    ],
+    "judge_scores": [
+      [
+        75.0,
+        30.0,
+        65.0
+      ],
+      [
+        65.0,
+        30.0,
+        55.0
+      ],
+      [
+        65.0,
+        30.0,
+        45.0
+      ],
+      [
+        65.0,
+        20.0,
+        65.0
+      ],
+      [
+        65.0,
+        30.0,
+        65.0
+      ],
+      [
+        75.0,
+        30.0,
+        65.0
+      ],
+      [
+        85.0,
+        40.0,
+        75.0
+      ]
+    ],
+    "reasonings": [
+      [
+        "The image displays a well-composed, aesthetically pleasing wooden cottage interior with warm lighting and detailed textures, but contains a significant conceptual error—there are no servers visible, contradicting the prompt.",
+        "The image shows a wooden cottage living room with a fireplace, but there are no servers visible, making the prompt largely inaccurate and misaligned with the visual content.",
+        "The image depicts a cozy wooden cottage living room with a fireplace, but contains a significant error: there are no servers visible, contradicting the prompt. The overall aesthetic and lighting are warm and inviting, but the core textual instruction is not fulfilled, lowering the overall quality."
+      ],
+      [
+        "The image has a warm, rustic aesthetic with good composition and lighting, but the \"lots of servers\" element is completely absent and the overall style appears more like concept art than a realistic depiction, reducing its technical excellence.",
+        "The image shows a wooden cottage living room with a fireplace, but there are no servers visible, making the prompt largely inaccurate and misaligned with the visual content.",
+        "The image depicts a cozy wooden cottage interior with a fireplace, but contains a significant error: there are no \"servers\" visible in the living room as mentioned in the prompt, which undermines alignment with the text."
+      ],
+      [
+        "The image has a warm, rustic aesthetic with good lighting and composition, but the prompt's mention of 'servers' is completely absent, indicating a significant conceptual mismatch that lowers its overall quality.",
+        "The image shows a wooden cottage living room with a fireplace, but there are no servers visible, making the prompt largely inaccurate and misaligned with the visual content.",
+        "The image depicts a wooden cottage living room with a fireplace, but contains no servers as requested in the prompt, indicating a significant mismatch between the prompt and output."
+      ],
+      [
+        "The image has strong rustic aesthetic and good lighting, but the prompt mentions 'lots of servers' which is not depicted, making the composition misleading and technically incomplete.",
+        "The image shows a wooden cottage living room with a fireplace, but there are no servers visible, making the prompt largely unfulfilled.",
+        "The image depicts a cozy wooden cottage interior with a fireplace and natural lighting, but it contains no servers as requested in the prompt, indicating a significant mismatch between the text and visual output."
+      ],
+      [
+        "The image has a warm, rustic aesthetic with good lighting and detailed textures, but the prompt mentions 'lots of servers' which is not visually represented, indicating a mismatch between prompt and output.",
+        "The image shows a wooden cottage living room with a fireplace, but there are no servers visible, making the prompt largely inaccurate and misaligned with the visual content.",
+        "The image depicts a cozy wooden cottage interior with a fireplace, but contains a significant error: there are no servers visible, contradicting the prompt. The overall composition and lighting are well-executed, but the factual misalignment with the prompt reduces its quality."
+      ],
+      [
+        "The image displays a warm, rustic wooden cottage interior with strong composition and aesthetic appeal, but the prompt's mention of 'servers' is completely absent, indicating a significant conceptual mismatch.",
+        "The image shows a wooden cottage living room with a fireplace, but there are no servers visible, making the prompt largely unfulfilled.",
+        "The image depicts a rustic wooden cottage interior with a fireplace and warm lighting, but it contains no servers as requested in the prompt, indicating a significant mismatch between the text and visual output."
+      ],
+      [
+        "The image displays high visual quality with warm lighting, rich textures, and a well-composed rustic living room scene that effectively conveys a cozy atmosphere, though the prompt's mention of 'servers' is clearly inaccurate and not depicted.",
+        "The image shows a rustic wooden cabin with a fireplace, but there are no 'servers' visible, and the term 'concept art' is not applicable to a photorealistic interior shot.",
+        "The image presents a warm, rustic wooden cottage interior with a functional fireplace and cozy seating, but the prompt's mention of 'servers' is clearly inaccurate and not depicted, reducing alignment with the original request."
+      ]
+    ],
+    "ranks": [
+      1,
+      2,
+      4,
+      2,
+      4,
+      3,
+      3
+    ],
+    "recall_at_1": 0,
+    "filter_at_1": 1,
+    "inference_time": 57.6,
+    "success": true
+  },
+  {
+    "split": "test",
+    "group_id": "005864-0033",
+    "prompt_type": "original",
+    "prompt_text": "Mf Doom Painting by Sachin Teng, asymmetrical, Organic Painting , Matte Painting, Original Gameboy Palette, geometric shapes, hard edges, graffiti, street art,:2 by Sachin Teng:4",
+    "img_paths": [
+      "cec956b9-f604-4182-92b5-39a053e06fa8.webp",
+      "e5b21fdc-2d7d-47a0-baf4-1fa7c5a116d6.webp",
+      "e9cb3dc4-44cc-43fe-a2eb-cff8af9df143.webp",
+      "ef4ea131-656b-48f0-90c0-c69e3beb151f.webp"
+    ],
+    "scores": [
+      78.333,
+      78.333,
+      78.333,
+      75.0
+    ],
+    "judge_scores": [
+      [
+        85.0,
+        65.0,
+        85.0
+      ],
+      [
+        85.0,
+        65.0,
+        85.0
+      ],
+      [
+        85.0,
+        65.0,
+        85.0
+      ],
+      [
+        85.0,
+        65.0,
+        75.0
+      ]
+    ],
+    "reasonings": [
+      [
+        "The image demonstrates strong visual impact with bold geometric shapes and a vibrant, stylized color palette reminiscent of street art, effectively capturing the essence of Mf Doom while maintaining clean hard edges and a dynamic composition.",
+        "The image shows a stylized, geometric portrait with hard edges and graffiti-like elements, but lacks clear evidence of the 'Original Gameboy Palette' (which would feature specific 16-bit colors) and doesn't strongly resemble Mf Doom or explicitly show Sachin Teng's signature style, resulting in moderate alignment.",
+        "The image delivers a strong, stylized street art aesthetic with bold geometric shapes and a vibrant, gameboy-inspired palette, effectively capturing the requested visual style and artist's intent."
+      ],
+      [
+        "The image exhibits strong geometric composition and bold color contrasts, effectively capturing the street art/graffiti aesthetic with sharp edges and a stylized, abstracted portrait that aligns with the prompt's intent.",
+        "The image shows a geometric, stylized portrait with hard edges and bold colors, aligning with some prompt elements like 'geometric shapes' and 'hard edges'. However, it lacks clear graffiti or street art style, doesn't visibly use a Gameboy palette, and the artist is not identifiable as Sachin Teng, reducing overall prompt adherence.",
+        "The image delivers a strong, stylized geometric portrait with bold colors and sharp edges that align well with the prompt's request for 'geometric shapes, hard edges, graffiti, street art' and 'Original Gameboy Palette' tones, though the 'asymmetrical' and 'Organic Painting' elements are somewhat at odds with the rigid geometry."
+      ],
+      [
+        "The image demonstrates strong visual impact with bold geometric shapes, a vibrant Gameboy-inspired palette, and a graffiti/street art aesthetic, though the asymmetrical composition and hard edges slightly reduce its overall harmony.",
+        "The image shows a stylized, geometric portrait with hard edges and a limited color palette, but lacks clear graffiti or street art elements, and the 'Gameboy Palette' is not distinctly evident, reducing alignment with the prompt.",
+        "The image effectively captures the requested aesthetic with bold geometric shapes, hard edges, and a Gameboy-inspired color palette, though the asymmetrical composition and graffiti/street art elements are somewhat abstracted in execution."
+      ],
+      [
+        "The image demonstrates strong visual quality with bold geometric shapes, a stylized street art aesthetic, and effective use of the Gameboy palette, though some elements lack fine detail and the composition feels slightly unbalanced.",
+        "The image shows a stylized, geometric portrait with hard edges and a limited color palette, but lacks clear graffiti or street art elements, and the 'Gameboy Palette' is not distinctly evident, reducing alignment with the prompt.",
+        "The image effectively captures the requested aesthetic with bold geometric shapes, hard edges, and a stylized, graffiti-influenced look using a limited palette reminiscent of Gameboy colors, though the overall composition feels slightly less dynamic and cohesive than ideal for a high-scoring piece."
+      ]
+    ],
+    "ranks": [
+      1,
+      3,
+      2,
+      2
+    ],
+    "recall_at_1": 1,
+    "filter_at_1": 0,
+    "inference_time": 38.5,
+    "success": true
+  },
+  {
+    "split": "test",
+    "group_id": "005870-0077",
+    "prompt_type": "original",
+    "prompt_text": "realistic detailed face portrait of young beautiful woman by Alexandre Cabanel",
+    "img_paths": [
+      "1894a9e7-1d14-4bd5-bcc4-70ab688cca30.webp",
+      "54cac450-2bf0-4853-a0f3-a09054654cb8.webp",
+      "c061bacd-0dd0-4c16-af02-3d1f6916e0b8.webp",
+      "72e66324-f150-4451-834d-a6c88f8ed247.webp"
+    ],
+    "scores": [
+      81.667,
+      81.667,
+      84.0,
+      91.667
+    ],
+    "judge_scores": [
+      [
+        85.0,
+        75.0,
+        85.0
+      ],
+      [
+        85.0,
+        75.0,
+        85.0
+      ],
+      [
+        92.0,
+        75.0,
+        85.0
+      ],
+      [
+        95.0,
+        85.0,
+        95.0
+      ]
+    ],
+    "reasonings": [
+      [
+        "The image exhibits high technical excellence with realistic facial detail, soft lighting, and a classical composition reminiscent of Alexandre Cabanel, though subtle AI artifacts slightly reduce its perfection.",
+        "The image shows a realistic, detailed portrait of a young woman with soft lighting and classical composition, aligning well with the prompt's request for a realistic face portrait. However, it lacks clear attribution to Alexandre Cabanel, whose style is more ornate and academic, and the image appears to be AI-generated rather than a historical painting by the artist.",
+        "The image achieves a high level of realism and detail in the facial features and hair texture, closely matching the style of Alexandre Cabanel with soft lighting and classical composition, though the overall aesthetic is slightly muted and lacks the vibrant depth of a true historical masterpiece."
+      ],
+      [
+        "The image exhibits high technical excellence with realistic rendering, soft lighting, and detailed facial features, closely resembling Alexandre Cabanel's classical style, though subtle digital artifacts slightly reduce its perfection.",
+        "The image shows a realistic, detailed portrait of a young woman with blue eyes and wavy hair, matching the prompt's request for a detailed face portrait, though it does not visually resemble Alexandre Cabanel's known style or specific works.",
+        "The portrait exhibits high realism and fine detail in facial features and hair texture, closely matching the requested style of Alexandre Cabanel, with strong lighting and color harmony, though the subject's features are slightly idealized and the background is minimalist."
+      ],
+      [
+        "The portrait exhibits exceptional realism and technical excellence, with masterful rendering of skin texture, hair detail, and soft lighting, closely resembling Alexandre Cabanel's classical style.",
+        "The image shows a realistic, detailed portrait of a young woman with a classical style, but it does not appear to be by Alexandre Cabanel, whose works typically feature more formal, academic compositions and specific historical or mythological themes, not the casual, modern-looking hairstyle and neutral expression here.",
+        "The portrait exhibits high realism and fine detail in the face, hair, and fabric, with strong lighting and color harmony, though it lacks the specific signature style of Alexandre Cabanel and appears slightly digitally rendered rather than painted."
+      ],
+      [
+        "The image exhibits exceptional technical excellence with hyperrealistic detail, masterful lighting, and classical composition reminiscent of Alexandre Cabanel, achieving a near-perfect aesthetic quality.",
+        "The image closely matches the prompt with a realistic, detailed portrait of a young beautiful woman, and the style is consistent with Alexandre Cabanel's academic painting tradition, though the exact artist attribution cannot be verified visually.",
+        "The image is an exceptionally rendered realistic portrait with exquisite detail in the face, hair, and fabric, capturing the style of Alexandre Cabanel with high fidelity and aesthetic appeal."
+      ]
+    ],
+    "ranks": [
+      2,
+      1,
+      4,
+      5
+    ],
+    "recall_at_1": 0,
+    "filter_at_1": 0,
+    "inference_time": 37.6,
+    "success": true
+  }
+]

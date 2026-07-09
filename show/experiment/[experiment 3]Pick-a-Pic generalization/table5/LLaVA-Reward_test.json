@@ -1,0 +1,2902 @@
+[
+  {
+    "sample_idx": 0,
+    "caption": "A curious cat exploring a haunted mansion",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.0038604736328125,
+        "label": 0.0,
+        "model": "DP2.0",
+        "image_uid": "a1877ac6-b428-464b-9eb2-c15a15390534",
+        "is_best": false
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.0189208984375,
+        "label": 1.0,
+        "model": "SDXL-BETA",
+        "image_uid": "19ab2192-6c9d-42f0-b6f8-f7491ddddbc8",
+        "is_best": true
+      }
+    ],
+    "label_0": 0.0,
+    "label_1": 1.0,
+    "reward_score_0": -0.0038604736328125,
+    "reward_score_1": -0.0189208984375,
+    "reward_prefers": 0,
+    "label_prefers": 1,
+    "reward_label_agree": false
+  },
+  {
+    "sample_idx": 1,
+    "caption": "a spanish water dog breed as arthur morgan from red dead redemption",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.0361328125,
+        "label": 1.0,
+        "model": "SDXL-ALPHA",
+        "image_uid": "e378ac29-ecb4-470e-b1fe-2aa1fd28b0d8",
+        "is_best": true
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.0322265625,
+        "label": 0.0,
+        "model": "DP2.0",
+        "image_uid": "e8e73967-570c-46a0-906f-33fca89f3b84",
+        "is_best": false
+      }
+    ],
+    "label_0": 1.0,
+    "label_1": 0.0,
+    "reward_score_0": -0.0361328125,
+    "reward_score_1": -0.0322265625,
+    "reward_prefers": 1,
+    "label_prefers": 0,
+    "reward_label_agree": false
+  },
+  {
+    "sample_idx": 2,
+    "caption": "Portrait of a 26yr white woman, hyper-detailed, extremely ashamed, soft skin",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.0145263671875,
+        "label": 1.0,
+        "model": "DP2.0",
+        "image_uid": "569e85b3-8db0-468d-bc68-88f12ce6c440",
+        "is_best": true
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.011474609375,
+        "label": 0.0,
+        "model": "SDXL-ALPHA",
+        "image_uid": "d03083e2-161b-40c4-88e6-f8c5bc21502d",
+        "is_best": false
+      }
+    ],
+    "label_0": 1.0,
+    "label_1": 0.0,
+    "reward_score_0": -0.0145263671875,
+    "reward_score_1": -0.011474609375,
+    "reward_prefers": 1,
+    "label_prefers": 0,
+    "reward_label_agree": false
+  },
+  {
+    "sample_idx": 3,
+    "caption": "zentai",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.002166748046875,
+        "label": 1.0,
+        "model": "DP2.0",
+        "image_uid": "c48730d5-d5d6-40f8-9ee5-bff3acf89b2d",
+        "is_best": true
+      },
+      {
+        "image_idx": 1,
+        "reward_score": 0.00193023681640625,
+        "label": 0.0,
+        "model": "SDXL-BETA",
+        "image_uid": "f6a1f780-b9cf-48e5-a233-1c46bbeebeb2",
+        "is_best": false
+      }
+    ],
+    "label_0": 1.0,
+    "label_1": 0.0,
+    "reward_score_0": -0.002166748046875,
+    "reward_score_1": 0.00193023681640625,
+    "reward_prefers": 1,
+    "label_prefers": 0,
+    "reward_label_agree": false
+  },
+  {
+    "sample_idx": 9,
+    "caption": "Movie Still of The Joker wielding a red Lightsaber, Darth Joker a sinister evil clown prince of crime, HD Photograph",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.014892578125,
+        "label": 1.0,
+        "model": "SDXL-ALPHA",
+        "image_uid": "8126bd89-83d6-442f-882a-56dedef5468f",
+        "is_best": true
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.006195068359375,
+        "label": 0.0,
+        "model": "SDXL-BETA",
+        "image_uid": "03930666-d5c7-4199-a1d8-3069b6a920c3",
+        "is_best": false
+      }
+    ],
+    "label_0": 1.0,
+    "label_1": 0.0,
+    "reward_score_0": -0.014892578125,
+    "reward_score_1": -0.006195068359375,
+    "reward_prefers": 1,
+    "label_prefers": 0,
+    "reward_label_agree": false
+  },
+  {
+    "sample_idx": 10,
+    "caption": "The official portrait of an authoritarian president of an alternate america in 1960, in the style of pan am advertisements, looking up, jet age,",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.0081787109375,
+        "label": 1.0,
+        "model": "SDXL-ALPHA",
+        "image_uid": "1dca7535-a37c-4c0e-ac74-5553ff71446a",
+        "is_best": true
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.0081787109375,
+        "label": 0.0,
+        "model": "SDXL-BETA",
+        "image_uid": "1baa3c70-a274-4eea-87d7-b9080f3d8666",
+        "is_best": false
+      }
+    ],
+    "label_0": 1.0,
+    "label_1": 0.0,
+    "reward_score_0": -0.0081787109375,
+    "reward_score_1": -0.0081787109375,
+    "reward_prefers": 1,
+    "label_prefers": 0,
+    "reward_label_agree": false
+  },
+  {
+    "sample_idx": 14,
+    "caption": "Sign that says DON’T FART",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.042724609375,
+        "label": 0.0,
+        "model": "DP2.0",
+        "image_uid": "ec9651ea-61a7-48a0-ab5a-2676ea425d4d",
+        "is_best": false
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.031005859375,
+        "label": 1.0,
+        "model": "SDXL-ALPHA",
+        "image_uid": "d349423f-d2ed-4c8f-a085-68b362d482cc",
+        "is_best": true
+      }
+    ],
+    "label_0": 0.0,
+    "label_1": 1.0,
+    "reward_score_0": -0.042724609375,
+    "reward_score_1": -0.031005859375,
+    "reward_prefers": 1,
+    "label_prefers": 1,
+    "reward_label_agree": true
+  },
+  {
+    "sample_idx": 16,
+    "caption": "Orisa",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.006011962890625,
+        "label": 1.0,
+        "model": "SDXL-ALPHA",
+        "image_uid": "b868ddbc-5b5c-4418-8d68-44e122cdbc69",
+        "is_best": true
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.001739501953125,
+        "label": 0.0,
+        "model": "DP2.0",
+        "image_uid": "8668a452-3520-4245-b5b3-c31cfec446a0",
+        "is_best": false
+      }
+    ],
+    "label_0": 1.0,
+    "label_1": 0.0,
+    "reward_score_0": -0.006011962890625,
+    "reward_score_1": -0.001739501953125,
+    "reward_prefers": 1,
+    "label_prefers": 0,
+    "reward_label_agree": false
+  },
+  {
+    "sample_idx": 20,
+    "caption": "Gonewild imgur A beautiful woman with bare tiddies big 🍈🍈🍆💦🫦 open legs, outside on a cold morning",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.021240234375,
+        "label": 1.0,
+        "model": "DP2.0",
+        "image_uid": "4cc19359-9202-463d-a094-7e2a0f4a3e80",
+        "is_best": true
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.0164794921875,
+        "label": 0.0,
+        "model": "SDXL-BETA",
+        "image_uid": "0de823f0-45a7-4aac-96ff-0e601db67cb9",
+        "is_best": false
+      }
+    ],
+    "label_0": 1.0,
+    "label_1": 0.0,
+    "reward_score_0": -0.021240234375,
+    "reward_score_1": -0.0164794921875,
+    "reward_prefers": 1,
+    "label_prefers": 0,
+    "reward_label_agree": false
+  },
+  {
+    "sample_idx": 21,
+    "caption": "Painting of melted gemstones metallic sculpture with electrifying god rays brane bejeweled style",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.0228271484375,
+        "label": 1.0,
+        "model": "DP2.0",
+        "image_uid": "312e3336-5c62-4a11-8036-7efac189d0ea",
+        "is_best": true
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.01361083984375,
+        "label": 0.0,
+        "model": "SD2.1",
+        "image_uid": "2411d70c-ce82-4bf2-8120-b367d9effbbd",
+        "is_best": false
+      }
+    ],
+    "label_0": 1.0,
+    "label_1": 0.0,
+    "reward_score_0": -0.0228271484375,
+    "reward_score_1": -0.01361083984375,
+    "reward_prefers": 1,
+    "label_prefers": 0,
+    "reward_label_agree": false
+  },
+  {
+    "sample_idx": 25,
+    "caption": "Warrior with an axe on a exotic animal with long hair style loisel",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.025146484375,
+        "label": 1.0,
+        "model": "DP2.0",
+        "image_uid": "32bdf836-3f0a-4c9b-827f-500bce761df3",
+        "is_best": true
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.0306396484375,
+        "label": 0.0,
+        "model": "SD2.1",
+        "image_uid": "84ab33b0-4ff3-4a9c-9906-fc609a015af7",
+        "is_best": false
+      }
+    ],
+    "label_0": 1.0,
+    "label_1": 0.0,
+    "reward_score_0": -0.025146484375,
+    "reward_score_1": -0.0306396484375,
+    "reward_prefers": 0,
+    "label_prefers": 0,
+    "reward_label_agree": true
+  },
+  {
+    "sample_idx": 30,
+    "caption": "futuristic grand fort made out of white marble and extremely intricate carvings across the structure on a martian mountain with fountains and greenery all around",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.01361083984375,
+        "label": 0.0,
+        "model": "SDXL-BETA",
+        "image_uid": "7a94530d-47b2-4e95-b125-f93850235ac3",
+        "is_best": false
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.0224609375,
+        "label": 1.0,
+        "model": "DP2.0",
+        "image_uid": "d53dc300-bc6e-418c-a741-fb7c9ed17c3c",
+        "is_best": true
+      }
+    ],
+    "label_0": 0.0,
+    "label_1": 1.0,
+    "reward_score_0": -0.01361083984375,
+    "reward_score_1": -0.0224609375,
+    "reward_prefers": 0,
+    "label_prefers": 1,
+    "reward_label_agree": false
+  },
+  {
+    "sample_idx": 31,
+    "caption": "Exterior Photography of gigantic interstellar spaceship docked in space station.  by Ridley Scott. depth, cables, pipes. film grain, hyper detailed, 16k, shot on Fujifilm GFX 50r. cinematic, broken parts, maximum detail, soft lighting",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.03662109375,
+        "label": 1.0,
+        "model": "DP2.0",
+        "image_uid": "1e558d58-f53e-422e-9715-19d4c12c093d",
+        "is_best": true
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.004547119140625,
+        "label": 0.0,
+        "model": "SDXL-BETA-3",
+        "image_uid": "56dcd396-3df3-43f7-b53a-efb6eafccf89",
+        "is_best": false
+      }
+    ],
+    "label_0": 1.0,
+    "label_1": 0.0,
+    "reward_score_0": -0.03662109375,
+    "reward_score_1": -0.004547119140625,
+    "reward_prefers": 1,
+    "label_prefers": 0,
+    "reward_label_agree": false
+  },
+  {
+    "sample_idx": 32,
+    "caption": "Cinematographic 1970s photoportrait carshow spaceship  Jacques Chirac Flintstones RPR vatican space program moebius capsule launchpad old-priest bows-low anglican-tiara-mitre Archbishops thunderbirds-balenciaga Astronaut papal official leica hasselblad photograph in Vatican royal helmet gold metal scaphandre launchpad pointy oxygen hazmat gloves helmet",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.006103515625,
+        "label": 0.0,
+        "model": "SD2.1",
+        "image_uid": "c04bbe49-58d2-4bc6-ac76-a70a2d2e7b2d",
+        "is_best": false
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.00653076171875,
+        "label": 1.0,
+        "model": "DP2.0",
+        "image_uid": "202a9b83-28e5-4002-9858-64a4cb734f91",
+        "is_best": true
+      }
+    ],
+    "label_0": 0.0,
+    "label_1": 1.0,
+    "reward_score_0": -0.006103515625,
+    "reward_score_1": -0.00653076171875,
+    "reward_prefers": 0,
+    "label_prefers": 1,
+    "reward_label_agree": false
+  },
+  {
+    "sample_idx": 33,
+    "caption": "A cute anime girl with blue eyes standing in a pine forest wearing a black dress",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.018798828125,
+        "label": 1.0,
+        "model": "SDXL-BETA",
+        "image_uid": "a56663e2-99ba-4ee2-9c89-f1c1a6d8e34d",
+        "is_best": true
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.01556396484375,
+        "label": 0.0,
+        "model": "DP2.0",
+        "image_uid": "f30ffd8c-51c3-428b-ae48-fb844fa30d04",
+        "is_best": false
+      }
+    ],
+    "label_0": 1.0,
+    "label_1": 0.0,
+    "reward_score_0": -0.018798828125,
+    "reward_score_1": -0.01556396484375,
+    "reward_prefers": 1,
+    "label_prefers": 0,
+    "reward_label_agree": false
+  },
+  {
+    "sample_idx": 35,
+    "caption": "cinematic still of highly reflective stainless steel train in the desert, at sunset",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.023193359375,
+        "label": 0.0,
+        "model": "SDXL-ALPHA",
+        "image_uid": "b2c86f84-de10-4a9a-b762-21bc9070f9da",
+        "is_best": false
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.01611328125,
+        "label": 1.0,
+        "model": "SDXL-BETA",
+        "image_uid": "35060735-d4e4-445e-861a-bb029acc55f0",
+        "is_best": true
+      }
+    ],
+    "label_0": 0.0,
+    "label_1": 1.0,
+    "reward_score_0": -0.023193359375,
+    "reward_score_1": -0.01611328125,
+    "reward_prefers": 1,
+    "label_prefers": 1,
+    "reward_label_agree": true
+  },
+  {
+    "sample_idx": 37,
+    "caption": "a wide angle photo aerial view misty fires of fighting roman centurions in front of courtyard  arena roman buildings,roofs houses, gladiators, marble  gold,galea roman soldier in foreground masculine features nose helmet and silver sword ,eyes,clear sky, metal boots ,intricate embossed armour arches grass steps field panorama,Canaletto,stone floor,",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": 0.0017547607421875,
+        "label": 1.0,
+        "model": "DP2.0",
+        "image_uid": "872dc90e-6cc2-40e2-a7cc-0e62413dada9",
+        "is_best": true
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.00060272216796875,
+        "label": 0.0,
+        "model": "SDXL-BETA",
+        "image_uid": "0641ced5-4138-4053-8d88-7ee862513a3d",
+        "is_best": false
+      }
+    ],
+    "label_0": 1.0,
+    "label_1": 0.0,
+    "reward_score_0": 0.0017547607421875,
+    "reward_score_1": -0.00060272216796875,
+    "reward_prefers": 0,
+    "label_prefers": 0,
+    "reward_label_agree": true
+  },
+  {
+    "sample_idx": 38,
+    "caption": "A cat, chubby, very fine wispy and extremely long swirly wavy fur, under water, Kuniyoshi Utagawa, Hishida Shunsō, a very curvy chubby cat, golden embroidery fabric kimono, flowing glowing biomorphic wisps, phosphorescent swirls, tendrils, wavelets, streamers, a murmuration of bioluminescent bubbles, ,  detailed and intricate, elegant aesthetic, ornate, finely detailed, 128K UHD  Unreal Engine, octane, fractal pi, fBm",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.0279541015625,
+        "label": 0.0,
+        "model": "SDXL-BETA-3",
+        "image_uid": "d32b5ff0-e042-4451-b40c-715aba15084e",
+        "is_best": false
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.0223388671875,
+        "label": 1.0,
+        "model": "SDXL-BETA",
+        "image_uid": "11af65d9-194e-436b-bb2c-5fa15dfc2ef9",
+        "is_best": true
+      }
+    ],
+    "label_0": 0.0,
+    "label_1": 1.0,
+    "reward_score_0": -0.0279541015625,
+    "reward_score_1": -0.0223388671875,
+    "reward_prefers": 1,
+    "label_prefers": 1,
+    "reward_label_agree": true
+  },
+  {
+    "sample_idx": 39,
+    "caption": "a cartoonish programmer drawing computer codes on the computer screen with brushes in their hand.",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.0024566650390625,
+        "label": 1.0,
+        "model": "SDXL-BETA",
+        "image_uid": "18d19015-159e-4631-86b5-d39f5022e3f5",
+        "is_best": true
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.01104736328125,
+        "label": 0.0,
+        "model": "SDXL-BETA-3",
+        "image_uid": "daab9fe9-20a7-47d2-86e6-3866b834dbfe",
+        "is_best": false
+      }
+    ],
+    "label_0": 1.0,
+    "label_1": 0.0,
+    "reward_score_0": -0.0024566650390625,
+    "reward_score_1": -0.01104736328125,
+    "reward_prefers": 0,
+    "label_prefers": 0,
+    "reward_label_agree": true
+  },
+  {
+    "sample_idx": 41,
+    "caption": "anime portrait of a beautiful vamire witch, sci fi suit, intricate, elegant, highly detailed, digital painting, artstation, concept art, smooth, sharp focus, illustration, art by grep rutkowski and ]]",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.022216796875,
+        "label": 1.0,
+        "model": "SDXL-ALPHA",
+        "image_uid": "f9ff643f-f42d-4aba-aabf-641bf5c43910",
+        "is_best": true
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.016845703125,
+        "label": 0.0,
+        "model": "DP2.0",
+        "image_uid": "c468bc7f-dc24-498e-a764-cbe589525cab",
+        "is_best": false
+      }
+    ],
+    "label_0": 1.0,
+    "label_1": 0.0,
+    "reward_score_0": -0.022216796875,
+    "reward_score_1": -0.016845703125,
+    "reward_prefers": 1,
+    "label_prefers": 0,
+    "reward_label_agree": false
+  },
+  {
+    "sample_idx": 42,
+    "caption": "Sign that says DON’T FART",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.0228271484375,
+        "label": 1.0,
+        "model": "SDXL-ALPHA",
+        "image_uid": "1484723b-b3ed-499f-b783-70008d1104e3",
+        "is_best": true
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.045654296875,
+        "label": 0.0,
+        "model": "SDXL-BETA",
+        "image_uid": "57e43079-c735-42d7-91a4-2aecbffcd647",
+        "is_best": false
+      }
+    ],
+    "label_0": 1.0,
+    "label_1": 0.0,
+    "reward_score_0": -0.0228271484375,
+    "reward_score_1": -0.045654296875,
+    "reward_prefers": 0,
+    "label_prefers": 0,
+    "reward_label_agree": true
+  },
+  {
+    "sample_idx": 47,
+    "caption": "Copulation beautiful",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.0128173828125,
+        "label": 1.0,
+        "model": "DP2.0",
+        "image_uid": "cc1077e7-0276-4287-a0a1-b158d1e984a1",
+        "is_best": true
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.00396728515625,
+        "label": 0.0,
+        "model": "SDXL-BETA",
+        "image_uid": "26801e00-746d-4ed2-b618-9a44e75b0790",
+        "is_best": false
+      }
+    ],
+    "label_0": 1.0,
+    "label_1": 0.0,
+    "reward_score_0": -0.0128173828125,
+    "reward_score_1": -0.00396728515625,
+    "reward_prefers": 1,
+    "label_prefers": 0,
+    "reward_label_agree": false
+  },
+  {
+    "sample_idx": 50,
+    "caption": "A close-up photograph of a fat orange cat with lasagna in its mouth. Shot on Leica M6.",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.0184326171875,
+        "label": 1.0,
+        "model": "DP2.0",
+        "image_uid": "8147e6a5-0107-4ae3-8555-be279f53d22b",
+        "is_best": true
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.00933837890625,
+        "label": 0.0,
+        "model": "SD2.1",
+        "image_uid": "309a23b0-b1ff-4b86-9e68-98f3a0f45118",
+        "is_best": false
+      }
+    ],
+    "label_0": 1.0,
+    "label_1": 0.0,
+    "reward_score_0": -0.0184326171875,
+    "reward_score_1": -0.00933837890625,
+    "reward_prefers": 1,
+    "label_prefers": 0,
+    "reward_label_agree": false
+  },
+  {
+    "sample_idx": 53,
+    "caption": "Mascot logo of a whimsical creature with her mouth sewn shut, eyes in shock, scared, limbs restrained, gritty, grimy, extreme detail, realism, suspended, Medusa’s hair, serpents, snakes as hair, sitting, legs spread, death row records logo, square logo, death metal art, grunge style, worn and damaged, concert poster",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.041015625,
+        "label": 0.0,
+        "model": "SDXL-BETA-3",
+        "image_uid": "a9d0d88f-01aa-4d27-8aba-a9dfdac7a570",
+        "is_best": false
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.0245361328125,
+        "label": 1.0,
+        "model": "SDXL-BETA",
+        "image_uid": "33b0a9ea-b1d9-47a1-9793-e081bfbe4e98",
+        "is_best": true
+      }
+    ],
+    "label_0": 0.0,
+    "label_1": 1.0,
+    "reward_score_0": -0.041015625,
+    "reward_score_1": -0.0245361328125,
+    "reward_prefers": 1,
+    "label_prefers": 1,
+    "reward_label_agree": true
+  },
+  {
+    "sample_idx": 54,
+    "caption": "insanely detailed portrait,female model, insane face details, perfect eyes,dof, dslr extremely intricate, high res,  8k,  award winning photography",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.007232666015625,
+        "label": 0.0,
+        "model": "SDXL-BETA",
+        "image_uid": "18ad8479-9705-44cc-81da-fd607abd2222",
+        "is_best": false
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.018310546875,
+        "label": 1.0,
+        "model": "SDXL-BETA-3",
+        "image_uid": "a73d146f-9c89-4305-b211-03d04ac331bd",
+        "is_best": true
+      }
+    ],
+    "label_0": 0.0,
+    "label_1": 1.0,
+    "reward_score_0": -0.007232666015625,
+    "reward_score_1": -0.018310546875,
+    "reward_prefers": 0,
+    "label_prefers": 1,
+    "reward_label_agree": false
+  },
+  {
+    "sample_idx": 55,
+    "caption": "Logo geometric business colorful minimalist’ write ”skill fit” on a logo",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.02490234375,
+        "label": 0.0,
+        "model": "DP2.0",
+        "image_uid": "4b395484-f8da-4b68-bd0c-c5a966c6e8bf",
+        "is_best": false
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.0115966796875,
+        "label": 1.0,
+        "model": "SDXL-ALPHA",
+        "image_uid": "77cb43b4-e7b4-48fd-a592-6943fd0259ee",
+        "is_best": true
+      }
+    ],
+    "label_0": 0.0,
+    "label_1": 1.0,
+    "reward_score_0": -0.02490234375,
+    "reward_score_1": -0.0115966796875,
+    "reward_prefers": 1,
+    "label_prefers": 1,
+    "reward_label_agree": true
+  },
+  {
+    "sample_idx": 56,
+    "caption": "painting of a beautiful woman, painted by van Gogh, starry night",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.0120849609375,
+        "label": 0.0,
+        "model": "SDXL-BETA",
+        "image_uid": "6f2a4f53-8f1b-4d78-8a93-7ceb4981f1d4",
+        "is_best": false
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.0208740234375,
+        "label": 1.0,
+        "model": "DP2.0",
+        "image_uid": "6c85c737-d256-47b9-a725-43e6eebf1168",
+        "is_best": true
+      }
+    ],
+    "label_0": 0.0,
+    "label_1": 1.0,
+    "reward_score_0": -0.0120849609375,
+    "reward_score_1": -0.0208740234375,
+    "reward_prefers": 0,
+    "label_prefers": 1,
+    "reward_label_agree": false
+  },
+  {
+    "sample_idx": 58,
+    "caption": "a spaceship sprite on a flat background",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.0107421875,
+        "label": 1.0,
+        "model": "DP2.0",
+        "image_uid": "94513eaf-97e9-48e3-89ec-80003897fa8d",
+        "is_best": true
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.01348876953125,
+        "label": 0.0,
+        "model": "SD2.1",
+        "image_uid": "621c3a56-da2b-4d48-b385-4a4c0f531160",
+        "is_best": false
+      }
+    ],
+    "label_0": 1.0,
+    "label_1": 0.0,
+    "reward_score_0": -0.0107421875,
+    "reward_score_1": -0.01348876953125,
+    "reward_prefers": 0,
+    "label_prefers": 0,
+    "reward_label_agree": true
+  },
+  {
+    "sample_idx": 59,
+    "caption": "fantasy art of a huntress shooting a bow",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.0164794921875,
+        "label": 1.0,
+        "model": "SDXL-BETA",
+        "image_uid": "d182ddbd-900a-4863-91f9-ed44949ed3da",
+        "is_best": true
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.00970458984375,
+        "label": 0.0,
+        "model": "DP2.0",
+        "image_uid": "ec0fcdca-5627-4e21-a1de-b2fd10de0ff5",
+        "is_best": false
+      }
+    ],
+    "label_0": 1.0,
+    "label_1": 0.0,
+    "reward_score_0": -0.0164794921875,
+    "reward_score_1": -0.00970458984375,
+    "reward_prefers": 1,
+    "label_prefers": 0,
+    "reward_label_agree": false
+  },
+  {
+    "sample_idx": 60,
+    "caption": "cinematic still of highly reflective stainless steel train in the desert, at sunset",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.01446533203125,
+        "label": 0.0,
+        "model": "SDXL-BETA",
+        "image_uid": "78678e12-5ddc-4f87-968d-0b7e1e0c2092",
+        "is_best": false
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.01556396484375,
+        "label": 1.0,
+        "model": "DP2.0",
+        "image_uid": "5a9068f6-1218-4037-8fd5-1e307a3946c0",
+        "is_best": true
+      }
+    ],
+    "label_0": 0.0,
+    "label_1": 1.0,
+    "reward_score_0": -0.01446533203125,
+    "reward_score_1": -0.01556396484375,
+    "reward_prefers": 0,
+    "label_prefers": 1,
+    "reward_label_agree": false
+  },
+  {
+    "sample_idx": 62,
+    "caption": "the text \"brendan\"",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.00138092041015625,
+        "label": 1.0,
+        "model": "SDXL-ALPHA",
+        "image_uid": "207e960c-8477-4ab8-a568-16c550811901",
+        "is_best": true
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.0010528564453125,
+        "label": 0.0,
+        "model": "SDXL-BETA",
+        "image_uid": "46cb417f-ea9d-4834-932d-979cad171f21",
+        "is_best": false
+      }
+    ],
+    "label_0": 1.0,
+    "label_1": 0.0,
+    "reward_score_0": -0.00138092041015625,
+    "reward_score_1": -0.0010528564453125,
+    "reward_prefers": 1,
+    "label_prefers": 0,
+    "reward_label_agree": false
+  },
+  {
+    "sample_idx": 63,
+    "caption": "Photo of a cat eating a burger like a person",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.0223388671875,
+        "label": 1.0,
+        "model": "DP2.0",
+        "image_uid": "0d705ef0-c948-407a-a39d-e3720005d9f5",
+        "is_best": true
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.033203125,
+        "label": 0.0,
+        "model": "SDXL-BETA",
+        "image_uid": "be6205ef-a001-44b1-947c-d9cdd95f16d6",
+        "is_best": false
+      }
+    ],
+    "label_0": 1.0,
+    "label_1": 0.0,
+    "reward_score_0": -0.0223388671875,
+    "reward_score_1": -0.033203125,
+    "reward_prefers": 0,
+    "label_prefers": 0,
+    "reward_label_agree": true
+  },
+  {
+    "sample_idx": 65,
+    "caption": "Drumset",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.002227783203125,
+        "label": 1.0,
+        "model": "DP2.0",
+        "image_uid": "26a924a7-20cd-48b2-b3fe-38faa6a5c1df",
+        "is_best": true
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.01202392578125,
+        "label": 0.0,
+        "model": "SDXL-BETA",
+        "image_uid": "b922bfcc-c16b-4952-a1d4-b7e10e80f0af",
+        "is_best": false
+      }
+    ],
+    "label_0": 1.0,
+    "label_1": 0.0,
+    "reward_score_0": -0.002227783203125,
+    "reward_score_1": -0.01202392578125,
+    "reward_prefers": 0,
+    "label_prefers": 0,
+    "reward_label_agree": true
+  },
+  {
+    "sample_idx": 66,
+    "caption": "A photo of a tree with eggs growing on it",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.0257568359375,
+        "label": 1.0,
+        "model": "SDXL-ALPHA",
+        "image_uid": "9061d8fe-0180-4223-b8f6-571d815d2503",
+        "is_best": true
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.0206298828125,
+        "label": 0.0,
+        "model": "SDXL-BETA",
+        "image_uid": "71b04d64-06ac-4359-b818-2fbcd3e9bb9d",
+        "is_best": false
+      }
+    ],
+    "label_0": 1.0,
+    "label_1": 0.0,
+    "reward_score_0": -0.0257568359375,
+    "reward_score_1": -0.0206298828125,
+    "reward_prefers": 1,
+    "label_prefers": 0,
+    "reward_label_agree": false
+  },
+  {
+    "sample_idx": 67,
+    "caption": "Picture of Gal gadot's face with Lanah Rhoades's body, showing entire body with legs spreaded dripping",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.01495361328125,
+        "label": 1.0,
+        "model": "DP2.0",
+        "image_uid": "a5bfc5f7-058f-46aa-8881-eefb2c313a88",
+        "is_best": true
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.0067138671875,
+        "label": 0.0,
+        "model": "SDXL-BETA",
+        "image_uid": "d62cdaea-d9e2-4f8b-b141-c951ee79678d",
+        "is_best": false
+      }
+    ],
+    "label_0": 1.0,
+    "label_1": 0.0,
+    "reward_score_0": -0.01495361328125,
+    "reward_score_1": -0.0067138671875,
+    "reward_prefers": 1,
+    "label_prefers": 0,
+    "reward_label_agree": false
+  },
+  {
+    "sample_idx": 68,
+    "caption": "In the foreground, a man stands upon a rocky precipice with his back to the viewer. He is wrapped in a dark green overcoat, and grips a walking stick in his right hand. His hair caught in a wind, the wanderer gazes out on a landscape covered in a thick sea of fog. In the middle ground, several other ridges, perhaps not unlike the ones the wanderer himself stands upon, jut out from the mass. Through the wreaths of fog, forests of trees can be perceived atop these escarpments. In the far distance, faded mountains rise in the left, gently leveling off into lowland plains in the right. Beyond here, the pervading fog stretches out indefinitely, eventually commingling with the horizon and becoming indistinguishable from the cloud-filled sky.",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.00122833251953125,
+        "label": 1.0,
+        "model": "SDXL-BETA",
+        "image_uid": "7b9b0365-b180-4494-b538-ee126770b9f9",
+        "is_best": true
+      },
+      {
+        "image_idx": 1,
+        "reward_score": 0.00323486328125,
+        "label": 0.0,
+        "model": "SDXL-ALPHA",
+        "image_uid": "f6c4257f-7afc-4c2e-9fa8-651d9e02ed1c",
+        "is_best": false
+      }
+    ],
+    "label_0": 1.0,
+    "label_1": 0.0,
+    "reward_score_0": -0.00122833251953125,
+    "reward_score_1": 0.00323486328125,
+    "reward_prefers": 1,
+    "label_prefers": 0,
+    "reward_label_agree": false
+  },
+  {
+    "sample_idx": 70,
+    "caption": "Photo dog animal Vladimir volegov beautiful blonde freckles woman sensual  eating dining table food cake desert background glass translucent view Eiffel tower warm glow neon fireflies fireworks night",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.004669189453125,
+        "label": 0.0,
+        "model": "SDXL-BETA",
+        "image_uid": "5f1db84b-e359-4bdd-ab50-16d54b648d26",
+        "is_best": false
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.00830078125,
+        "label": 1.0,
+        "model": "DP2.0",
+        "image_uid": "970df0f6-d7d4-4cf8-977d-28b1abffa12e",
+        "is_best": true
+      }
+    ],
+    "label_0": 0.0,
+    "label_1": 1.0,
+    "reward_score_0": -0.004669189453125,
+    "reward_score_1": -0.00830078125,
+    "reward_prefers": 0,
+    "label_prefers": 1,
+    "reward_label_agree": false
+  },
+  {
+    "sample_idx": 72,
+    "caption": "mechanical bee flying in nature, electronics, motors, wires, buttons, lcd",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": 0.0014801025390625,
+        "label": 1.0,
+        "model": "DP2.0",
+        "image_uid": "a6c453f4-ff24-4fe4-bad9-d28956b77333",
+        "is_best": true
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.042236328125,
+        "label": 0.0,
+        "model": "SDXL-BETA",
+        "image_uid": "3fd4c281-82ab-4e5b-b155-f94d9f7792a2",
+        "is_best": false
+      }
+    ],
+    "label_0": 1.0,
+    "label_1": 0.0,
+    "reward_score_0": 0.0014801025390625,
+    "reward_score_1": -0.042236328125,
+    "reward_prefers": 0,
+    "label_prefers": 0,
+    "reward_label_agree": true
+  },
+  {
+    "sample_idx": 73,
+    "caption": "A beautiful gorgeous pretty ethereal you indian woman",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": 0.00439453125,
+        "label": 0.0,
+        "model": "SD2.1",
+        "image_uid": "0af57978-a0f9-46fd-84e1-091635a82903",
+        "is_best": false
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.00262451171875,
+        "label": 1.0,
+        "model": "DP2.0",
+        "image_uid": "66abe2ae-66e7-4b91-997b-39bd21b37bc7",
+        "is_best": true
+      }
+    ],
+    "label_0": 0.0,
+    "label_1": 1.0,
+    "reward_score_0": 0.00439453125,
+    "reward_score_1": -0.00262451171875,
+    "reward_prefers": 0,
+    "label_prefers": 1,
+    "reward_label_agree": false
+  },
+  {
+    "sample_idx": 78,
+    "caption": "Beautiful young girl in the pool",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.03173828125,
+        "label": 1.0,
+        "model": "SD2.1",
+        "image_uid": "cf67547f-3b5d-4c31-83db-374a6bd4130e",
+        "is_best": true
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.000644683837890625,
+        "label": 0.0,
+        "model": "DP2.0",
+        "image_uid": "46f571ed-d6c0-4a68-af09-5d2d1d360726",
+        "is_best": false
+      }
+    ],
+    "label_0": 1.0,
+    "label_1": 0.0,
+    "reward_score_0": -0.03173828125,
+    "reward_score_1": -0.000644683837890625,
+    "reward_prefers": 1,
+    "label_prefers": 0,
+    "reward_label_agree": false
+  },
+  {
+    "sample_idx": 79,
+    "caption": "Rachel Amber:1.5 wearing a black skirt. Thin body type, Young face, Sony Alpha A7 III, beautiful lighting and shadows, highly detailed, skin texture, skin pores, moles, wrinkles:0.1, muscle definition:0.2, perfect composition, beautiful face, beautiful eyes, highly detailed hair, professional, megapixel, RAW detail, UHD, Ray tracing, hair light, perfect pose",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": 0.00274658203125,
+        "label": 0.0,
+        "model": "SDXL-ALPHA",
+        "image_uid": "c57d585b-f013-41f3-9957-93686575e1b5",
+        "is_best": false
+      },
+      {
+        "image_idx": 1,
+        "reward_score": 0.0038909912109375,
+        "label": 1.0,
+        "model": "DP2.0",
+        "image_uid": "1bbd353f-9a4d-47c2-aac0-44d230448d12",
+        "is_best": true
+      }
+    ],
+    "label_0": 0.0,
+    "label_1": 1.0,
+    "reward_score_0": 0.00274658203125,
+    "reward_score_1": 0.0038909912109375,
+    "reward_prefers": 1,
+    "label_prefers": 1,
+    "reward_label_agree": true
+  },
+  {
+    "sample_idx": 80,
+    "caption": "An edge chronicles, ottaline house by Chris Riddell",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.01171875,
+        "label": 0.0,
+        "model": "DP2.0",
+        "image_uid": "753ba81d-a0fa-49f3-becb-4a219f72eef7",
+        "is_best": false
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.01190185546875,
+        "label": 1.0,
+        "model": "SDXL-BETA",
+        "image_uid": "5162d0ef-1aca-4519-9f77-e16eb28cb376",
+        "is_best": true
+      }
+    ],
+    "label_0": 0.0,
+    "label_1": 1.0,
+    "reward_score_0": -0.01171875,
+    "reward_score_1": -0.01190185546875,
+    "reward_prefers": 0,
+    "label_prefers": 1,
+    "reward_label_agree": false
+  },
+  {
+    "sample_idx": 82,
+    "caption": "Vampire having Tea with Frankenstein's Monster",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.0242919921875,
+        "label": 0.0,
+        "model": "DP2.0",
+        "image_uid": "b8269041-5b0a-436d-9a25-a33e3ddc3177",
+        "is_best": false
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.0166015625,
+        "label": 1.0,
+        "model": "SDXL-BETA-3",
+        "image_uid": "7e0aece4-6790-4118-8c72-dbdd796d8876",
+        "is_best": true
+      }
+    ],
+    "label_0": 0.0,
+    "label_1": 1.0,
+    "reward_score_0": -0.0242919921875,
+    "reward_score_1": -0.0166015625,
+    "reward_prefers": 1,
+    "label_prefers": 1,
+    "reward_label_agree": true
+  },
+  {
+    "sample_idx": 83,
+    "caption": "two porcelain dolls kissing each other, at the flea market, kissing on lips, sensible, eyes closed, close",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": 0.0028533935546875,
+        "label": 1.0,
+        "model": "DP2.0",
+        "image_uid": "b3655283-96dc-4637-9a46-6b042f5a8ba0",
+        "is_best": true
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.0091552734375,
+        "label": 0.0,
+        "model": "SD2.1",
+        "image_uid": "7594d741-8b91-4831-a495-5da002417b36",
+        "is_best": false
+      }
+    ],
+    "label_0": 1.0,
+    "label_1": 0.0,
+    "reward_score_0": 0.0028533935546875,
+    "reward_score_1": -0.0091552734375,
+    "reward_prefers": 0,
+    "label_prefers": 0,
+    "reward_label_agree": true
+  },
+  {
+    "sample_idx": 84,
+    "caption": "Most Expensive Sports Car",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.033935546875,
+        "label": 0.0,
+        "model": "DP2.0",
+        "image_uid": "864ea100-9e16-4846-a24d-b75a55ce0cac",
+        "is_best": false
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.04052734375,
+        "label": 1.0,
+        "model": "SDXL-BETA",
+        "image_uid": "4be26946-cc43-4d85-a088-5bc18441c68d",
+        "is_best": true
+      }
+    ],
+    "label_0": 0.0,
+    "label_1": 1.0,
+    "reward_score_0": -0.033935546875,
+    "reward_score_1": -0.04052734375,
+    "reward_prefers": 0,
+    "label_prefers": 1,
+    "reward_label_agree": false
+  },
+  {
+    "sample_idx": 85,
+    "caption": "art nouveau style, a crystal emperor moth with iridescent wings at the center of the universe with 7 Cosmic Rays emanating from it, futuristic, astrological, metaphysical, mystical, golden mean, HD 4K, sharp detail, photo-realistic",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.037353515625,
+        "label": 1.0,
+        "model": "DP2.0",
+        "image_uid": "9b0fb8c1-86ec-4750-b1cb-cd8c46dfa08f",
+        "is_best": true
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.060546875,
+        "label": 0.0,
+        "model": "SDXL-BETA",
+        "image_uid": "f5254120-c76d-4492-ae2b-289074fe3ca0",
+        "is_best": false
+      }
+    ],
+    "label_0": 1.0,
+    "label_1": 0.0,
+    "reward_score_0": -0.037353515625,
+    "reward_score_1": -0.060546875,
+    "reward_prefers": 0,
+    "label_prefers": 0,
+    "reward_label_agree": true
+  },
+  {
+    "sample_idx": 87,
+    "caption": "Black and white 1905 year futuristic portrait of professional photographer with camera in hand in a desert sadly covered by mushrooms",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.01287841796875,
+        "label": 0.0,
+        "model": "SDXL-BETA",
+        "image_uid": "b62d75ef-fe21-4d15-8f64-9fdf2be3c41f",
+        "is_best": false
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.010009765625,
+        "label": 1.0,
+        "model": "SDXL-ALPHA",
+        "image_uid": "0038ef70-f27c-4fd5-aa28-821793eb47dd",
+        "is_best": true
+      }
+    ],
+    "label_0": 0.0,
+    "label_1": 1.0,
+    "reward_score_0": -0.01287841796875,
+    "reward_score_1": -0.010009765625,
+    "reward_prefers": 1,
+    "label_prefers": 1,
+    "reward_label_agree": true
+  },
+  {
+    "sample_idx": 88,
+    "caption": "Olomouc",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": 0.01397705078125,
+        "label": 1.0,
+        "model": "SDXL-BETA",
+        "image_uid": "fc0f0fe9-537e-401c-acdb-e7dfc62208cb",
+        "is_best": true
+      },
+      {
+        "image_idx": 1,
+        "reward_score": 0.00982666015625,
+        "label": 0.0,
+        "model": "SDXL-ALPHA",
+        "image_uid": "e4ce3ecc-c232-484d-b23f-8fae6ef4aa9b",
+        "is_best": false
+      }
+    ],
+    "label_0": 1.0,
+    "label_1": 0.0,
+    "reward_score_0": 0.01397705078125,
+    "reward_score_1": 0.00982666015625,
+    "reward_prefers": 0,
+    "label_prefers": 0,
+    "reward_label_agree": true
+  },
+  {
+    "sample_idx": 89,
+    "caption": "An orange-furred squirrel holds a red apple in its paws and offers it to a blue-feathered bird that is perched on a branch next to the squirrel.",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.0157470703125,
+        "label": 1.0,
+        "model": "DP2.0",
+        "image_uid": "a34a8f2f-e3f5-42b7-9f18-cad076ad70bb",
+        "is_best": true
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.01129150390625,
+        "label": 0.0,
+        "model": "SD2.1",
+        "image_uid": "982396d9-7bad-46f7-bc15-24076b4de43c",
+        "is_best": false
+      }
+    ],
+    "label_0": 1.0,
+    "label_1": 0.0,
+    "reward_score_0": -0.0157470703125,
+    "reward_score_1": -0.01129150390625,
+    "reward_prefers": 1,
+    "label_prefers": 0,
+    "reward_label_agree": false
+  },
+  {
+    "sample_idx": 90,
+    "caption": "A curious cat exploring a haunted mansion",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.013427734375,
+        "label": 1.0,
+        "model": "SDXL-BETA",
+        "image_uid": "66bbfb20-fe57-4921-aede-6d8fb150199c",
+        "is_best": true
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.01318359375,
+        "label": 0.0,
+        "model": "DP2.0",
+        "image_uid": "b1b0398e-9030-4a79-ac05-dd1aff62c439",
+        "is_best": false
+      }
+    ],
+    "label_0": 1.0,
+    "label_1": 0.0,
+    "reward_score_0": -0.013427734375,
+    "reward_score_1": -0.01318359375,
+    "reward_prefers": 1,
+    "label_prefers": 0,
+    "reward_label_agree": false
+  },
+  {
+    "sample_idx": 91,
+    "caption": "Dragon, steampunk, monochromatic colour palette, painted by greg rutkowski, painted by igor kieryluk, painted by bobby chiu, trending on artstation",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.03173828125,
+        "label": 1.0,
+        "model": "DP2.0",
+        "image_uid": "dbb9d0d9-5d1a-45d2-b583-c3e350a35106",
+        "is_best": true
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.031494140625,
+        "label": 0.0,
+        "model": "SD2.1",
+        "image_uid": "1da6f42d-01a0-4d93-98f7-54c18e57648e",
+        "is_best": false
+      }
+    ],
+    "label_0": 1.0,
+    "label_1": 0.0,
+    "reward_score_0": -0.03173828125,
+    "reward_score_1": -0.031494140625,
+    "reward_prefers": 1,
+    "label_prefers": 0,
+    "reward_label_agree": false
+  },
+  {
+    "sample_idx": 95,
+    "caption": "Fru fru",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.0184326171875,
+        "label": 1.0,
+        "model": "DP2.0",
+        "image_uid": "9a8be82a-9d8f-48e8-b394-340b2d0303ca",
+        "is_best": true
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.00970458984375,
+        "label": 0.0,
+        "model": "SD2.1",
+        "image_uid": "329b997f-7f43-48c4-96ea-cf38f8e5b419",
+        "is_best": false
+      }
+    ],
+    "label_0": 1.0,
+    "label_1": 0.0,
+    "reward_score_0": -0.0184326171875,
+    "reward_score_1": -0.00970458984375,
+    "reward_prefers": 1,
+    "label_prefers": 0,
+    "reward_label_agree": false
+  },
+  {
+    "sample_idx": 96,
+    "caption": "flat design eye icon",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": 0.00102996826171875,
+        "label": 1.0,
+        "model": "SDXL-BETA",
+        "image_uid": "fb1df3c5-dde9-4f87-8607-cee159cbdd14",
+        "is_best": true
+      },
+      {
+        "image_idx": 1,
+        "reward_score": 0.005462646484375,
+        "label": 0.0,
+        "model": "SDXL-ALPHA",
+        "image_uid": "1f6d4cf3-fac6-42e0-9548-ca65067cc9da",
+        "is_best": false
+      }
+    ],
+    "label_0": 1.0,
+    "label_1": 0.0,
+    "reward_score_0": 0.00102996826171875,
+    "reward_score_1": 0.005462646484375,
+    "reward_prefers": 1,
+    "label_prefers": 0,
+    "reward_label_agree": false
+  },
+  {
+    "sample_idx": 97,
+    "caption": "background of a colorful giant mushroom forest in steven universe style",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.02490234375,
+        "label": 1.0,
+        "model": "SDXL-BETA",
+        "image_uid": "b60229b0-30f4-4c24-9ff7-5385f48c105f",
+        "is_best": true
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.020263671875,
+        "label": 0.0,
+        "model": "DP2.0",
+        "image_uid": "06edffe6-c573-4bd2-bc9e-c6436ec77d21",
+        "is_best": false
+      }
+    ],
+    "label_0": 1.0,
+    "label_1": 0.0,
+    "reward_score_0": -0.02490234375,
+    "reward_score_1": -0.020263671875,
+    "reward_prefers": 1,
+    "label_prefers": 0,
+    "reward_label_agree": false
+  },
+  {
+    "sample_idx": 98,
+    "caption": "cute anime neko cat girl",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.01068115234375,
+        "label": 0.0,
+        "model": "SDXL-BETA",
+        "image_uid": "8a78ada5-c32d-447f-b40f-b11176276b4d",
+        "is_best": false
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.004058837890625,
+        "label": 1.0,
+        "model": "DP2.0",
+        "image_uid": "6d5cfd6b-4589-4fc5-b02f-11fa38e3eeae",
+        "is_best": true
+      }
+    ],
+    "label_0": 0.0,
+    "label_1": 1.0,
+    "reward_score_0": -0.01068115234375,
+    "reward_score_1": -0.004058837890625,
+    "reward_prefers": 1,
+    "label_prefers": 1,
+    "reward_label_agree": true
+  },
+  {
+    "sample_idx": 99,
+    "caption": "a man sitting at his desk, with silhouettes of his inner demons behind him",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.005096435546875,
+        "label": 0.0,
+        "model": "SD2.1",
+        "image_uid": "525b4820-9a82-4246-9f72-1b237189e896",
+        "is_best": false
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.0235595703125,
+        "label": 1.0,
+        "model": "DP2.0",
+        "image_uid": "f465b3aa-ce26-446e-a20a-0e4586b3ee9d",
+        "is_best": true
+      }
+    ],
+    "label_0": 0.0,
+    "label_1": 1.0,
+    "reward_score_0": -0.005096435546875,
+    "reward_score_1": -0.0235595703125,
+    "reward_prefers": 0,
+    "label_prefers": 1,
+    "reward_label_agree": false
+  },
+  {
+    "sample_idx": 102,
+    "caption": "Olomouc",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": 0.0126953125,
+        "label": 0.0,
+        "model": "DP2.0",
+        "image_uid": "c310ed8c-01d0-492c-8414-ac5b0e6fd9af",
+        "is_best": false
+      },
+      {
+        "image_idx": 1,
+        "reward_score": 0.01397705078125,
+        "label": 1.0,
+        "model": "SDXL-BETA",
+        "image_uid": "fc0f0fe9-537e-401c-acdb-e7dfc62208cb",
+        "is_best": true
+      }
+    ],
+    "label_0": 0.0,
+    "label_1": 1.0,
+    "reward_score_0": 0.0126953125,
+    "reward_score_1": 0.01397705078125,
+    "reward_prefers": 1,
+    "label_prefers": 1,
+    "reward_label_agree": true
+  },
+  {
+    "sample_idx": 104,
+    "caption": "Astronaut",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.00396728515625,
+        "label": 1.0,
+        "model": "SDXL-BETA",
+        "image_uid": "dc9782a1-4120-4bdd-ab31-c076b5f7b34e",
+        "is_best": true
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.002471923828125,
+        "label": 0.0,
+        "model": "DP2.0",
+        "image_uid": "725f841b-7b7e-4372-af82-742c3e53a77b",
+        "is_best": false
+      }
+    ],
+    "label_0": 1.0,
+    "label_1": 0.0,
+    "reward_score_0": -0.00396728515625,
+    "reward_score_1": -0.002471923828125,
+    "reward_prefers": 1,
+    "label_prefers": 0,
+    "reward_label_agree": false
+  },
+  {
+    "sample_idx": 105,
+    "caption": "A beautiful woman standing in a dystopian city",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.0186767578125,
+        "label": 1.0,
+        "model": "DP2.0",
+        "image_uid": "1de8c101-7d18-45c9-90ad-6b27bc9b565f",
+        "is_best": true
+      },
+      {
+        "image_idx": 1,
+        "reward_score": 0.00909423828125,
+        "label": 0.0,
+        "model": "SDXL-ALPHA",
+        "image_uid": "ffcf8360-6613-43dc-8bde-21a96bcf8c35",
+        "is_best": false
+      }
+    ],
+    "label_0": 1.0,
+    "label_1": 0.0,
+    "reward_score_0": -0.0186767578125,
+    "reward_score_1": 0.00909423828125,
+    "reward_prefers": 1,
+    "label_prefers": 0,
+    "reward_label_agree": false
+  },
+  {
+    "sample_idx": 106,
+    "caption": "mario in prison",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.007781982421875,
+        "label": 0.0,
+        "model": "SDXL-ALPHA",
+        "image_uid": "59a04929-975a-4410-8c2e-b4aa3cf44597",
+        "is_best": false
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.003936767578125,
+        "label": 1.0,
+        "model": "DP2.0",
+        "image_uid": "5730c9f5-1a7e-4082-af7e-3513b1e0f69d",
+        "is_best": true
+      }
+    ],
+    "label_0": 0.0,
+    "label_1": 1.0,
+    "reward_score_0": -0.007781982421875,
+    "reward_score_1": -0.003936767578125,
+    "reward_prefers": 1,
+    "label_prefers": 1,
+    "reward_label_agree": true
+  },
+  {
+    "sample_idx": 108,
+    "caption": "A cat in a space suit walking on the moon",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.0174560546875,
+        "label": 1.0,
+        "model": "SDXL-BETA",
+        "image_uid": "3d46b6fc-f778-4f75-b878-182f1e257369",
+        "is_best": true
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.0198974609375,
+        "label": 0.0,
+        "model": "DP2.0",
+        "image_uid": "baa91d39-671d-44ce-a1cd-06fdb4b1baee",
+        "is_best": false
+      }
+    ],
+    "label_0": 1.0,
+    "label_1": 0.0,
+    "reward_score_0": -0.0174560546875,
+    "reward_score_1": -0.0198974609375,
+    "reward_prefers": 0,
+    "label_prefers": 0,
+    "reward_label_agree": true
+  },
+  {
+    "sample_idx": 111,
+    "caption": "A curious cat exploring a haunted mansion",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.0120849609375,
+        "label": 1.0,
+        "model": "SDXL-BETA-3",
+        "image_uid": "9fa2cbf6-f378-4874-a571-5bf185f1eb8b",
+        "is_best": true
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.022216796875,
+        "label": 0.0,
+        "model": "SDXL-BETA",
+        "image_uid": "ba0f8edd-7c4b-4e9f-97af-78547871b769",
+        "is_best": false
+      }
+    ],
+    "label_0": 1.0,
+    "label_1": 0.0,
+    "reward_score_0": -0.0120849609375,
+    "reward_score_1": -0.022216796875,
+    "reward_prefers": 0,
+    "label_prefers": 0,
+    "reward_label_agree": true
+  },
+  {
+    "sample_idx": 112,
+    "caption": "Some kind of psychedelic art masterpiece, in the style of an algorithm NVIDIA and GAN",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.0185546875,
+        "label": 0.0,
+        "model": "SDXL-BETA",
+        "image_uid": "a5fbf25f-c41b-43c2-add8-acee0e8d0df4",
+        "is_best": false
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.023193359375,
+        "label": 1.0,
+        "model": "DP2.0",
+        "image_uid": "cd2eed6b-8aea-40f1-a635-3cb9b4f1f460",
+        "is_best": true
+      }
+    ],
+    "label_0": 0.0,
+    "label_1": 1.0,
+    "reward_score_0": -0.0185546875,
+    "reward_score_1": -0.023193359375,
+    "reward_prefers": 0,
+    "label_prefers": 1,
+    "reward_label_agree": false
+  },
+  {
+    "sample_idx": 115,
+    "caption": "a monster made of a Xerox printer eating a tree in a forest",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.0123291015625,
+        "label": 1.0,
+        "model": "SDXL-ALPHA",
+        "image_uid": "48833973-df12-4261-8f1e-2fa64f90af45",
+        "is_best": true
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.01129150390625,
+        "label": 0.0,
+        "model": "DP2.0",
+        "image_uid": "bb1f76cf-5bcd-497e-bd4b-1dc422b4e596",
+        "is_best": false
+      }
+    ],
+    "label_0": 1.0,
+    "label_1": 0.0,
+    "reward_score_0": -0.0123291015625,
+    "reward_score_1": -0.01129150390625,
+    "reward_prefers": 1,
+    "label_prefers": 0,
+    "reward_label_agree": false
+  },
+  {
+    "sample_idx": 116,
+    "caption": "Hatsune Miku in Stranger things",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.0181884765625,
+        "label": 0.0,
+        "model": "SDXL-BETA",
+        "image_uid": "1aac5c45-f9ca-46c2-91cb-872a1687fb41",
+        "is_best": false
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.01263427734375,
+        "label": 1.0,
+        "model": "DP2.0",
+        "image_uid": "f640874a-86e4-41e5-b657-6181a912e12c",
+        "is_best": true
+      }
+    ],
+    "label_0": 0.0,
+    "label_1": 1.0,
+    "reward_score_0": -0.0181884765625,
+    "reward_score_1": -0.01263427734375,
+    "reward_prefers": 1,
+    "label_prefers": 1,
+    "reward_label_agree": true
+  },
+  {
+    "sample_idx": 117,
+    "caption": "An attractive and petite figure model with a mohawk",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.012451171875,
+        "label": 0.0,
+        "model": "SDXL-BETA",
+        "image_uid": "627c81c5-e76d-4062-9430-c3449bc52af8",
+        "is_best": false
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.0184326171875,
+        "label": 1.0,
+        "model": "DP2.0",
+        "image_uid": "ffe9240d-a83d-46f8-bb31-d4b958fcb4d8",
+        "is_best": true
+      }
+    ],
+    "label_0": 0.0,
+    "label_1": 1.0,
+    "reward_score_0": -0.012451171875,
+    "reward_score_1": -0.0184326171875,
+    "reward_prefers": 0,
+    "label_prefers": 1,
+    "reward_label_agree": false
+  },
+  {
+    "sample_idx": 118,
+    "caption": "A king playing smash with his servants",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.0262451171875,
+        "label": 0.0,
+        "model": "SDXL-ALPHA",
+        "image_uid": "549731d0-7731-447e-8bb3-f4f058c8c633",
+        "is_best": false
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.0196533203125,
+        "label": 1.0,
+        "model": "DP2.0",
+        "image_uid": "9f99a0c2-78f1-4f13-a647-fe0c25971ea9",
+        "is_best": true
+      }
+    ],
+    "label_0": 0.0,
+    "label_1": 1.0,
+    "reward_score_0": -0.0262451171875,
+    "reward_score_1": -0.0196533203125,
+    "reward_prefers": 1,
+    "label_prefers": 1,
+    "reward_label_agree": true
+  },
+  {
+    "sample_idx": 120,
+    "caption": "a girl deepthroating",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.006591796875,
+        "label": 1.0,
+        "model": "DP2.0",
+        "image_uid": "186eedb6-2ae6-466d-83a0-edeb1b9e6b2e",
+        "is_best": true
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.00099945068359375,
+        "label": 0.0,
+        "model": "SDXL-BETA",
+        "image_uid": "48396f7f-6940-48b3-a447-ab03afb4de66",
+        "is_best": false
+      }
+    ],
+    "label_0": 1.0,
+    "label_1": 0.0,
+    "reward_score_0": -0.006591796875,
+    "reward_score_1": -0.00099945068359375,
+    "reward_prefers": 1,
+    "label_prefers": 0,
+    "reward_label_agree": false
+  },
+  {
+    "sample_idx": 121,
+    "caption": "woodcut print giant octopus attacks pirate ship, ultra detailed",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": 0.007659912109375,
+        "label": 0.0,
+        "model": "DP2.0",
+        "image_uid": "4809f06a-5ea6-43a8-bd7b-0e1324a15e54",
+        "is_best": false
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.004486083984375,
+        "label": 1.0,
+        "model": "SDXL-BETA",
+        "image_uid": "6c80fcf6-ef36-47b6-ab80-c9daf1508f2e",
+        "is_best": true
+      }
+    ],
+    "label_0": 0.0,
+    "label_1": 1.0,
+    "reward_score_0": 0.007659912109375,
+    "reward_score_1": -0.004486083984375,
+    "reward_prefers": 0,
+    "label_prefers": 1,
+    "reward_label_agree": false
+  },
+  {
+    "sample_idx": 122,
+    "caption": "an evil spirit holding an orange cat in a dark room",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.0257568359375,
+        "label": 1.0,
+        "model": "DP2.0",
+        "image_uid": "766f3836-ecbc-4a56-b496-84cd3d0afbc8",
+        "is_best": true
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.0279541015625,
+        "label": 0.0,
+        "model": "SDXL-BETA",
+        "image_uid": "e9e4dd03-3267-4de9-a6a3-6e1eca6f0527",
+        "is_best": false
+      }
+    ],
+    "label_0": 1.0,
+    "label_1": 0.0,
+    "reward_score_0": -0.0257568359375,
+    "reward_score_1": -0.0279541015625,
+    "reward_prefers": 0,
+    "label_prefers": 0,
+    "reward_label_agree": true
+  },
+  {
+    "sample_idx": 123,
+    "caption": "woman realistic red skirt",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.00138092041015625,
+        "label": 1.0,
+        "model": "DP2.0",
+        "image_uid": "1e574012-bac8-470e-ae71-d9eac7f46126",
+        "is_best": true
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.01312255859375,
+        "label": 0.0,
+        "model": "SDXL-BETA",
+        "image_uid": "e6858bed-8809-42d3-90b1-9009fc1111e1",
+        "is_best": false
+      }
+    ],
+    "label_0": 1.0,
+    "label_1": 0.0,
+    "reward_score_0": -0.00138092041015625,
+    "reward_score_1": -0.01312255859375,
+    "reward_prefers": 0,
+    "label_prefers": 0,
+    "reward_label_agree": true
+  },
+  {
+    "sample_idx": 124,
+    "caption": "Letter 'C' made out of a motorcycle, cinematic, photorealistic, close-up view",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.0126953125,
+        "label": 1.0,
+        "model": "SDXL-BETA",
+        "image_uid": "d6968340-f5d5-49c6-b2d7-8d7fee6c64b5",
+        "is_best": true
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.01348876953125,
+        "label": 0.0,
+        "model": "DP2.0",
+        "image_uid": "73bfd4f9-8a52-4f95-b030-0ca9c0b43e0c",
+        "is_best": false
+      }
+    ],
+    "label_0": 1.0,
+    "label_1": 0.0,
+    "reward_score_0": -0.0126953125,
+    "reward_score_1": -0.01348876953125,
+    "reward_prefers": 0,
+    "label_prefers": 0,
+    "reward_label_agree": true
+  },
+  {
+    "sample_idx": 126,
+    "caption": "a closeup photo of a human hand",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.01312255859375,
+        "label": 1.0,
+        "model": "SD2.1",
+        "image_uid": "97bdce97-e2b0-49d7-9c5d-a0c3d049a02c",
+        "is_best": true
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.010498046875,
+        "label": 0.0,
+        "model": "DP2.0",
+        "image_uid": "1a5fdbc4-d38a-4e4a-ace5-74984bd4a670",
+        "is_best": false
+      }
+    ],
+    "label_0": 1.0,
+    "label_1": 0.0,
+    "reward_score_0": -0.01312255859375,
+    "reward_score_1": -0.010498046875,
+    "reward_prefers": 1,
+    "label_prefers": 0,
+    "reward_label_agree": false
+  },
+  {
+    "sample_idx": 128,
+    "caption": "cover, hyperdetailed painting, luminism, Bar lighting, complex, head and shoulders portrait, 4k resolution concept art portrait by Greg Rutkowski, Artgerm, WLOP, Alphonse Mucha",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.0208740234375,
+        "label": 0.0,
+        "model": "DP2.0",
+        "image_uid": "540bf88f-67d6-4ee6-b8a0-01b28cedfeaf",
+        "is_best": false
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.0064697265625,
+        "label": 1.0,
+        "model": "SDXL-BETA-3",
+        "image_uid": "de01ba22-c833-4ed7-8efb-0b246ee09024",
+        "is_best": true
+      }
+    ],
+    "label_0": 0.0,
+    "label_1": 1.0,
+    "reward_score_0": -0.0208740234375,
+    "reward_score_1": -0.0064697265625,
+    "reward_prefers": 1,
+    "label_prefers": 1,
+    "reward_label_agree": true
+  },
+  {
+    "sample_idx": 129,
+    "caption": "swirling water tornados epic fantasy",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": 0.005645751953125,
+        "label": 1.0,
+        "model": "DP2.0",
+        "image_uid": "d3831a3a-d3bd-471e-87d3-838ba751b112",
+        "is_best": true
+      },
+      {
+        "image_idx": 1,
+        "reward_score": 0.0106201171875,
+        "label": 0.0,
+        "model": "SDXL-BETA-3",
+        "image_uid": "b1b7a97d-72c6-4be1-95e3-7f61dbdaf75f",
+        "is_best": false
+      }
+    ],
+    "label_0": 1.0,
+    "label_1": 0.0,
+    "reward_score_0": 0.005645751953125,
+    "reward_score_1": 0.0106201171875,
+    "reward_prefers": 1,
+    "label_prefers": 0,
+    "reward_label_agree": false
+  },
+  {
+    "sample_idx": 130,
+    "caption": "woman sunbathing",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.0050048828125,
+        "label": 1.0,
+        "model": "DP2.0",
+        "image_uid": "b44ccc5a-c8bd-4be5-898c-2b02d93f968b",
+        "is_best": true
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.00567626953125,
+        "label": 0.0,
+        "model": "SD2.1",
+        "image_uid": "63ad1318-1c02-4281-ab79-b085563ec115",
+        "is_best": false
+      }
+    ],
+    "label_0": 1.0,
+    "label_1": 0.0,
+    "reward_score_0": -0.0050048828125,
+    "reward_score_1": -0.00567626953125,
+    "reward_prefers": 0,
+    "label_prefers": 0,
+    "reward_label_agree": true
+  },
+  {
+    "sample_idx": 132,
+    "caption": "Rainy evening outside the window, realistic photos,Rainy window, evening, blurred silhouettes outside the window",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.0111083984375,
+        "label": 1.0,
+        "model": "DP2.0",
+        "image_uid": "1870980a-d0b8-4e61-8d9f-7a536744e548",
+        "is_best": true
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.01708984375,
+        "label": 0.0,
+        "model": "SDXL-BETA",
+        "image_uid": "8e4de303-b6eb-40e8-a70b-5bea937bdfc4",
+        "is_best": false
+      }
+    ],
+    "label_0": 1.0,
+    "label_1": 0.0,
+    "reward_score_0": -0.0111083984375,
+    "reward_score_1": -0.01708984375,
+    "reward_prefers": 0,
+    "label_prefers": 0,
+    "reward_label_agree": true
+  },
+  {
+    "sample_idx": 133,
+    "caption": "A girl with long blonde hair and big eyes in the grass at sunset",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.039306640625,
+        "label": 1.0,
+        "model": "SDXL-ALPHA",
+        "image_uid": "af774870-debf-4912-a35a-612f009c4342",
+        "is_best": true
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.03662109375,
+        "label": 0.0,
+        "model": "SDXL-BETA",
+        "image_uid": "12eb6c38-c5c7-4cdd-a677-0e739df522bf",
+        "is_best": false
+      }
+    ],
+    "label_0": 1.0,
+    "label_1": 0.0,
+    "reward_score_0": -0.039306640625,
+    "reward_score_1": -0.03662109375,
+    "reward_prefers": 1,
+    "label_prefers": 0,
+    "reward_label_agree": false
+  },
+  {
+    "sample_idx": 135,
+    "caption": "3D Pac Man in real life",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.037109375,
+        "label": 0.0,
+        "model": "SDXL-ALPHA",
+        "image_uid": "8f1e01ba-84e3-4728-9178-51b18b11bda9",
+        "is_best": false
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.0284423828125,
+        "label": 1.0,
+        "model": "SDXL-BETA",
+        "image_uid": "ac5069ec-0dd9-47e7-a857-1de6a78f2526",
+        "is_best": true
+      }
+    ],
+    "label_0": 0.0,
+    "label_1": 1.0,
+    "reward_score_0": -0.037109375,
+    "reward_score_1": -0.0284423828125,
+    "reward_prefers": 1,
+    "label_prefers": 1,
+    "reward_label_agree": true
+  },
+  {
+    "sample_idx": 138,
+    "caption": "a cute tiger by lisa frank, 8k, high quality",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.0419921875,
+        "label": 0.0,
+        "model": "SDXL-ALPHA",
+        "image_uid": "bf59a254-c2a6-4251-8149-2d79aade1b5d",
+        "is_best": false
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.032958984375,
+        "label": 1.0,
+        "model": "DP2.0",
+        "image_uid": "52246d84-ecf6-4575-9fe3-1e9c6aec57c3",
+        "is_best": true
+      }
+    ],
+    "label_0": 0.0,
+    "label_1": 1.0,
+    "reward_score_0": -0.0419921875,
+    "reward_score_1": -0.032958984375,
+    "reward_prefers": 1,
+    "label_prefers": 1,
+    "reward_label_agree": true
+  },
+  {
+    "sample_idx": 139,
+    "caption": "a Chinese girlfriend",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.0098876953125,
+        "label": 0.0,
+        "model": "SD2.1",
+        "image_uid": "62d27075-1ead-471b-b619-0e327aad27e1",
+        "is_best": false
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.007568359375,
+        "label": 1.0,
+        "model": "DP2.0",
+        "image_uid": "38f6360e-7f85-4bf4-8293-7d3d24330b81",
+        "is_best": true
+      }
+    ],
+    "label_0": 0.0,
+    "label_1": 1.0,
+    "reward_score_0": -0.0098876953125,
+    "reward_score_1": -0.007568359375,
+    "reward_prefers": 1,
+    "label_prefers": 1,
+    "reward_label_agree": true
+  },
+  {
+    "sample_idx": 143,
+    "caption": "sorrowful man in the style of beksinski",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": 0.0003185272216796875,
+        "label": 0.0,
+        "model": "SDXL-BETA-3",
+        "image_uid": "ebaf5429-6e9c-452d-a79e-1cd5523256ca",
+        "is_best": false
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.0130615234375,
+        "label": 1.0,
+        "model": "DP2.0",
+        "image_uid": "a40b5a30-6d7a-493d-90fe-dccfb3a9fd81",
+        "is_best": true
+      }
+    ],
+    "label_0": 0.0,
+    "label_1": 1.0,
+    "reward_score_0": 0.0003185272216796875,
+    "reward_score_1": -0.0130615234375,
+    "reward_prefers": 0,
+    "label_prefers": 1,
+    "reward_label_agree": false
+  },
+  {
+    "sample_idx": 145,
+    "caption": "a red hair girl look at you，distant view",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.0118408203125,
+        "label": 1.0,
+        "model": "SDXL-BETA",
+        "image_uid": "d72b819e-e120-43bb-a337-0472a9d6fc6e",
+        "is_best": true
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.024658203125,
+        "label": 0.0,
+        "model": "SDXL-ALPHA",
+        "image_uid": "d77a9963-1a27-4053-8b0e-5daf3d6a18cd",
+        "is_best": false
+      }
+    ],
+    "label_0": 1.0,
+    "label_1": 0.0,
+    "reward_score_0": -0.0118408203125,
+    "reward_score_1": -0.024658203125,
+    "reward_prefers": 0,
+    "label_prefers": 0,
+    "reward_label_agree": true
+  },
+  {
+    "sample_idx": 146,
+    "caption": "mario in prison",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.007781982421875,
+        "label": 0.0,
+        "model": "SDXL-ALPHA",
+        "image_uid": "59a04929-975a-4410-8c2e-b4aa3cf44597",
+        "is_best": false
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.003936767578125,
+        "label": 1.0,
+        "model": "DP2.0",
+        "image_uid": "5730c9f5-1a7e-4082-af7e-3513b1e0f69d",
+        "is_best": true
+      }
+    ],
+    "label_0": 0.0,
+    "label_1": 1.0,
+    "reward_score_0": -0.007781982421875,
+    "reward_score_1": -0.003936767578125,
+    "reward_prefers": 1,
+    "label_prefers": 1,
+    "reward_label_agree": true
+  },
+  {
+    "sample_idx": 147,
+    "caption": "mario in prison",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.007781982421875,
+        "label": 0.0,
+        "model": "SDXL-ALPHA",
+        "image_uid": "59a04929-975a-4410-8c2e-b4aa3cf44597",
+        "is_best": false
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.003936767578125,
+        "label": 1.0,
+        "model": "DP2.0",
+        "image_uid": "5730c9f5-1a7e-4082-af7e-3513b1e0f69d",
+        "is_best": true
+      }
+    ],
+    "label_0": 0.0,
+    "label_1": 1.0,
+    "reward_score_0": -0.007781982421875,
+    "reward_score_1": -0.003936767578125,
+    "reward_prefers": 1,
+    "label_prefers": 1,
+    "reward_label_agree": true
+  },
+  {
+    "sample_idx": 148,
+    "caption": "A dog with a sign that reads \"Hello\"",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.0181884765625,
+        "label": 0.0,
+        "model": "DP2.0",
+        "image_uid": "cc083ea5-713a-4ce8-896c-25ca9ff30180",
+        "is_best": false
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.01287841796875,
+        "label": 1.0,
+        "model": "SDXL-BETA",
+        "image_uid": "c0a2dd61-ac91-4a72-b574-e33af70251d2",
+        "is_best": true
+      }
+    ],
+    "label_0": 0.0,
+    "label_1": 1.0,
+    "reward_score_0": -0.0181884765625,
+    "reward_score_1": -0.01287841796875,
+    "reward_prefers": 1,
+    "label_prefers": 1,
+    "reward_label_agree": true
+  },
+  {
+    "sample_idx": 149,
+    "caption": "cinematic still of highly reflective stainless steel train in the desert, at sunset",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.0205078125,
+        "label": 1.0,
+        "model": "SDXL-ALPHA",
+        "image_uid": "106e8646-7fcd-41fe-84fb-497b919d972c",
+        "is_best": true
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.011962890625,
+        "label": 0.0,
+        "model": "DP2.0",
+        "image_uid": "54edb6b6-cd4e-43f2-a3e7-5ac1bdbac49c",
+        "is_best": false
+      }
+    ],
+    "label_0": 1.0,
+    "label_1": 0.0,
+    "reward_score_0": -0.0205078125,
+    "reward_score_1": -0.011962890625,
+    "reward_prefers": 1,
+    "label_prefers": 0,
+    "reward_label_agree": false
+  },
+  {
+    "sample_idx": 152,
+    "caption": "A boss screaming at his employee for not working on the weekend by vincent van gogh",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.00421142578125,
+        "label": 0.0,
+        "model": "DP2.0",
+        "image_uid": "91624c79-5c81-47f2-832d-e14a8ec6fb0e",
+        "is_best": false
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.009033203125,
+        "label": 1.0,
+        "model": "SD2.1",
+        "image_uid": "988bd98b-a261-4b4d-97fd-1b25e95c2e8b",
+        "is_best": true
+      }
+    ],
+    "label_0": 0.0,
+    "label_1": 1.0,
+    "reward_score_0": -0.00421142578125,
+    "reward_score_1": -0.009033203125,
+    "reward_prefers": 0,
+    "label_prefers": 1,
+    "reward_label_agree": false
+  },
+  {
+    "sample_idx": 153,
+    "caption": "sci-fi architecture",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.00087738037109375,
+        "label": 0.0,
+        "model": "SDXL-BETA-3",
+        "image_uid": "9f2c2e80-0e97-4e45-8007-0942d3f45611",
+        "is_best": false
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.01019287109375,
+        "label": 1.0,
+        "model": "DP2.0",
+        "image_uid": "ec6ade75-c565-4bb6-8768-27fef321e7d3",
+        "is_best": true
+      }
+    ],
+    "label_0": 0.0,
+    "label_1": 1.0,
+    "reward_score_0": -0.00087738037109375,
+    "reward_score_1": -0.01019287109375,
+    "reward_prefers": 0,
+    "label_prefers": 1,
+    "reward_label_agree": false
+  },
+  {
+    "sample_idx": 155,
+    "caption": "jake gyllenhaall drinking an ice cold beer, painting by egon schiele",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.017578125,
+        "label": 1.0,
+        "model": "SDXL-BETA",
+        "image_uid": "bf83c831-ba91-43ca-afff-86001c60b3cd",
+        "is_best": true
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.0301513671875,
+        "label": 0.0,
+        "model": "SDXL-BETA-3",
+        "image_uid": "8b62704e-f742-4cd8-8ae2-ab8fd93cab09",
+        "is_best": false
+      }
+    ],
+    "label_0": 1.0,
+    "label_1": 0.0,
+    "reward_score_0": -0.017578125,
+    "reward_score_1": -0.0301513671875,
+    "reward_prefers": 0,
+    "label_prefers": 0,
+    "reward_label_agree": true
+  },
+  {
+    "sample_idx": 156,
+    "caption": "an attractive young woman rolling her eyes",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.01239013671875,
+        "label": 1.0,
+        "model": "DP2.0",
+        "image_uid": "bc984da9-35dc-4b33-9771-e6436d7d2424",
+        "is_best": true
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.01953125,
+        "label": 0.0,
+        "model": "SD2.1",
+        "image_uid": "437eb9a1-e1db-4590-ae44-5c9acd131042",
+        "is_best": false
+      }
+    ],
+    "label_0": 1.0,
+    "label_1": 0.0,
+    "reward_score_0": -0.01239013671875,
+    "reward_score_1": -0.01953125,
+    "reward_prefers": 0,
+    "label_prefers": 0,
+    "reward_label_agree": true
+  },
+  {
+    "sample_idx": 158,
+    "caption": "mario in prison",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.007781982421875,
+        "label": 0.0,
+        "model": "SDXL-ALPHA",
+        "image_uid": "59a04929-975a-4410-8c2e-b4aa3cf44597",
+        "is_best": false
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.003936767578125,
+        "label": 1.0,
+        "model": "DP2.0",
+        "image_uid": "5730c9f5-1a7e-4082-af7e-3513b1e0f69d",
+        "is_best": true
+      }
+    ],
+    "label_0": 0.0,
+    "label_1": 1.0,
+    "reward_score_0": -0.007781982421875,
+    "reward_score_1": -0.003936767578125,
+    "reward_prefers": 1,
+    "label_prefers": 1,
+    "reward_label_agree": true
+  },
+  {
+    "sample_idx": 159,
+    "caption": "anime pencil concept style",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.038818359375,
+        "label": 1.0,
+        "model": "SD2.1",
+        "image_uid": "c7a4e25f-c63f-4712-82be-e462df191872",
+        "is_best": true
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.03759765625,
+        "label": 0.0,
+        "model": "DP2.0",
+        "image_uid": "55f3cc7b-0f46-440d-8bd8-36dcf77e118d",
+        "is_best": false
+      }
+    ],
+    "label_0": 1.0,
+    "label_1": 0.0,
+    "reward_score_0": -0.038818359375,
+    "reward_score_1": -0.03759765625,
+    "reward_prefers": 1,
+    "label_prefers": 0,
+    "reward_label_agree": false
+  },
+  {
+    "sample_idx": 161,
+    "caption": "A close-up photograph of a fat orange cat with lasagna in its mouth. Shot on Leica M6.",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.0184326171875,
+        "label": 1.0,
+        "model": "DP2.0",
+        "image_uid": "8147e6a5-0107-4ae3-8555-be279f53d22b",
+        "is_best": true
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.0078125,
+        "label": 0.0,
+        "model": "SD2.1",
+        "image_uid": "e74a77a1-43b8-469e-9de0-43524dec3be0",
+        "is_best": false
+      }
+    ],
+    "label_0": 1.0,
+    "label_1": 0.0,
+    "reward_score_0": -0.0184326171875,
+    "reward_score_1": -0.0078125,
+    "reward_prefers": 1,
+    "label_prefers": 0,
+    "reward_label_agree": false
+  },
+  {
+    "sample_idx": 164,
+    "caption": "Most Expensive Sports Car",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.02392578125,
+        "label": 0.0,
+        "model": "SDXL-BETA",
+        "image_uid": "2a14317d-ba71-4187-8ea3-9fa7882b3e20",
+        "is_best": false
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.03271484375,
+        "label": 1.0,
+        "model": "DP2.0",
+        "image_uid": "2295775d-a4aa-4002-a25c-2137fad08c9e",
+        "is_best": true
+      }
+    ],
+    "label_0": 0.0,
+    "label_1": 1.0,
+    "reward_score_0": -0.02392578125,
+    "reward_score_1": -0.03271484375,
+    "reward_prefers": 0,
+    "label_prefers": 1,
+    "reward_label_agree": false
+  },
+  {
+    "sample_idx": 168,
+    "caption": "Animated, very, realistic, beautiful girl warrior , 4k, cyberpunk background, neurumancer settings, black sword, long silver hair, silver eyes, silver armor, futuristic",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.019775390625,
+        "label": 0.0,
+        "model": "SDXL-ALPHA",
+        "image_uid": "01889eaf-f70a-4d27-8e6a-8b231ba0ee32",
+        "is_best": false
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.01318359375,
+        "label": 1.0,
+        "model": "DP2.0",
+        "image_uid": "e843bd83-3d9a-4d70-b4f1-9f3bf2badf38",
+        "is_best": true
+      }
+    ],
+    "label_0": 0.0,
+    "label_1": 1.0,
+    "reward_score_0": -0.019775390625,
+    "reward_score_1": -0.01318359375,
+    "reward_prefers": 1,
+    "label_prefers": 1,
+    "reward_label_agree": true
+  },
+  {
+    "sample_idx": 169,
+    "caption": "a closeup photo of a human hand",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.0166015625,
+        "label": 1.0,
+        "model": "SD2.1",
+        "image_uid": "f22a3755-77ec-4abf-88b8-3f36c75b4333",
+        "is_best": true
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.015869140625,
+        "label": 0.0,
+        "model": "DP2.0",
+        "image_uid": "3004d3a8-72aa-48cd-8ac1-e389879f75e1",
+        "is_best": false
+      }
+    ],
+    "label_0": 1.0,
+    "label_1": 0.0,
+    "reward_score_0": -0.0166015625,
+    "reward_score_1": -0.015869140625,
+    "reward_prefers": 1,
+    "label_prefers": 0,
+    "reward_label_agree": false
+  },
+  {
+    "sample_idx": 170,
+    "caption": "A curious cat exploring a haunted mansion",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.0166015625,
+        "label": 0.0,
+        "model": "SDXL-BETA-3",
+        "image_uid": "c00ce6a3-a48c-410e-ba69-f4b8cb98af6f",
+        "is_best": false
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.013916015625,
+        "label": 1.0,
+        "model": "DP2.0",
+        "image_uid": "158ad0cd-eb6b-4b01-9cc2-b0b1e3e9496d",
+        "is_best": true
+      }
+    ],
+    "label_0": 0.0,
+    "label_1": 1.0,
+    "reward_score_0": -0.0166015625,
+    "reward_score_1": -0.013916015625,
+    "reward_prefers": 1,
+    "label_prefers": 1,
+    "reward_label_agree": true
+  },
+  {
+    "sample_idx": 171,
+    "caption": "monkey climbing a skyscraper",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.01513671875,
+        "label": 1.0,
+        "model": "DP2.0",
+        "image_uid": "91a88c19-459e-4848-9033-5e8f1614af08",
+        "is_best": true
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.0299072265625,
+        "label": 0.0,
+        "model": "SDXL-ALPHA",
+        "image_uid": "84d3aaa8-4bdc-4eae-a86d-545e76c1671b",
+        "is_best": false
+      }
+    ],
+    "label_0": 1.0,
+    "label_1": 0.0,
+    "reward_score_0": -0.01513671875,
+    "reward_score_1": -0.0299072265625,
+    "reward_prefers": 0,
+    "label_prefers": 0,
+    "reward_label_agree": true
+  },
+  {
+    "sample_idx": 172,
+    "caption": "anime fortnite character",
+    "images": [
+      {
+        "image_idx": 0,
+        "reward_score": -0.0223388671875,
+        "label": 1.0,
+        "model": "DP2.0",
+        "image_uid": "91ab28b3-ea30-4af1-98c8-80f635184e47",
+        "is_best": true
+      },
+      {
+        "image_idx": 1,
+        "reward_score": -0.0004177093505859375,
+        "label": 0.0,
+        "model": "SD2.1",
+        "image_uid": "e229af27-fb35-4e93-bc68-311af63d085f",
+        "is_best": false
+      }
+    ],
+    "label_0": 1.0,
+    "label_1": 0.0,
+    "reward_score_0": -0.0223388671875,
+    "reward_score_1": -0.0004177093505859375,
+    "reward_prefers": 1,
+    "label_prefers": 0,
+    "reward_label_agree": false
+  }
+]

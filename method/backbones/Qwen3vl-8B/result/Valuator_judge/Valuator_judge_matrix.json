@@ -1,0 +1,22 @@
+{
+  "Low-price": {
+    "overall": {
+      "Acc": 0.5647,
+      "NDCG@1": 0.9909,
+      "NDCG@3": 0.9921,
+      "Spearman_rho": -0.0394
+    },
+    "by_price_bin": {
+      "Low_rho": -0.1124,
+      "Mid_rho": -0.336,
+      "High_rho": 0.2565
+    },
+    "confidence": {
+      "Conf_TopGap": 0.3729,
+      "Conf_Disp": 0.4074
+    },
+    "price_error": {
+      "sMAPE": 0.8586
+    }
+  }
+}

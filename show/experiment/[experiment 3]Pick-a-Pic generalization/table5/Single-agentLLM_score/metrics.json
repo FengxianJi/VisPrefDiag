@@ -1,0 +1,34 @@
+{
+  "seed42": {
+    "pairwise_accuracy": 0.494,
+    "accuracy_excl_ties": 0.6482939632545932,
+    "tie_rate": 0.238,
+    "n_total": 500,
+    "n_correct": 247,
+    "n_ties": 119
+  },
+  "seed2024": {
+    "pairwise_accuracy": 0.534,
+    "accuracy_excl_ties": 0.6759493670886076,
+    "tie_rate": 0.21,
+    "n_total": 500,
+    "n_correct": 267,
+    "n_ties": 105
+  },
+  "seed7777": {
+    "pairwise_accuracy": 0.492,
+    "accuracy_excl_ties": 0.6490765171503958,
+    "tie_rate": 0.242,
+    "n_total": 500,
+    "n_correct": 246,
+    "n_ties": 121
+  },
+  "overall": {
+    "pairwise_accuracy": 0.5066666666666667,
+    "accuracy_excl_ties": 0.6577732824978656,
+    "tie_rate": 0.22999999999999998,
+    "n_total": 1500,
+    "n_correct": 760,
+    "n_ties": 345
+  }
+}

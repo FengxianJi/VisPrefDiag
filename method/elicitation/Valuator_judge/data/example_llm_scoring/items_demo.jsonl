@@ -1,0 +1,3 @@
+{"id": 1, "name": "Abstract Painting #001", "price": 100, "image_path": "data/images/001.jpg", "context": "Evaluate this artwork for modern office decoration", "style_tags": ["abstract", "minimalist"], "real_final_price": 120}
+{"id": 2, "name": "Landscape Photo #002", "price": 80, "image_path": "data/images/002.jpg", "context": "Evaluate this photograph for home living room", "style_tags": ["nature", "peaceful"], "real_final_price": 95}
+{"id": 3, "name": "Portrait Artwork #003", "price": 150, "image_path": "data/images/003.jpg", "context": "Evaluate this portrait for gallery exhibition", "style_tags": ["classic", "elegant"], "real_final_price": 180}

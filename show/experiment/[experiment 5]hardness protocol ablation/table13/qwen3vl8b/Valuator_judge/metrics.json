@@ -1,0 +1,105 @@
+{
+  "test": {
+    "prompts": {
+      "original": {
+        "recall_at_1": 0.4166666666666667,
+        "filter_at_1": 0.4166666666666667,
+        "n": 12
+      },
+      "alternative_1": {
+        "recall_at_1": 0.5,
+        "filter_at_1": 0.25,
+        "n": 12
+      },
+      "alternative_2": {
+        "recall_at_1": 0.3333333333333333,
+        "filter_at_1": 0.25,
+        "n": 12
+      },
+      "alternative_3": {
+        "recall_at_1": 0.5,
+        "filter_at_1": 0.25,
+        "n": 12
+      },
+      "alternative_4": {
+        "recall_at_1": 0.5,
+        "filter_at_1": 0.3333333333333333,
+        "n": 12
+      }
+    },
+    "average": {
+      "recall_at_1": 0.45,
+      "filter_at_1": 0.3
+    }
+  },
+  "test_1": {
+    "prompts": {
+      "original": {
+        "recall_at_1": 0.0,
+        "filter_at_1": 0.0,
+        "n": 0
+      },
+      "alternative_1": {
+        "recall_at_1": 0.0,
+        "filter_at_1": 0.0,
+        "n": 0
+      },
+      "alternative_2": {
+        "recall_at_1": 0.0,
+        "filter_at_1": 0.0,
+        "n": 0
+      },
+      "alternative_3": {
+        "recall_at_1": 0.0,
+        "filter_at_1": 0.0,
+        "n": 0
+      },
+      "alternative_4": {
+        "recall_at_1": 0.0,
+        "filter_at_1": 0.0,
+        "n": 0
+      }
+    },
+    "average": {
+      "recall_at_1": 0.0,
+      "filter_at_1": 0.0
+    }
+  },
+  "test_2": {
+    "prompts": {
+      "original": {
+        "recall_at_1": 0.0,
+        "filter_at_1": 0.0,
+        "n": 0
+      },
+      "alternative_1": {
+        "recall_at_1": 0.0,
+        "filter_at_1": 0.0,
+        "n": 0
+      },
+      "alternative_2": {
+        "recall_at_1": 0.0,
+        "filter_at_1": 0.0,
+        "n": 0
+      },
+      "alternative_3": {
+        "recall_at_1": 0.0,
+        "filter_at_1": 0.0,
+        "n": 0
+      },
+      "alternative_4": {
+        "recall_at_1": 0.0,
+        "filter_at_1": 0.0,
+        "n": 0
+      }
+    },
+    "average": {
+      "recall_at_1": 0.0,
+      "filter_at_1": 0.0
+    }
+  },
+  "overall_average": {
+    "recall_at_1": 0.45,
+    "filter_at_1": 0.3
+  }
+}

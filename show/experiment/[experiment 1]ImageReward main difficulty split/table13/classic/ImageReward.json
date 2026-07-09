@@ -1,0 +1,21 @@
+{
+  "test": {
+    "recall_at_1": 0.34120171673819744,
+    "filter_at_1": 0.388412017167382,
+    "total": 466
+  },
+  "test_1": {
+    "recall_at_1": 0.344,
+    "filter_at_1": 0.4,
+    "total": 250
+  },
+  "test_2": {
+    "recall_at_1": 0.33796296296296297,
+    "filter_at_1": 0.375,
+    "total": 216
+  },
+  "overall_average": {
+    "recall_at_1": 0.3409770677687702,
+    "filter_at_1": 0.3882851904837598
+  }
+}

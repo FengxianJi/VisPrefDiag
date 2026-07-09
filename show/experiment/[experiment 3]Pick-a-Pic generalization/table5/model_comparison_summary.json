@@ -1,0 +1,68 @@
+{
+  "dataset": "Pick-a-Pic Test Set",
+  "total_samples": 13296,
+  "models": [
+    {
+      "rank": 1,
+      "model": "PickScore_v1",
+      "accuracy": 71.92,
+      "correct": 9562,
+      "total": 13296,
+      "mean_score_0": 21.3741,
+      "mean_score_1": 21.0193,
+      "std_score_0": 1.3699,
+      "std_score_1": 1.4264
+    },
+    {
+      "rank": 2,
+      "model": "HPSv2",
+      "accuracy": 63.33,
+      "correct": 8420,
+      "total": 13296,
+      "mean_score_0": 0.2832,
+      "mean_score_1": 0.2773,
+      "std_score_0": 0.038,
+      "std_score_1": 0.0394
+    },
+    {
+      "rank": 3,
+      "model": "VQAScore",
+      "accuracy": 59.36,
+      "correct": 7892,
+      "total": 13296,
+      "mean_score_0": 0.7675,
+      "mean_score_1": 0.7362,
+      "std_score_0": 0.2109,
+      "std_score_1": 0.2359
+    },
+    {
+      "rank": 4,
+      "model": "CLIPScore",
+      "accuracy": 58.82,
+      "correct": 7821,
+      "total": 13296,
+      "mean_score_0": 0.8042,
+      "mean_score_1": 0.7958,
+      "std_score_0": 0.0957,
+      "std_score_1": 0.1002
+    },
+    {
+      "rank": 5,
+      "model": "NIMA",
+      "accuracy": 50.65,
+      "correct": 6735,
+      "total": 13296,
+      "mean_score_0": 5.5347,
+      "mean_score_1": 5.5296,
+      "std_score_0": 0.3021,
+      "std_score_1": 0.2978
+    }
+  ],
+  "key_findings": [
+    "PickScore_v1 achieves the highest accuracy (71.92%), 8.59pp above HPSv2",
+    "HPSv2 ranks second (63.33%), newly tested in this experiment",
+    "VQAScore and CLIPScore perform similarly (~59%), slightly above random",
+    "NIMA performs barely above random (50.65%)",
+    "21.26pp performance gap between best (PickScore_v1) and worst (NIMA)"
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "IQA": {
+    "test": {
+      "prompts": {
+        "original": {
+          "recall_at_1": 0.22746781115879827,
+          "filter_at_1": 0.23605150214592274,
+          "total": 466
+        },
+        "alternative_1": {
+          "recall_at_1": 0.22746781115879827,
+          "filter_at_1": 0.23605150214592274,
+          "total": 466
+        },
+        "alternative_2": {
+          "recall_at_1": 0.22746781115879827,
+          "filter_at_1": 0.23605150214592274,
+          "total": 466
+        },
+        "alternative_3": {
+          "recall_at_1": 0.22746781115879827,
+          "filter_at_1": 0.23605150214592274,
+          "total": 466
+        },
+        "alternative_4": {
+          "recall_at_1": 0.22746781115879827,
+          "filter_at_1": 0.23605150214592274,
+          "total": 466
+        }
+      },
+      "average": {
+        "recall_at_1": 0.22746781115879827,
+        "filter_at_1": 0.23605150214592274
+      }
+    },
+    "test_1": {
+      "prompts": {
+        "original": {
+          "recall_at_1": 0.22,
+          "filter_at_1": 0.248,
+          "total": 250
+        },
+        "alternative_1": {
+          "recall_at_1": 0.22,
+          "filter_at_1": 0.248,
+          "total": 250
+        },
+        "alternative_2": {
+          "recall_at_1": 0.22,
+          "filter_at_1": 0.248,
+          "total": 250
+        },
+        "alternative_3": {
+          "recall_at_1": 0.22,
+          "filter_at_1": 0.248,
+          "total": 250
+        },
+        "alternative_4": {
+          "recall_at_1": 0.22,
+          "filter_at_1": 0.248,
+          "total": 250
+        }
+      },
+      "average": {
+        "recall_at_1": 0.22,
+        "filter_at_1": 0.248
+      }
+    },
+    "test_2": {
+      "prompts": {
+        "original": {
+          "recall_at_1": 0.2361111111111111,
+          "filter_at_1": 0.2222222222222222,
+          "total": 216
+        },
+        "alternative_1": {
+          "recall_at_1": 0.2361111111111111,
+          "filter_at_1": 0.2222222222222222,
+          "total": 216
+        },
+        "alternative_2": {
+          "recall_at_1": 0.2361111111111111,
+          "filter_at_1": 0.2222222222222222,
+          "total": 216
+        },
+        "alternative_3": {
+          "recall_at_1": 0.2361111111111111,
+          "filter_at_1": 0.2222222222222222,
+          "total": 216
+        },
+        "alternative_4": {
+          "recall_at_1": 0.2361111111111111,
+          "filter_at_1": 0.2222222222222222,
+          "total": 216
+        }
+      },
+      "average": {
+        "recall_at_1": 0.2361111111111111,
+        "filter_at_1": 0.2222222222222222
+      }
+    },
+    "overall_average": {
+      "recall_at_1": 0.22785964075663645,
+      "filter_at_1": 0.23542457478938164
+    }
+  },
+  "IAA": {
+    "test": {
+      "prompts": {
+        "original": {
+          "recall_at_1": 0.22532188841201717,
+          "filter_at_1": 0.26180257510729615,
+          "total": 466
+        },
+        "alternative_1": {
+          "recall_at_1": 0.22532188841201717,
+          "filter_at_1": 0.26180257510729615,
+          "total": 466
+        },
+        "alternative_2": {
+          "recall_at_1": 0.22532188841201717,
+          "filter_at_1": 0.26180257510729615,
+          "total": 466
+        },
+        "alternative_3": {
+          "recall_at_1": 0.22532188841201717,
+          "filter_at_1": 0.26180257510729615,
+          "total": 466
+        },
+        "alternative_4": {
+          "recall_at_1": 0.22532188841201717,
+          "filter_at_1": 0.26180257510729615,
+          "total": 466
+        }
+      },
+      "average": {
+        "recall_at_1": 0.22532188841201717,
+        "filter_at_1": 0.26180257510729615
+      }
+    },
+    "test_1": {
+      "prompts": {
+        "original": {
+          "recall_at_1": 0.26,
+          "filter_at_1": 0.288,
+          "total": 250
+        },
+        "alternative_1": {
+          "recall_at_1": 0.26,
+          "filter_at_1": 0.288,
+          "total": 250
+        },
+        "alternative_2": {
+          "recall_at_1": 0.26,
+          "filter_at_1": 0.288,
+          "total": 250
+        },
+        "alternative_3": {
+          "recall_at_1": 0.26,
+          "filter_at_1": 0.288,
+          "total": 250
+        },
+        "alternative_4": {
+          "recall_at_1": 0.26,
+          "filter_at_1": 0.288,
+          "total": 250
+        }
+      },
+      "average": {
+        "recall_at_1": 0.26,
+        "filter_at_1": 0.288
+      }
+    },
+    "test_2": {
+      "prompts": {
+        "original": {
+          "recall_at_1": 0.18518518518518517,
+          "filter_at_1": 0.23148148148148148,
+          "total": 216
+        },
+        "alternative_1": {
+          "recall_at_1": 0.18518518518518517,
+          "filter_at_1": 0.23148148148148148,
+          "total": 216
+        },
+        "alternative_2": {
+          "recall_at_1": 0.18518518518518517,
+          "filter_at_1": 0.23148148148148148,
+          "total": 216
+        },
+        "alternative_3": {
+          "recall_at_1": 0.18518518518518517,
+          "filter_at_1": 0.23148148148148148,
+          "total": 216
+        },
+        "alternative_4": {
+          "recall_at_1": 0.18518518518518517,
+          "filter_at_1": 0.23148148148148148,
+          "total": 216
+        }
+      },
+      "average": {
+        "recall_at_1": 0.18518518518518517,
+        "filter_at_1": 0.23148148148148148
+      }
+    },
+    "overall_average": {
+      "recall_at_1": 0.2235023578657341,
+      "filter_at_1": 0.2604280188629259
+    }
+  }
+}

@@ -1,0 +1,82 @@
+\begin{table*}[!t]
+\centering
+\scriptsize
+\setlength{\tabcolsep}{2pt}
+\renewcommand{\arraystretch}{0.38}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{lcccccccccccc}
+\toprule
+\multirow{2}{*}{\textbf{Method}} & \multicolumn{3}{c}{\textbf{Overall} ($n=6399$ pairs)} & \multicolumn{3}{c}{\textbf{Hard} ($d{=}1$, $n=3134$)} & \multicolumn{3}{c}{\textbf{Mid} ($d{=}2$, $n=2063$)} & \multicolumn{3}{c}{\textbf{Easy} ($d{\geq}3$, $n=1202$)} \\
+\cmidrule(lr){2-4}\cmidrule(lr){5-7}\cmidrule(lr){8-10}\cmidrule(lr){11-13}
+ & \textbf{PairAcc}$\uparrow$ & \textbf{NormGap}$\uparrow$ & \textbf{AUROC}$\uparrow$ & \textbf{PairAcc}$\uparrow$ & \textbf{NormGap}$\uparrow$ & \textbf{AUROC}$\uparrow$ & \textbf{PairAcc}$\uparrow$ & \textbf{NormGap}$\uparrow$ & \textbf{AUROC}$\uparrow$ & \textbf{PairAcc}$\uparrow$ & \textbf{NormGap}$\uparrow$ & \textbf{AUROC}$\uparrow$ \\
+\midrule
+\textit{Random baseline} & \textit{50.00} & \textit{0.000} & \textit{50.00} & \textit{50.00} & \textit{0.000} & \textit{50.00} & \textit{50.00} & \textit{0.000} & \textit{50.00} & \textit{50.00} & \textit{0.000} & \textit{50.00} \\
+\midrule
+CLIPScore                    & 56.79 & 0.089 & 60.68 & 53.57 & 0.050 & 55.95 & 59.09 & 0.109 & 63.52 & 61.23 & 0.153 & 67.64 \\
+NIMA                         & 52.99 & 0.038 & 53.96 & 50.70 & 0.016 & 51.51 & 54.14 & 0.042 & 54.59 & 56.99 & 0.084 & 59.10 \\
+HPSv2                        & 66.06 & 0.193 & 71.75 & 60.56 & 0.117 & 64.18 & 68.06 & 0.219 & 74.47 & 76.96 & 0.350 & 84.42 \\
+PickScore                    & 62.73 & 0.157 & 67.97 & 58.49 & 0.099 & 61.77 & 63.65 & 0.169 & 69.71 & 72.21 & 0.286 & 79.62 \\
+ImageReward                  & 65.15 & 0.194 & 71.72 & 59.60 & 0.120 & 64.46 & 68.06 & 0.224 & 75.14 & 74.63 & 0.333 & 82.46 \\
+Q-Align (IQA)                & 54.60 & 0.061 & 56.91 & 52.58 & 0.039 & 54.14 & 55.31 & 0.064 & 57.62 & 58.65 & 0.115 & 62.75 \\
+Q-Align (IAA)                & 55.18 & 0.071 & 57.82 & 52.23 & 0.041 & 54.21 & 56.52 & 0.080 & 59.34 & 60.57 & 0.132 & 64.36 \\
+VQAscore                     & 56.52 & 0.080 & 59.18 & 54.44 & 0.049 & 55.81 & 57.83 & 0.092 & 60.66 & 59.73 & 0.142 & 65.20 \\
+\midrule
+\multicolumn{13}{c}{\textbf{Qwen3VL-4B}} \\
+\midrule
+Valuator                     & 60.56 & 0.139 & 65.58 & 56.54 & 0.090 & 61.52 & 62.34 & 0.156 & 67.18 & 67.97 & 0.239 & 71.70 \\
+Single-agent (Pair)          & 59.42 & 0.107 & 60.92 & 57.05 & 0.069 & 57.01 & 60.79 & 0.126 & 62.90 & 63.23 & 0.176 & 66.94 \\
+Single-agent (Price)         & 13.47 & 0.030 & 52.79 & 12.80 & 0.024 & 52.21 & 13.48 & 0.030 & 52.92 & 15.22 & 0.044 & 53.99 \\
+Budgeted Single-agent        & 27.82 & 0.100 & 58.79 & 25.78 & 0.066 & 55.98 & 29.04 & 0.112 & 59.97 & 31.03 & 0.167 & 63.77 \\
+Single-agent (LLM)           & 40.43 & 0.111 & 61.24 & 37.05 & 0.068 & 57.19 & 41.59 & 0.129 & 63.17 & 47.25 & 0.192 & 68.09 \\
+Valuator Judge               & 45.80 & 0.125 & 62.71 & 42.25 & 0.079 & 58.68 & 47.02 & 0.145 & 64.28 & 53.00 & 0.212 & 69.92 \\
+\midrule
+\multicolumn{13}{c}{\textbf{Qwen3VL-8B}} \\
+\midrule
+Valuator                     & 52.76 & 0.042 & 55.79 & 51.47 & 0.037 & 54.91 & 53.32 & 0.042 & 55.92 & 55.16 & 0.055 & 57.55 \\
+Single-agent (Pair)          & 62.88 & 0.149 & 65.90 & 58.17 & 0.088 & 59.51 & 65.63 & 0.178 & 68.91 & 70.47 & 0.258 & 75.98 \\
+Single-agent (Price)         & 14.69 & 0.040 & 54.26 & 13.18 & 0.024 & 52.71 & 15.27 & 0.043 & 54.38 & 17.64 & 0.078 & 58.00 \\
+Budgeted Single-agent        & 54.60 & 0.088 & 59.77 & 51.21 & 0.051 & 56.10 & 56.42 & 0.103 & 61.58 & 60.32 & 0.159 & 65.99 \\
+Single-agent (LLM)           & 30.49 & 0.020 & 51.96 & 29.77 & 0.019 & 51.89 & 31.12 & 0.021 & 52.13 & 31.28 & 0.023 & 51.77 \\
+Valuator Judge               & 49.04 & 0.114 & 61.72 & 45.10 & 0.067 & 56.64 & 48.48 & 0.125 & 69.07 & 60.00 & 0.215 & 66.67 \\
+\midrule
+\multicolumn{13}{c}{\textbf{Qwen3VL-30B}} \\
+\midrule
+Valuator                     & 42.12 & 0.307 & 83.11 & 34.08 & 0.201 & 77.95 & 45.32 & 0.350 & 85.07 & 57.57 & 0.507 & 91.00 \\
+Single-agent (Pair)          & 56.79 & 0.083 & 59.43 & 53.41 & 0.051 & 55.30 & 57.00 & 0.081 & 59.40 & 65.22 & 0.171 & 68.52 \\
+Single-agent (Price)         & 28.43 & 0.012 & 47.91 & 28.53 & 0.001 & 48.81 & 28.70 & 0.016 & 47.58 & 27.70 & 0.030 & 46.17 \\
+Budgeted Single-agent        & 59.74 & \textbf{0.453} & 88.00 & 38.49 & \textbf{0.265} & 71.73 & 72.91 & \textbf{0.584} & \textbf{95.36} & 92.53 & \textbf{0.718} & \textbf{99.72} \\
+Single-agent (LLM)           & 25.64 & 0.038 & 54.32 & 24.66 & 0.024 & 52.84 & 25.74 & 0.047 & 55.01 & 28.04 & 0.061 & 56.92 \\
+Valuator Judge               & 32.52 & 0.112 & 60.81 & 29.32 & 0.072 & 56.82 & 34.42 & 0.132 & 62.87 & 37.60 & 0.183 & 67.31 \\
+\midrule
+\multicolumn{13}{c}{\textbf{Kimi-K2.5}} \\
+\midrule
+Valuator                     & 46.29 & 0.058 & 56.75 & 44.83 & 0.039 & 54.75 & 47.02 & 0.075 & 58.50 & 48.84 & 0.076 & 58.86 \\
+Single-agent (Pair)          & 70.65 & 0.231 & 73.79 & 65.79 & 0.149 & 66.41 & 73.39 & 0.266 & 76.74 & 78.62 & 0.389 & 85.41 \\
+Single-agent (Price)         & 27.86 & 0.077 & 57.03 & 25.05 & 0.049 & 54.48 & 29.28 & 0.091 & 58.06 & 32.78 & 0.125 & 61.67 \\
+Budgeted Single-agent        & 41.18 & 0.031 & 41.77 & 40.46 & 0.013 & 47.40 & 41.83 & 0.037 & 39.05 & 41.93 & 0.070 & 32.99 \\
+Single-agent (LLM)           & 40.08 & 0.131 & 63.59 & 35.67 & 0.077 & 58.03 & 42.07 & 0.155 & 66.42 & 48.17 & 0.233 & 72.60 \\
+Valuator Judge               & 39.69 & 0.121 & 62.38 & 36.22 & 0.076 & 57.72 & 40.96 & 0.137 & 64.68 & 46.59 & 0.209 & 70.07 \\
+\midrule
+\multicolumn{13}{c}{\textbf{Gemini-3-Flash}} \\
+\midrule
+Valuator                     & 55.77 & 0.082 & 59.02 & 54.34 & 0.049 & 56.23 & 55.74 & 0.094 & 59.63 & 59.57 & 0.145 & 64.90 \\
+Single-agent (Pair)          & 65.71 & 0.180 & 69.14 & 60.66 & 0.113 & 62.45 & 67.77 & 0.197 & 70.65 & 75.37 & 0.326 & 81.80 \\
+Single-agent (Price)         & 50.71 & 0.083 & 58.97 & 47.93 & 0.048 & 55.31 & 51.77 & 0.096 & 60.24 & 56.16 & 0.151 & 66.28 \\
+Budgeted Single-agent        & 64.49 & 0.148 & 65.09 & 60.11 & 0.090 & 59.39 & 65.92 & 0.161 & 66.61 & 73.46 & 0.278 & 76.43 \\
+Single-agent (LLM)           & 54.56 & 0.128 & 64.55 & 51.12 & 0.076 & 59.29 & 55.16 & 0.145 & 66.07 & 62.48 & 0.238 & 74.55 \\
+Valuator Judge               & 61.07 & 0.157 & 67.91 & 57.12 & 0.095 & 61.71 & 62.29 & 0.178 & 70.02 & 69.30 & 0.284 & 79.09 \\
+\midrule
+\multicolumn{13}{c}{\textbf{Llama3.2V-11B}} \\
+\midrule
+Valuator                     & 49.67 & 0.129 & 64.57 & 46.86 & 0.082 & 61.81 & 52.00 & 0.150 & 66.22 & 53.00 & 0.215 & 68.36 \\
+Single-agent (Pair)          & \textbf{85.45} & 0.391 & \textbf{91.74} & \textbf{76.32} & 0.237 & \textbf{83.80} & \textbf{92.68} & 0.481 & 95.30 & \textbf{96.84} & 0.638 & 98.13 \\
+Single-agent (Price)         & 15.87 & 0.016 & 49.29 & 16.29 & 0.003 & 50.11 & 15.89 & 0.015 & 49.30 & 14.75 & 0.050 & 47.10 \\
+Budgeted Single-agent        & 29.04 & 0.047 & 64.60 & 24.76 & 0.020 & 62.73 & 31.07 & 0.057 & 65.57 & 36.69 & 0.103 & 67.50 \\
+Single-agent (LLM)           & 29.16 & 0.023 & 52.12 & 28.14 & 0.020 & 51.62 & 30.20 & 0.026 & 52.88 & 30.03 & 0.025 & 52.01 \\
+Valuator Judge               & 20.69 & 0.018 & 52.23 & 19.75 & 0.010 & 50.99 & 21.52 & 0.026 & 53.30 & 21.71 & 0.029 & 53.66 \\
+\bottomrule
+\end{tabular}
+}
+\caption{Pairwise performance by difficulty on ImageReward (test). Valid image pairs are grouped by human level gap $d(i,j)=|level_i-level_j|$ into Hard ($d=1$), Mid ($d=2$), and Easy ($d\geq3$). We report PairAcc, NormGap, and AUROC for each split. Best per column in bold. \textit{Caution:} the Llama3.2V-11B Single-agent (Pair) row is flagged by an order-template contamination diagnostic (monotonic saved ranks, low top-1, repeated position-like rankings), so its unusually high pairwise scores should be interpreted as potentially inflated rather than clean model gains.}
+\label{tab:table13}
+\end{table*}

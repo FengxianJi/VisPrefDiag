@@ -1,0 +1,22 @@
+{
+  "seed42": {
+    "pairwise_accuracy": 0.7,
+    "n_total": 500,
+    "n_correct": 350
+  },
+  "seed2024": {
+    "pairwise_accuracy": 0.674,
+    "n_total": 500,
+    "n_correct": 337
+  },
+  "seed7777": {
+    "pairwise_accuracy": 0.668,
+    "n_total": 500,
+    "n_correct": 334
+  },
+  "overall": {
+    "pairwise_accuracy": 0.6806666666666668,
+    "n_total": 1500,
+    "n_correct": 1021
+  }
+}

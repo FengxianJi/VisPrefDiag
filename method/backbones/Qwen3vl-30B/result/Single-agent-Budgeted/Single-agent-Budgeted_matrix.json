@@ -1,0 +1,122 @@
+{
+  "Low-price": {
+    "overall": {
+      "Acc": 0.4685,
+      "NDCG@1": 0.9923,
+      "NDCG@3": 0.9936,
+      "Spearman_rho": -0.4927
+    },
+    "by_price_bin": {
+      "Low_rho": -0.4732,
+      "Mid_rho": -0.5227,
+      "High_rho": -0.4928
+    },
+    "confidence": {
+      "Conf_TopGap": 0.8322,
+      "Conf_Disp": 0.9292
+    },
+    "price_error": {
+      "sMAPE": 1.7814
+    }
+  },
+  "Mid-price": {
+    "overall": {
+      "Acc": 0.3333,
+      "NDCG@1": 0.9947,
+      "NDCG@3": 0.9962,
+      "Spearman_rho": -0.4871
+    },
+    "by_price_bin": {
+      "Low_rho": -0.4221,
+      "Mid_rho": -0.4525,
+      "High_rho": -0.5616
+    },
+    "confidence": {
+      "Conf_TopGap": 0.9167,
+      "Conf_Disp": 0.9678
+    },
+    "price_error": {
+      "sMAPE": 1.7942
+    }
+  },
+  "High-price": {
+    "overall": {
+      "Acc": 0.1795,
+      "NDCG@1": 0.9888,
+      "NDCG@3": 0.9917,
+      "Spearman_rho": -0.626
+    },
+    "by_price_bin": {
+      "Low_rho": -0.4916,
+      "Mid_rho": -0.6598,
+      "High_rho": -0.7078
+    },
+    "confidence": {
+      "Conf_TopGap": 0.8974,
+      "Conf_Disp": 0.9446
+    },
+    "price_error": {
+      "sMAPE": 1.7169
+    }
+  },
+  "Near-Tie-low": {
+    "overall": {
+      "Acc": 0.6792,
+      "NDCG@1": 1.0,
+      "NDCG@3": 1.0,
+      "Spearman_rho": 0.0
+    },
+    "by_price_bin": {
+      "Low_rho": 0.0,
+      "Mid_rho": 0.0,
+      "High_rho": 0.0
+    },
+    "confidence": {
+      "Conf_TopGap": 0.6981,
+      "Conf_Disp": 0.8789
+    },
+    "price_error": {
+      "sMAPE": 1.7379
+    }
+  },
+  "Near-Tie-high": {
+    "overall": {
+      "Acc": 0.0189,
+      "NDCG@1": 0.9722,
+      "NDCG@3": 0.9779,
+      "Spearman_rho": -0.5914
+    },
+    "by_price_bin": {
+      "Low_rho": -0.4701,
+      "Mid_rho": -0.6461,
+      "High_rho": -0.661
+    },
+    "confidence": {
+      "Conf_TopGap": 0.9245,
+      "Conf_Disp": 0.9708
+    },
+    "price_error": {
+      "sMAPE": 1.7807
+    }
+  },
+  "Overall": {
+    "overall": {
+      "Acc": 0.3835,
+      "NDCG@1": 0.9925,
+      "NDCG@3": 0.9941,
+      "Spearman_rho": -0.5229
+    },
+    "by_price_bin": {
+      "Low_rho": -0.4927,
+      "Mid_rho": -0.4685,
+      "High_rho": -0.5727
+    },
+    "confidence": {
+      "Conf_TopGap": 0.8684,
+      "Conf_Disp": 0.9436
+    },
+    "price_error": {
+      "sMAPE": 1.776
+    }
+  }
+}

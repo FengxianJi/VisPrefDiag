@@ -1,0 +1,32 @@
+\begin{table}[t]
+\centering
+\scriptsize
+\setlength{\tabcolsep}{1.5pt}
+\renewcommand{\arraystretch}{0.8}
+\resizebox{\columnwidth}{!}{%
+\begin{tabular}{lcccc}
+\toprule
+\textbf{Method} & \shortstack{\textbf{Overall}\\($n=1492$)} & \shortstack{\textbf{Hard}\\($n=417$)} & \shortstack{\textbf{Mid}\\($n=476$)} & \shortstack{\textbf{Easy}\\($n=599$)} \\
+\midrule
+CLIPScore                & 61.33 & 50.12 & 59.66 & 70.45 \\
+NIMA                     & 48.86 & 47.72 & 51.05 & 47.91 \\
+HPSv2                    & 64.08 & \textbf{66.67} & 62.18 & 63.77 \\
+PickScore                & \textbf{74.66} & 60.67 & \textbf{69.33} & \textbf{88.65} \\
+ImageReward              & 59.99 & 50.84 & 56.51 & 69.12 \\
+RichHF                   & 51.88 & 51.56 & 46.43 & 56.43 \\
+Q-Align                  & 54.36 & 50.84 & 55.04 & 56.26 \\
+LLaVA-Reward             & 48.19 & 46.52 & 52.52 & 45.91 \\
+VQAScore                 & 60.05 & 52.52 & 55.88 & 68.61 \\
+\midrule
+Single-agent (Pair)      & 68.10 & 59.71 & 64.29 & 76.96 \\
+Single-agent             & 26.54 & 22.06 & 21.85 & 33.39 \\
+Single-agent (LLM)       & 50.54 & 41.73 & 45.17 & 60.93 \\
+Budgeted Single-agent    & 64.21 & 57.07 & 62.39 & 70.62 \\
+Valuator Judge           & 55.09 & 46.04 & 49.79 & 65.61 \\
+Valuator                 & 41.09 & 36.69 & 45.17 & 40.90 \\
+\bottomrule
+\end{tabular}
+}
+\caption{Pairwise performance on Pick-a-Pic by approximate difficulty. We report PairAcc for Overall, Hard, Mid, and Easy, where difficulty is defined by tertiles of the PickScore gap $\Delta s = |s_0-s_1|$. Best per column in \textbf{bold}.}
+\label{tab:pickapic_hard}
+\end{table}

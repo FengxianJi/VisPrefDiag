@@ -1,0 +1,17 @@
+{
+  "method": "Auction-arena-v6",
+  "total_valid": 1500,
+  "correct": 1014,
+  "ties": 0,
+  "accuracy": 67.6,
+  "tie_rate": 0.0,
+  "nontie_accuracy": 67.6,
+  "decision_sources": {
+    "quality_rank": 393,
+    "rank_consistent": 391,
+    "both_agree": 521,
+    "score_fallback": 195
+  },
+  "v5_accuracy": 66.4,
+  "improvement_pp": 1.2
+}
