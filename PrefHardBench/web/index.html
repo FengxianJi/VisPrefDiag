@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>PrefHardBench Annotation</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <main class="shell">
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">PrefHardBench</p>
+        <h1>Visual preference difficulty annotation</h1>
+      </div>
+      <div class="topbar-actions">
+        <a class="review-link" href="/?mode=review">Review existing annotations</a>
+        <div class="progress" id="progress">Loading...</div>
+      </div>
+    </header>
+
+    <section class="panel identity" id="identity-panel">
+      <label for="annotator-id">Anonymous annotator ID</label>
+      <div class="identity-row">
+        <input id="annotator-id" maxlength="80" autocomplete="off">
+        <button id="start-button" class="primary">Start</button>
+      </div>
+      <p class="muted">Use a stable anonymous ID for repeated sessions. Do not enter your name or email.</p>
+    </section>
+
+    <section class="panel instructions" id="instructions">
+      <h2>How to annotate</h2>
+      <p>Read the prompt and compare both images. First choose the image you prefer overall, or choose “Unable to decide”. Then rate how difficult it was to establish that preference. Difficulty is about the comparison, not image complexity.</p>
+      <div class="scale"><span><b>1</b> Very easy</span><span><b>3</b> Moderate</span><span><b>5</b> Very difficult</span></div>
+    </section>
+
+    <section class="panel task hidden" id="task">
+      <div class="task-meta"><span id="question-id"></span><span id="task-count"></span></div>
+      <div class="prompt-block">
+        <div class="label">Prompt</div>
+        <p id="prompt"></p>
+      </div>
+      <div class="image-grid">
+        <figure class="candidate"><img id="image-left" alt="Candidate A"><figcaption>Image A</figcaption></figure>
+        <figure class="candidate"><img id="image-right" alt="Candidate B"><figcaption>Image B</figcaption></figure>
+      </div>
+
+      <fieldset>
+        <legend>Which image do you prefer overall?</legend>
+        <div class="choice-row preference-row">
+          <button class="choice" data-preference="A">Image A</button>
+          <button class="choice" data-preference="B">Image B</button>
+          <button class="choice" data-preference="U">Unable to decide</button>
+        </div>
+      </fieldset>
+
+      <fieldset>
+        <legend>How difficult was it to determine which image was better overall?</legend>
+        <div class="rating-row" id="difficulty-row"></div>
+        <div class="rating-labels"><span>Very easy</span><span>Very difficult</span></div>
+      </fieldset>
+
+      <fieldset>
+        <legend>How confident are you in your response?</legend>
+        <div class="rating-row" id="confidence-row"></div>
+        <div class="rating-labels"><span>Not very confident</span><span>Very confident</span></div>
+      </fieldset>
+
+      <fieldset>
+        <legend id="reason-title">What best describes your comparison?</legend>
+        <div id="reason-options" class="reason-options"></div>
+      </fieldset>
+
+      <label class="note-label" for="note">Optional note about a concrete visual observation</label>
+      <textarea id="note" maxlength="1000" rows="2" placeholder="Optional"></textarea>
+      <div class="actions"><button id="submit-button" class="primary" disabled>Submit and continue</button></div>
+      <p class="error hidden" id="error"></p>
+    </section>
+
+    <section class="panel done hidden" id="done">
+      <h2>Annotation complete</h2>
+      <p>You have completed all questions assigned to this anonymous ID.</p>
+    </section>
+
+    <section class="panel review hidden" id="review">
+      <div class="task-meta"><span id="review-record"></span><span id="review-question"></span></div>
+      <div class="prompt-block">
+        <div class="label">Prompt</div>
+        <p id="review-prompt-en"></p>
+        <p id="review-prompt-zh" class="muted"></p>
+      </div>
+      <div class="image-grid">
+        <figure class="candidate"><img id="review-image-left" alt="Annotated image left"><figcaption>Image left</figcaption></figure>
+        <figure class="candidate"><img id="review-image-right" alt="Annotated image right"><figcaption>Image right</figcaption></figure>
+      </div>
+      <div class="review-result" id="review-result"></div>
+      <dl class="review-details">
+        <div><dt>Session</dt><dd id="review-session"></dd></div>
+        <div><dt>Slot</dt><dd id="review-slot"></dd></div>
+        <div><dt>Chosen</dt><dd id="review-chosen"></dd></div>
+        <div><dt>Rejected</dt><dd id="review-rejected"></dd></div>
+        <div><dt>Reason other</dt><dd id="review-reason-other"></dd></div>
+      </dl>
+      <div class="review-navigation">
+        <button id="review-prev">Previous</button>
+        <label for="review-index">Record</label>
+        <input id="review-index" type="number" min="1" value="1">
+        <button id="review-go">Go</button>
+        <button id="review-next" class="primary">Next</button>
+      </div>
+      <p class="error hidden" id="review-error"></p>
+    </section>
+  </main>
+  <script src="/static/app.js"></script>
+</body>
+</html>

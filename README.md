@@ -7,6 +7,10 @@ This directory is the cleaned project copy for the paper:
 ## Layout
 
 - `benchmark/`: benchmark metadata needed by the diagnostic scripts.
+- `PrefHardBench/`: newly annotated PrefHardBench data, including annotations and
+  the image files required to rerun the visual-preference experiments.
+- `experiments/qwen35_27b_migration/`: portable Qwen3.5-27B API evaluation logic
+  and resumable result checkpoints.
 - `method/`: evaluator and VLM-judge method code copied from `Valuator`.
 - `show/experiment/`: runnable or traceable experiment bundles, named with the requested `[experiment n]...` and `[phenomenon n]...` convention.
 - `show/figure/`: final paper figure assets only.
