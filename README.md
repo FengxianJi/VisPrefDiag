@@ -16,10 +16,6 @@ This directory is the cleaned project copy for the paper:
 - `show/figure/`: final paper figure assets only.
 - `show/tabel/`: final paper table assets only. The folder keeps the requested spelling `tabel`.
 
-## Copy Policy
-
-The source `Valuator` directory is left unchanged. This copy excludes raw ImageReward `.webp` image dumps, large zip archives, `.git`, `__pycache__`, `.log`, `.pid`, `.lock`, `.DS_Store`, and other runtime noise. Raw ImageReward images remain in `../Valuator/benchmark/ImageReward/` if needed for full reruns.
-
 ## Paper Mapping
 
 - Main Hard/Mid/Easy diagnostic: `show/experiment/[experiment 1]ImageReward main difficulty split`
